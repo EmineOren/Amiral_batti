@@ -1,0 +1,12 @@
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\bin\Debug\amiral_batti_oyunu.exe.config
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\bin\Debug\amiral_batti_oyunu.exe
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\bin\Debug\amiral_batti_oyunu.pdb
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.csprojAssemblyReference.cache
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.Properties.Resources.resources
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.csproj.GenerateResource.cache
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.exe
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.pdb
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.Form3.resources
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.Giriş_ekranı.resources
+C:\Users\Kullanici\Desktop\amiral_batti_oyunu\amiral_batti_oyunu\obj\Debug\amiral_batti_oyunu.oyuncu1.resources
