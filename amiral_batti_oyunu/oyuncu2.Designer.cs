@@ -274,19 +274,19 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.mayıng4_btn = new System.Windows.Forms.Button();
+            this.kruvazör3_btn = new System.Windows.Forms.Button();
+            this.kruvazör2_btn = new System.Windows.Forms.Button();
+            this.mayın1_btn = new System.Windows.Forms.Button();
             this.mayıng3_btn = new System.Windows.Forms.Button();
-            this.dnzaltı3_btn = new System.Windows.Forms.Button();
-            this.mayıng2_btn = new System.Windows.Forms.Button();
-            this.muhrip1_btn = new System.Windows.Forms.Button();
-            this.mayıng1_btn = new System.Windows.Forms.Button();
-            this.muhrip2_btn = new System.Windows.Forms.Button();
-            this.muhrip3_btn = new System.Windows.Forms.Button();
-            this.dnzaltı4_btn = new System.Windows.Forms.Button();
-            this.kruvazor2_btn = new System.Windows.Forms.Button();
-            this.kruvazor1_btn = new System.Windows.Forms.Button();
-            this.dnzaltı2_btn = new System.Windows.Forms.Button();
             this.amiral_btn = new System.Windows.Forms.Button();
-            this.dnzaltı_btn = new System.Windows.Forms.Button();
+            this.mayın3_btn = new System.Windows.Forms.Button();
+            this.mayıng2_btn = new System.Windows.Forms.Button();
+            this.mayıng1_btn = new System.Windows.Forms.Button();
+            this.kruvazör1_btn = new System.Windows.Forms.Button();
+            this.fırkateyn1_btn = new System.Windows.Forms.Button();
+            this.mayın2_btn = new System.Windows.Forms.Button();
+            this.fırkateyn2_btn = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -3092,169 +3092,170 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 16;
             this.listBox1.Items.AddRange(new object[] {
-            "3 adet mayın gemisi(2 karelik)",
-            "3 adet muhrip (2 karelik)",
-            "4 adet denizaltı(1 karelik)",
-            "2 adet kruvazör(3 karelik)",
-            "1 adet amiral(4 karelik)"});
+            "4 adet mayın gemisi(2 karelik)",
+            "2 adet fırkateyn (4 karelik)",
+            "3 adet kruvazör(3 karelik)",
+            "1 adet amiral(4 karelik)",
+            "3 adet mayın(1 karelik)"});
             this.listBox1.Location = new System.Drawing.Point(508, 83);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(210, 96);
             this.listBox1.TabIndex = 4;
             // 
+            // mayıng4_btn
+            // 
+            this.mayıng4_btn.BackColor = System.Drawing.Color.Black;
+            this.mayıng4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayıng4_btn.Location = new System.Drawing.Point(626, 437);
+            this.mayıng4_btn.Name = "mayıng4_btn";
+            this.mayıng4_btn.Size = new System.Drawing.Size(80, 38);
+            this.mayıng4_btn.TabIndex = 141;
+            this.mayıng4_btn.UseVisualStyleBackColor = false;
+            // 
+            // kruvazör3_btn
+            // 
+            this.kruvazör3_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör3_btn.ForeColor = System.Drawing.Color.Black;
+            this.kruvazör3_btn.Location = new System.Drawing.Point(498, 312);
+            this.kruvazör3_btn.Name = "kruvazör3_btn";
+            this.kruvazör3_btn.Size = new System.Drawing.Size(120, 37);
+            this.kruvazör3_btn.TabIndex = 138;
+            this.kruvazör3_btn.UseVisualStyleBackColor = false;
+            // 
+            // kruvazör2_btn
+            // 
+            this.kruvazör2_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör2_btn.ForeColor = System.Drawing.Color.Black;
+            this.kruvazör2_btn.Location = new System.Drawing.Point(498, 354);
+            this.kruvazör2_btn.Name = "kruvazör2_btn";
+            this.kruvazör2_btn.Size = new System.Drawing.Size(120, 37);
+            this.kruvazör2_btn.TabIndex = 140;
+            this.kruvazör2_btn.UseVisualStyleBackColor = false;
+            // 
+            // mayın1_btn
+            // 
+            this.mayın1_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın1_btn.Location = new System.Drawing.Point(497, 437);
+            this.mayın1_btn.Name = "mayın1_btn";
+            this.mayın1_btn.Size = new System.Drawing.Size(40, 38);
+            this.mayın1_btn.TabIndex = 130;
+            this.mayın1_btn.UseVisualStyleBackColor = false;
+            // 
             // mayıng3_btn
             // 
             this.mayıng3_btn.BackColor = System.Drawing.Color.Black;
             this.mayıng3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng3_btn.Location = new System.Drawing.Point(529, 224);
+            this.mayıng3_btn.Location = new System.Drawing.Point(622, 312);
             this.mayıng3_btn.Name = "mayıng3_btn";
-            this.mayıng3_btn.Size = new System.Drawing.Size(40, 76);
-            this.mayıng3_btn.TabIndex = 150;
+            this.mayıng3_btn.Size = new System.Drawing.Size(80, 38);
+            this.mayıng3_btn.TabIndex = 136;
             this.mayıng3_btn.UseVisualStyleBackColor = false;
-            // 
-            // dnzaltı3_btn
-            // 
-            this.dnzaltı3_btn.BackColor = System.Drawing.Color.Black;
-            this.dnzaltı3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.dnzaltı3_btn.Location = new System.Drawing.Point(621, 412);
-            this.dnzaltı3_btn.Name = "dnzaltı3_btn";
-            this.dnzaltı3_btn.Size = new System.Drawing.Size(40, 38);
-            this.dnzaltı3_btn.TabIndex = 136;
-            this.dnzaltı3_btn.UseVisualStyleBackColor = false;
-            // 
-            // mayıng2_btn
-            // 
-            this.mayıng2_btn.BackColor = System.Drawing.Color.Black;
-            this.mayıng2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng2_btn.Location = new System.Drawing.Point(529, 311);
-            this.mayıng2_btn.Name = "mayıng2_btn";
-            this.mayıng2_btn.Size = new System.Drawing.Size(40, 76);
-            this.mayıng2_btn.TabIndex = 143;
-            this.mayıng2_btn.UseVisualStyleBackColor = false;
-            // 
-            // muhrip1_btn
-            // 
-            this.muhrip1_btn.BackColor = System.Drawing.Color.Black;
-            this.muhrip1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.muhrip1_btn.Location = new System.Drawing.Point(621, 205);
-            this.muhrip1_btn.Name = "muhrip1_btn";
-            this.muhrip1_btn.Size = new System.Drawing.Size(40, 76);
-            this.muhrip1_btn.TabIndex = 155;
-            this.muhrip1_btn.UseVisualStyleBackColor = false;
-            this.muhrip1_btn.Click += new System.EventHandler(this.muhrip1_btn_Click);
-            // 
-            // mayıng1_btn
-            // 
-            this.mayıng1_btn.BackColor = System.Drawing.Color.Black;
-            this.mayıng1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng1_btn.Location = new System.Drawing.Point(575, 389);
-            this.mayıng1_btn.Name = "mayıng1_btn";
-            this.mayıng1_btn.Size = new System.Drawing.Size(40, 76);
-            this.mayıng1_btn.TabIndex = 153;
-            this.mayıng1_btn.UseVisualStyleBackColor = false;
-            // 
-            // muhrip2_btn
-            // 
-            this.muhrip2_btn.BackColor = System.Drawing.Color.Black;
-            this.muhrip2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.muhrip2_btn.ForeColor = System.Drawing.Color.Black;
-            this.muhrip2_btn.Location = new System.Drawing.Point(529, 395);
-            this.muhrip2_btn.Name = "muhrip2_btn";
-            this.muhrip2_btn.Size = new System.Drawing.Size(40, 76);
-            this.muhrip2_btn.TabIndex = 151;
-            this.muhrip2_btn.UseVisualStyleBackColor = false;
-            // 
-            // muhrip3_btn
-            // 
-            this.muhrip3_btn.BackColor = System.Drawing.Color.Black;
-            this.muhrip3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.muhrip3_btn.Location = new System.Drawing.Point(667, 205);
-            this.muhrip3_btn.Name = "muhrip3_btn";
-            this.muhrip3_btn.Size = new System.Drawing.Size(40, 76);
-            this.muhrip3_btn.TabIndex = 141;
-            this.muhrip3_btn.UseVisualStyleBackColor = false;
-            // 
-            // dnzaltı4_btn
-            // 
-            this.dnzaltı4_btn.BackColor = System.Drawing.Color.Black;
-            this.dnzaltı4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.dnzaltı4_btn.Location = new System.Drawing.Point(621, 457);
-            this.dnzaltı4_btn.Name = "dnzaltı4_btn";
-            this.dnzaltı4_btn.Size = new System.Drawing.Size(40, 38);
-            this.dnzaltı4_btn.TabIndex = 142;
-            this.dnzaltı4_btn.UseVisualStyleBackColor = false;
-            // 
-            // kruvazor2_btn
-            // 
-            this.kruvazor2_btn.BackColor = System.Drawing.Color.Black;
-            this.kruvazor2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.kruvazor2_btn.Location = new System.Drawing.Point(621, 292);
-            this.kruvazor2_btn.Name = "kruvazor2_btn";
-            this.kruvazor2_btn.Size = new System.Drawing.Size(40, 114);
-            this.kruvazor2_btn.TabIndex = 145;
-            this.kruvazor2_btn.UseVisualStyleBackColor = false;
-            // 
-            // kruvazor1_btn
-            // 
-            this.kruvazor1_btn.BackColor = System.Drawing.Color.Black;
-            this.kruvazor1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.kruvazor1_btn.Location = new System.Drawing.Point(667, 292);
-            this.kruvazor1_btn.Name = "kruvazor1_btn";
-            this.kruvazor1_btn.Size = new System.Drawing.Size(40, 114);
-            this.kruvazor1_btn.TabIndex = 137;
-            this.kruvazor1_btn.UseVisualStyleBackColor = false;
-            // 
-            // dnzaltı2_btn
-            // 
-            this.dnzaltı2_btn.BackColor = System.Drawing.Color.Black;
-            this.dnzaltı2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.dnzaltı2_btn.Location = new System.Drawing.Point(667, 463);
-            this.dnzaltı2_btn.Name = "dnzaltı2_btn";
-            this.dnzaltı2_btn.Size = new System.Drawing.Size(40, 38);
-            this.dnzaltı2_btn.TabIndex = 139;
-            this.dnzaltı2_btn.UseVisualStyleBackColor = false;
             // 
             // amiral_btn
             // 
             this.amiral_btn.BackColor = System.Drawing.Color.Black;
             this.amiral_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.amiral_btn.Location = new System.Drawing.Point(575, 217);
+            this.amiral_btn.Location = new System.Drawing.Point(498, 269);
             this.amiral_btn.Name = "amiral_btn";
-            this.amiral_btn.Size = new System.Drawing.Size(40, 151);
-            this.amiral_btn.TabIndex = 147;
+            this.amiral_btn.Size = new System.Drawing.Size(200, 36);
+            this.amiral_btn.TabIndex = 135;
             this.amiral_btn.UseVisualStyleBackColor = false;
             // 
-            // dnzaltı_btn
+            // mayın3_btn
             // 
-            this.dnzaltı_btn.BackColor = System.Drawing.Color.Black;
-            this.dnzaltı_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.dnzaltı_btn.Location = new System.Drawing.Point(667, 419);
-            this.dnzaltı_btn.Name = "dnzaltı_btn";
-            this.dnzaltı_btn.Size = new System.Drawing.Size(40, 38);
-            this.dnzaltı_btn.TabIndex = 133;
-            this.dnzaltı_btn.UseVisualStyleBackColor = false;
+            this.mayın3_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın3_btn.Location = new System.Drawing.Point(583, 437);
+            this.mayın3_btn.Name = "mayın3_btn";
+            this.mayın3_btn.Size = new System.Drawing.Size(40, 38);
+            this.mayın3_btn.TabIndex = 132;
+            this.mayın3_btn.UseVisualStyleBackColor = false;
+            // 
+            // mayıng2_btn
+            // 
+            this.mayıng2_btn.BackColor = System.Drawing.Color.Black;
+            this.mayıng2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayıng2_btn.Location = new System.Drawing.Point(621, 396);
+            this.mayıng2_btn.Name = "mayıng2_btn";
+            this.mayıng2_btn.Size = new System.Drawing.Size(80, 38);
+            this.mayıng2_btn.TabIndex = 133;
+            this.mayıng2_btn.UseVisualStyleBackColor = false;
+            // 
+            // mayıng1_btn
+            // 
+            this.mayıng1_btn.BackColor = System.Drawing.Color.Black;
+            this.mayıng1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayıng1_btn.Location = new System.Drawing.Point(622, 354);
+            this.mayıng1_btn.Name = "mayıng1_btn";
+            this.mayıng1_btn.Size = new System.Drawing.Size(80, 38);
+            this.mayıng1_btn.TabIndex = 139;
+            this.mayıng1_btn.UseVisualStyleBackColor = false;
+            // 
+            // kruvazör1_btn
+            // 
+            this.kruvazör1_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör1_btn.ForeColor = System.Drawing.Color.Black;
+            this.kruvazör1_btn.Location = new System.Drawing.Point(498, 395);
+            this.kruvazör1_btn.Name = "kruvazör1_btn";
+            this.kruvazör1_btn.Size = new System.Drawing.Size(120, 37);
+            this.kruvazör1_btn.TabIndex = 137;
+            this.kruvazör1_btn.UseVisualStyleBackColor = false;
+            // 
+            // fırkateyn1_btn
+            // 
+            this.fırkateyn1_btn.BackColor = System.Drawing.Color.Black;
+            this.fırkateyn1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.fırkateyn1_btn.Location = new System.Drawing.Point(498, 227);
+            this.fırkateyn1_btn.Name = "fırkateyn1_btn";
+            this.fırkateyn1_btn.Size = new System.Drawing.Size(200, 36);
+            this.fırkateyn1_btn.TabIndex = 134;
+            this.fırkateyn1_btn.UseVisualStyleBackColor = false;
+            // 
+            // mayın2_btn
+            // 
+            this.mayın2_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın2_btn.Location = new System.Drawing.Point(540, 437);
+            this.mayın2_btn.Name = "mayın2_btn";
+            this.mayın2_btn.Size = new System.Drawing.Size(40, 38);
+            this.mayın2_btn.TabIndex = 129;
+            this.mayın2_btn.UseVisualStyleBackColor = false;
+            // 
+            // fırkateyn2_btn
+            // 
+            this.fırkateyn2_btn.BackColor = System.Drawing.Color.Black;
+            this.fırkateyn2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.fırkateyn2_btn.Location = new System.Drawing.Point(499, 185);
+            this.fırkateyn2_btn.Name = "fırkateyn2_btn";
+            this.fırkateyn2_btn.Size = new System.Drawing.Size(200, 36);
+            this.fırkateyn2_btn.TabIndex = 131;
+            this.fırkateyn2_btn.UseVisualStyleBackColor = false;
             // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1256, 536);
-            this.Controls.Add(this.dnzaltı3_btn);
+            this.Controls.Add(this.mayıng4_btn);
+            this.Controls.Add(this.kruvazör3_btn);
+            this.Controls.Add(this.kruvazör2_btn);
+            this.Controls.Add(this.mayın1_btn);
             this.Controls.Add(this.mayıng3_btn);
-            this.Controls.Add(this.listBox1);
-            this.Controls.Add(this.mayıng1_btn);
-            this.Controls.Add(this.mayıng2_btn);
-            this.Controls.Add(this.dnzaltı4_btn);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.dnzaltı2_btn);
-            this.Controls.Add(this.muhrip2_btn);
-            this.Controls.Add(this.panel2);
             this.Controls.Add(this.amiral_btn);
-            this.Controls.Add(this.muhrip1_btn);
-            this.Controls.Add(this.kruvazor2_btn);
-            this.Controls.Add(this.kruvazor1_btn);
-            this.Controls.Add(this.muhrip3_btn);
-            this.Controls.Add(this.dnzaltı_btn);
+            this.Controls.Add(this.mayın3_btn);
+            this.Controls.Add(this.mayıng2_btn);
+            this.Controls.Add(this.mayıng1_btn);
+            this.Controls.Add(this.kruvazör1_btn);
+            this.Controls.Add(this.fırkateyn1_btn);
+            this.Controls.Add(this.mayın2_btn);
+            this.Controls.Add(this.fırkateyn2_btn);
+            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.panel2);
             this.Name = "Form3";
             this.Text = "Form3";
             this.Load += new System.EventHandler(this.Form3_Load);
@@ -3413,32 +3414,19 @@
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Button mayıng3_btn;
-        private System.Windows.Forms.Button dnzaltı3_btn;
         private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Button mayıng2_btn;
-        private System.Windows.Forms.Button muhrip1_btn;
-        private System.Windows.Forms.Button mayıng1_btn;
         private System.Windows.Forms.Button J10_btn;
-        private System.Windows.Forms.Button muhrip2_btn;
         private System.Windows.Forms.Button J9_btn;
-        private System.Windows.Forms.Button muhrip3_btn;
         private System.Windows.Forms.Button I10_btn;
         private System.Windows.Forms.Button I9_btn;
-        private System.Windows.Forms.Button dnzaltı4_btn;
         private System.Windows.Forms.Button H10_btn;
         private System.Windows.Forms.Button H9_btn;
-        private System.Windows.Forms.Button kruvazor2_btn;
-        private System.Windows.Forms.Button kruvazor1_btn;
-        private System.Windows.Forms.Button dnzaltı2_btn;
         private System.Windows.Forms.Button G10_btn;
         private System.Windows.Forms.Button G9_btn;
         private System.Windows.Forms.Button F10_btn;
         private System.Windows.Forms.Button E10_btn;
-        private System.Windows.Forms.Button amiral_btn;
         private System.Windows.Forms.Button F9_btn;
         private System.Windows.Forms.Button D10_btn;
-        private System.Windows.Forms.Button dnzaltı_btn;
         private System.Windows.Forms.Button E9_btn;
         private System.Windows.Forms.Button C10_btn;
         private System.Windows.Forms.Button D9_btn;
@@ -3527,5 +3515,18 @@
         private System.Windows.Forms.Button C1_btn;
         private System.Windows.Forms.Button B1_btn;
         private System.Windows.Forms.Button A1_btn;
+        private System.Windows.Forms.Button mayıng4_btn;
+        private System.Windows.Forms.Button kruvazör3_btn;
+        private System.Windows.Forms.Button kruvazör2_btn;
+        private System.Windows.Forms.Button mayın1_btn;
+        private System.Windows.Forms.Button mayıng3_btn;
+        private System.Windows.Forms.Button amiral_btn;
+        private System.Windows.Forms.Button mayın3_btn;
+        private System.Windows.Forms.Button mayıng2_btn;
+        private System.Windows.Forms.Button mayıng1_btn;
+        private System.Windows.Forms.Button kruvazör1_btn;
+        private System.Windows.Forms.Button fırkateyn1_btn;
+        private System.Windows.Forms.Button mayın2_btn;
+        private System.Windows.Forms.Button fırkateyn2_btn;
     }
 }

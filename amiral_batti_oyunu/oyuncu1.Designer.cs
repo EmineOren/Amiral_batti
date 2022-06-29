@@ -121,23 +121,23 @@
             this.B2_btn = new System.Windows.Forms.Button();
             this.A2_btn = new System.Windows.Forms.Button();
             this.J1_btn = new System.Windows.Forms.Button();
-            this.label22 = new System.Windows.Forms.Label();
             this.I1_btn = new System.Windows.Forms.Button();
-            this.label21 = new System.Windows.Forms.Label();
             this.H1_btn = new System.Windows.Forms.Button();
-            this.label20 = new System.Windows.Forms.Label();
             this.G1_btn = new System.Windows.Forms.Button();
-            this.label18 = new System.Windows.Forms.Label();
             this.F1_btn = new System.Windows.Forms.Button();
-            this.label17 = new System.Windows.Forms.Label();
             this.E1_btn = new System.Windows.Forms.Button();
             this.D1_btn = new System.Windows.Forms.Button();
-            this.label15 = new System.Windows.Forms.Label();
             this.C1_btn = new System.Windows.Forms.Button();
-            this.label14 = new System.Windows.Forms.Label();
             this.B1_btn = new System.Windows.Forms.Button();
-            this.label13 = new System.Windows.Forms.Label();
             this.A1_btn = new System.Windows.Forms.Button();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
@@ -151,19 +151,16 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.listBox1 = new System.Windows.Forms.ListBox();
-            this.dnzaltı3_btn = new System.Windows.Forms.Button();
+            this.mayın1_btn = new System.Windows.Forms.Button();
             this.mayıng3_btn = new System.Windows.Forms.Button();
             this.mayıng2_btn = new System.Windows.Forms.Button();
-            this.muhrip2_btn = new System.Windows.Forms.Button();
-            this.dnzaltı4_btn = new System.Windows.Forms.Button();
-            this.dnzaltı2_btn = new System.Windows.Forms.Button();
+            this.kruvazör1_btn = new System.Windows.Forms.Button();
+            this.mayın3_btn = new System.Windows.Forms.Button();
             this.mayıng1_btn = new System.Windows.Forms.Button();
-            this.muhrip1_btn = new System.Windows.Forms.Button();
-            this.kruvazor2_btn = new System.Windows.Forms.Button();
-            this.kruvazor1_btn = new System.Windows.Forms.Button();
+            this.fırkateyn1_btn = new System.Windows.Forms.Button();
+            this.fırkateyn2_btn = new System.Windows.Forms.Button();
             this.amiral_btn = new System.Windows.Forms.Button();
-            this.muhrip3_btn = new System.Windows.Forms.Button();
-            this.dnzaltı_btn = new System.Windows.Forms.Button();
+            this.mayın2_btn = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label24 = new System.Windows.Forms.Label();
             this.J10 = new System.Windows.Forms.Button();
@@ -286,13 +283,16 @@
             this.label42 = new System.Windows.Forms.Label();
             this.label43 = new System.Windows.Forms.Label();
             this.label44 = new System.Windows.Forms.Label();
+            this.kruvazör3_btn = new System.Windows.Forms.Button();
+            this.kruvazör2_btn = new System.Windows.Forms.Button();
+            this.mayıng4_btn = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.Transparent;
+            this.panel1.BackColor = System.Drawing.Color.Silver;
             this.panel1.Controls.Add(this.label16);
             this.panel1.Controls.Add(this.J10_btn);
             this.panel1.Controls.Add(this.J9_btn);
@@ -385,38 +385,18 @@
             this.panel1.Controls.Add(this.B2_btn);
             this.panel1.Controls.Add(this.A2_btn);
             this.panel1.Controls.Add(this.J1_btn);
-            this.panel1.Controls.Add(this.label22);
             this.panel1.Controls.Add(this.I1_btn);
-            this.panel1.Controls.Add(this.label21);
             this.panel1.Controls.Add(this.H1_btn);
-            this.panel1.Controls.Add(this.label20);
             this.panel1.Controls.Add(this.G1_btn);
-            this.panel1.Controls.Add(this.label18);
             this.panel1.Controls.Add(this.F1_btn);
-            this.panel1.Controls.Add(this.label17);
             this.panel1.Controls.Add(this.E1_btn);
             this.panel1.Controls.Add(this.D1_btn);
-            this.panel1.Controls.Add(this.label15);
             this.panel1.Controls.Add(this.C1_btn);
-            this.panel1.Controls.Add(this.label14);
             this.panel1.Controls.Add(this.B1_btn);
-            this.panel1.Controls.Add(this.label13);
             this.panel1.Controls.Add(this.A1_btn);
-            this.panel1.Controls.Add(this.label12);
-            this.panel1.Controls.Add(this.label11);
-            this.panel1.Controls.Add(this.label10);
-            this.panel1.Controls.Add(this.label9);
-            this.panel1.Controls.Add(this.label8);
-            this.panel1.Controls.Add(this.label7);
-            this.panel1.Controls.Add(this.label6);
-            this.panel1.Controls.Add(this.label5);
-            this.panel1.Controls.Add(this.label4);
-            this.panel1.Controls.Add(this.label3);
-            this.panel1.Controls.Add(this.label2);
-            this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(24, 28);
+            this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(475, 467);
+            this.panel1.Size = new System.Drawing.Size(500, 571);
             this.panel1.TabIndex = 1;
             // 
             // label16
@@ -425,7 +405,7 @@
             this.label16.Cursor = System.Windows.Forms.Cursors.Default;
             this.label16.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.label16.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic);
-            this.label16.Location = new System.Drawing.Point(236, 449);
+            this.label16.Location = new System.Drawing.Point(236, 480);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(62, 16);
             this.label16.TabIndex = 112;
@@ -435,1087 +415,1187 @@
             // 
             this.J10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J10_btn.Location = new System.Drawing.Point(425, 408);
+            this.J10_btn.Location = new System.Drawing.Point(438, 408);
             this.J10_btn.Name = "J10_btn";
-            this.J10_btn.Size = new System.Drawing.Size(40, 38);
+            this.J10_btn.Size = new System.Drawing.Size(50, 50);
             this.J10_btn.TabIndex = 111;
             this.J10_btn.UseVisualStyleBackColor = true;
+            this.J10_btn.Click += new System.EventHandler(this.J10_btn_Click);
             // 
             // J9_btn
             // 
             this.J9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J9_btn.Location = new System.Drawing.Point(425, 370);
+            this.J9_btn.Location = new System.Drawing.Point(438, 370);
             this.J9_btn.Name = "J9_btn";
-            this.J9_btn.Size = new System.Drawing.Size(40, 38);
+            this.J9_btn.Size = new System.Drawing.Size(50, 50);
             this.J9_btn.TabIndex = 101;
             this.J9_btn.UseVisualStyleBackColor = true;
+            this.J9_btn.Click += new System.EventHandler(this.J9_btn_Click);
             // 
             // I10_btn
             // 
             this.I10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I10_btn.Location = new System.Drawing.Point(385, 408);
+            this.I10_btn.Location = new System.Drawing.Point(398, 408);
             this.I10_btn.Name = "I10_btn";
-            this.I10_btn.Size = new System.Drawing.Size(40, 38);
+            this.I10_btn.Size = new System.Drawing.Size(50, 50);
             this.I10_btn.TabIndex = 110;
             this.I10_btn.UseVisualStyleBackColor = true;
+            this.I10_btn.Click += new System.EventHandler(this.I10_btn_Click);
             // 
             // I9_btn
             // 
             this.I9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I9_btn.Location = new System.Drawing.Point(385, 370);
+            this.I9_btn.Location = new System.Drawing.Point(398, 370);
             this.I9_btn.Name = "I9_btn";
-            this.I9_btn.Size = new System.Drawing.Size(40, 38);
+            this.I9_btn.Size = new System.Drawing.Size(50, 50);
             this.I9_btn.TabIndex = 100;
             this.I9_btn.UseVisualStyleBackColor = true;
+            this.I9_btn.Click += new System.EventHandler(this.I9_btn_Click);
             // 
             // H10_btn
             // 
             this.H10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H10_btn.Location = new System.Drawing.Point(345, 408);
+            this.H10_btn.Location = new System.Drawing.Point(358, 408);
             this.H10_btn.Name = "H10_btn";
-            this.H10_btn.Size = new System.Drawing.Size(40, 38);
+            this.H10_btn.Size = new System.Drawing.Size(50, 50);
             this.H10_btn.TabIndex = 109;
             this.H10_btn.UseVisualStyleBackColor = true;
+            this.H10_btn.Click += new System.EventHandler(this.H10_btn_Click);
             // 
             // H9_btn
             // 
             this.H9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H9_btn.Location = new System.Drawing.Point(345, 370);
+            this.H9_btn.Location = new System.Drawing.Point(358, 370);
             this.H9_btn.Name = "H9_btn";
-            this.H9_btn.Size = new System.Drawing.Size(40, 38);
+            this.H9_btn.Size = new System.Drawing.Size(50, 50);
             this.H9_btn.TabIndex = 99;
             this.H9_btn.UseVisualStyleBackColor = true;
+            this.H9_btn.Click += new System.EventHandler(this.H9_btn_Click);
             // 
             // G10_btn
             // 
             this.G10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G10_btn.Location = new System.Drawing.Point(305, 408);
+            this.G10_btn.Location = new System.Drawing.Point(318, 408);
             this.G10_btn.Name = "G10_btn";
-            this.G10_btn.Size = new System.Drawing.Size(40, 38);
+            this.G10_btn.Size = new System.Drawing.Size(50, 50);
             this.G10_btn.TabIndex = 108;
             this.G10_btn.UseVisualStyleBackColor = true;
+            this.G10_btn.Click += new System.EventHandler(this.G10_btn_Click);
             // 
             // G9_btn
             // 
             this.G9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G9_btn.Location = new System.Drawing.Point(305, 370);
+            this.G9_btn.Location = new System.Drawing.Point(318, 370);
             this.G9_btn.Name = "G9_btn";
-            this.G9_btn.Size = new System.Drawing.Size(40, 38);
+            this.G9_btn.Size = new System.Drawing.Size(50, 50);
             this.G9_btn.TabIndex = 98;
             this.G9_btn.UseVisualStyleBackColor = true;
+            this.G9_btn.Click += new System.EventHandler(this.G9_btn_Click);
             // 
             // F10_btn
             // 
             this.F10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F10_btn.Location = new System.Drawing.Point(265, 408);
+            this.F10_btn.Location = new System.Drawing.Point(278, 408);
             this.F10_btn.Name = "F10_btn";
-            this.F10_btn.Size = new System.Drawing.Size(40, 38);
+            this.F10_btn.Size = new System.Drawing.Size(50, 50);
             this.F10_btn.TabIndex = 107;
             this.F10_btn.UseVisualStyleBackColor = true;
+            this.F10_btn.Click += new System.EventHandler(this.F10_btn_Click);
             // 
             // E10_btn
             // 
             this.E10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E10_btn.Location = new System.Drawing.Point(225, 408);
+            this.E10_btn.Location = new System.Drawing.Point(238, 408);
             this.E10_btn.Name = "E10_btn";
-            this.E10_btn.Size = new System.Drawing.Size(40, 38);
+            this.E10_btn.Size = new System.Drawing.Size(50, 50);
             this.E10_btn.TabIndex = 106;
             this.E10_btn.UseVisualStyleBackColor = true;
+            this.E10_btn.Click += new System.EventHandler(this.E10_btn_Click);
             // 
             // F9_btn
             // 
             this.F9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F9_btn.Location = new System.Drawing.Point(265, 370);
+            this.F9_btn.Location = new System.Drawing.Point(278, 370);
             this.F9_btn.Name = "F9_btn";
-            this.F9_btn.Size = new System.Drawing.Size(40, 38);
+            this.F9_btn.Size = new System.Drawing.Size(50, 50);
             this.F9_btn.TabIndex = 97;
             this.F9_btn.UseVisualStyleBackColor = true;
+            this.F9_btn.Click += new System.EventHandler(this.F9_btn_Click);
             // 
             // D10_btn
             // 
             this.D10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D10_btn.Location = new System.Drawing.Point(185, 408);
+            this.D10_btn.Location = new System.Drawing.Point(198, 408);
             this.D10_btn.Name = "D10_btn";
-            this.D10_btn.Size = new System.Drawing.Size(40, 38);
+            this.D10_btn.Size = new System.Drawing.Size(50, 50);
             this.D10_btn.TabIndex = 105;
             this.D10_btn.UseVisualStyleBackColor = true;
+            this.D10_btn.Click += new System.EventHandler(this.D10_btn_Click);
             // 
             // E9_btn
             // 
             this.E9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E9_btn.Location = new System.Drawing.Point(225, 370);
+            this.E9_btn.Location = new System.Drawing.Point(238, 370);
             this.E9_btn.Name = "E9_btn";
-            this.E9_btn.Size = new System.Drawing.Size(40, 38);
+            this.E9_btn.Size = new System.Drawing.Size(50, 50);
             this.E9_btn.TabIndex = 96;
             this.E9_btn.UseVisualStyleBackColor = true;
+            this.E9_btn.Click += new System.EventHandler(this.E9_btn_Click);
             // 
             // C10_btn
             // 
             this.C10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C10_btn.Location = new System.Drawing.Point(145, 408);
+            this.C10_btn.Location = new System.Drawing.Point(158, 408);
             this.C10_btn.Name = "C10_btn";
-            this.C10_btn.Size = new System.Drawing.Size(40, 38);
+            this.C10_btn.Size = new System.Drawing.Size(50, 50);
             this.C10_btn.TabIndex = 104;
             this.C10_btn.UseVisualStyleBackColor = true;
+            this.C10_btn.Click += new System.EventHandler(this.C10_btn_Click);
             // 
             // D9_btn
             // 
             this.D9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D9_btn.Location = new System.Drawing.Point(185, 370);
+            this.D9_btn.Location = new System.Drawing.Point(198, 370);
             this.D9_btn.Name = "D9_btn";
-            this.D9_btn.Size = new System.Drawing.Size(40, 38);
+            this.D9_btn.Size = new System.Drawing.Size(50, 50);
             this.D9_btn.TabIndex = 95;
             this.D9_btn.UseVisualStyleBackColor = true;
+            this.D9_btn.Click += new System.EventHandler(this.D9_btn_Click);
             // 
             // B10_btn
             // 
             this.B10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B10_btn.Location = new System.Drawing.Point(105, 408);
+            this.B10_btn.Location = new System.Drawing.Point(118, 408);
             this.B10_btn.Name = "B10_btn";
-            this.B10_btn.Size = new System.Drawing.Size(40, 38);
+            this.B10_btn.Size = new System.Drawing.Size(50, 50);
             this.B10_btn.TabIndex = 103;
             this.B10_btn.UseVisualStyleBackColor = true;
+            this.B10_btn.Click += new System.EventHandler(this.B10_btn_Click);
             // 
             // C9_btn
             // 
             this.C9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C9_btn.Location = new System.Drawing.Point(145, 370);
+            this.C9_btn.Location = new System.Drawing.Point(158, 370);
             this.C9_btn.Name = "C9_btn";
-            this.C9_btn.Size = new System.Drawing.Size(40, 38);
+            this.C9_btn.Size = new System.Drawing.Size(50, 50);
             this.C9_btn.TabIndex = 94;
             this.C9_btn.UseVisualStyleBackColor = true;
+            this.C9_btn.Click += new System.EventHandler(this.C9_btn_Click);
             // 
             // A10_btn
             // 
             this.A10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A10_btn.Location = new System.Drawing.Point(65, 408);
+            this.A10_btn.Location = new System.Drawing.Point(50, 500);
             this.A10_btn.Name = "A10_btn";
-            this.A10_btn.Size = new System.Drawing.Size(40, 38);
+            this.A10_btn.Size = new System.Drawing.Size(50, 50);
             this.A10_btn.TabIndex = 102;
             this.A10_btn.UseVisualStyleBackColor = true;
+            this.A10_btn.Click += new System.EventHandler(this.A10_btn_Click);
             // 
             // B9_btn
             // 
             this.B9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B9_btn.Location = new System.Drawing.Point(105, 370);
+            this.B9_btn.Location = new System.Drawing.Point(118, 370);
             this.B9_btn.Name = "B9_btn";
-            this.B9_btn.Size = new System.Drawing.Size(40, 38);
+            this.B9_btn.Size = new System.Drawing.Size(50, 50);
             this.B9_btn.TabIndex = 93;
             this.B9_btn.UseVisualStyleBackColor = true;
+            this.B9_btn.Click += new System.EventHandler(this.B9_btn_Click);
             // 
             // A9_btn
             // 
             this.A9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A9_btn.Location = new System.Drawing.Point(65, 370);
+            this.A9_btn.Location = new System.Drawing.Point(50, 450);
             this.A9_btn.Name = "A9_btn";
-            this.A9_btn.Size = new System.Drawing.Size(40, 38);
+            this.A9_btn.Size = new System.Drawing.Size(50, 50);
             this.A9_btn.TabIndex = 92;
             this.A9_btn.UseVisualStyleBackColor = true;
+            this.A9_btn.Click += new System.EventHandler(this.A9_btn_Click);
             // 
             // J8_btn
             // 
             this.J8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J8_btn.Location = new System.Drawing.Point(425, 332);
+            this.J8_btn.Location = new System.Drawing.Point(438, 332);
             this.J8_btn.Name = "J8_btn";
-            this.J8_btn.Size = new System.Drawing.Size(40, 38);
+            this.J8_btn.Size = new System.Drawing.Size(50, 50);
             this.J8_btn.TabIndex = 91;
             this.J8_btn.UseVisualStyleBackColor = true;
+            this.J8_btn.Click += new System.EventHandler(this.J8_btn_Click);
             // 
             // I8_btn
             // 
             this.I8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I8_btn.Location = new System.Drawing.Point(385, 332);
+            this.I8_btn.Location = new System.Drawing.Point(398, 332);
             this.I8_btn.Name = "I8_btn";
-            this.I8_btn.Size = new System.Drawing.Size(40, 38);
+            this.I8_btn.Size = new System.Drawing.Size(50, 50);
             this.I8_btn.TabIndex = 90;
             this.I8_btn.UseVisualStyleBackColor = true;
+            this.I8_btn.Click += new System.EventHandler(this.I8_btn_Click);
             // 
             // H8_btn
             // 
             this.H8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H8_btn.Location = new System.Drawing.Point(345, 332);
+            this.H8_btn.Location = new System.Drawing.Point(358, 332);
             this.H8_btn.Name = "H8_btn";
-            this.H8_btn.Size = new System.Drawing.Size(40, 38);
+            this.H8_btn.Size = new System.Drawing.Size(50, 50);
             this.H8_btn.TabIndex = 89;
             this.H8_btn.UseVisualStyleBackColor = true;
+            this.H8_btn.Click += new System.EventHandler(this.H8_btn_Click);
             // 
             // G8_btn
             // 
             this.G8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G8_btn.Location = new System.Drawing.Point(305, 332);
+            this.G8_btn.Location = new System.Drawing.Point(318, 332);
             this.G8_btn.Name = "G8_btn";
-            this.G8_btn.Size = new System.Drawing.Size(40, 38);
+            this.G8_btn.Size = new System.Drawing.Size(50, 50);
             this.G8_btn.TabIndex = 88;
             this.G8_btn.UseVisualStyleBackColor = true;
+            this.G8_btn.Click += new System.EventHandler(this.G8_btn_Click);
             // 
             // F8_btn
             // 
             this.F8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F8_btn.Location = new System.Drawing.Point(265, 332);
+            this.F8_btn.Location = new System.Drawing.Point(278, 332);
             this.F8_btn.Name = "F8_btn";
-            this.F8_btn.Size = new System.Drawing.Size(40, 38);
+            this.F8_btn.Size = new System.Drawing.Size(50, 50);
             this.F8_btn.TabIndex = 87;
             this.F8_btn.UseVisualStyleBackColor = true;
+            this.F8_btn.Click += new System.EventHandler(this.F8_btn_Click);
             // 
             // E8_btn
             // 
             this.E8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E8_btn.Location = new System.Drawing.Point(225, 332);
+            this.E8_btn.Location = new System.Drawing.Point(238, 332);
             this.E8_btn.Name = "E8_btn";
-            this.E8_btn.Size = new System.Drawing.Size(40, 38);
+            this.E8_btn.Size = new System.Drawing.Size(50, 50);
             this.E8_btn.TabIndex = 86;
             this.E8_btn.UseVisualStyleBackColor = true;
+            this.E8_btn.Click += new System.EventHandler(this.E8_btn_Click);
             // 
             // D8_btn
             // 
             this.D8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D8_btn.Location = new System.Drawing.Point(185, 332);
+            this.D8_btn.Location = new System.Drawing.Point(198, 332);
             this.D8_btn.Name = "D8_btn";
-            this.D8_btn.Size = new System.Drawing.Size(40, 38);
+            this.D8_btn.Size = new System.Drawing.Size(50, 50);
             this.D8_btn.TabIndex = 85;
             this.D8_btn.UseVisualStyleBackColor = true;
+            this.D8_btn.Click += new System.EventHandler(this.D8_btn_Click);
             // 
             // C8_btn
             // 
             this.C8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C8_btn.Location = new System.Drawing.Point(145, 332);
+            this.C8_btn.Location = new System.Drawing.Point(158, 332);
             this.C8_btn.Name = "C8_btn";
-            this.C8_btn.Size = new System.Drawing.Size(40, 38);
+            this.C8_btn.Size = new System.Drawing.Size(50, 50);
             this.C8_btn.TabIndex = 84;
             this.C8_btn.UseVisualStyleBackColor = true;
+            this.C8_btn.Click += new System.EventHandler(this.C8_btn_Click);
             // 
             // B8_btn
             // 
             this.B8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B8_btn.Location = new System.Drawing.Point(105, 332);
+            this.B8_btn.Location = new System.Drawing.Point(118, 332);
             this.B8_btn.Name = "B8_btn";
-            this.B8_btn.Size = new System.Drawing.Size(40, 38);
+            this.B8_btn.Size = new System.Drawing.Size(50, 50);
             this.B8_btn.TabIndex = 83;
             this.B8_btn.UseVisualStyleBackColor = true;
+            this.B8_btn.Click += new System.EventHandler(this.B8_btn_Click);
             // 
             // A8_btn
             // 
             this.A8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A8_btn.Location = new System.Drawing.Point(65, 332);
+            this.A8_btn.Location = new System.Drawing.Point(50, 400);
             this.A8_btn.Name = "A8_btn";
-            this.A8_btn.Size = new System.Drawing.Size(40, 38);
+            this.A8_btn.Size = new System.Drawing.Size(50, 50);
             this.A8_btn.TabIndex = 82;
             this.A8_btn.UseVisualStyleBackColor = true;
+            this.A8_btn.Click += new System.EventHandler(this.A8_btn_Click);
             // 
             // J7_btn
             // 
             this.J7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J7_btn.Location = new System.Drawing.Point(425, 294);
+            this.J7_btn.Location = new System.Drawing.Point(438, 294);
             this.J7_btn.Name = "J7_btn";
-            this.J7_btn.Size = new System.Drawing.Size(40, 38);
+            this.J7_btn.Size = new System.Drawing.Size(50, 50);
             this.J7_btn.TabIndex = 81;
             this.J7_btn.UseVisualStyleBackColor = true;
+            this.J7_btn.Click += new System.EventHandler(this.J7_btn_Click);
             // 
             // I7_btn
             // 
             this.I7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I7_btn.Location = new System.Drawing.Point(385, 294);
+            this.I7_btn.Location = new System.Drawing.Point(398, 294);
             this.I7_btn.Name = "I7_btn";
-            this.I7_btn.Size = new System.Drawing.Size(40, 38);
+            this.I7_btn.Size = new System.Drawing.Size(50, 50);
             this.I7_btn.TabIndex = 80;
             this.I7_btn.UseVisualStyleBackColor = true;
+            this.I7_btn.Click += new System.EventHandler(this.I7_btn_Click);
             // 
             // H7_btn
             // 
             this.H7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H7_btn.Location = new System.Drawing.Point(345, 294);
+            this.H7_btn.Location = new System.Drawing.Point(358, 294);
             this.H7_btn.Name = "H7_btn";
-            this.H7_btn.Size = new System.Drawing.Size(40, 38);
+            this.H7_btn.Size = new System.Drawing.Size(50, 50);
             this.H7_btn.TabIndex = 79;
             this.H7_btn.UseVisualStyleBackColor = true;
+            this.H7_btn.Click += new System.EventHandler(this.H7_btn_Click);
             // 
             // G7_btn
             // 
             this.G7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G7_btn.Location = new System.Drawing.Point(305, 294);
+            this.G7_btn.Location = new System.Drawing.Point(318, 294);
             this.G7_btn.Name = "G7_btn";
-            this.G7_btn.Size = new System.Drawing.Size(40, 38);
+            this.G7_btn.Size = new System.Drawing.Size(50, 50);
             this.G7_btn.TabIndex = 78;
             this.G7_btn.UseVisualStyleBackColor = true;
+            this.G7_btn.Click += new System.EventHandler(this.G7_btn_Click);
             // 
             // F7_btn
             // 
             this.F7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F7_btn.Location = new System.Drawing.Point(265, 294);
+            this.F7_btn.Location = new System.Drawing.Point(278, 294);
             this.F7_btn.Name = "F7_btn";
-            this.F7_btn.Size = new System.Drawing.Size(40, 38);
+            this.F7_btn.Size = new System.Drawing.Size(50, 50);
             this.F7_btn.TabIndex = 77;
             this.F7_btn.UseVisualStyleBackColor = true;
+            this.F7_btn.Click += new System.EventHandler(this.F7_btn_Click);
             // 
             // E7_btn
             // 
             this.E7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E7_btn.Location = new System.Drawing.Point(225, 294);
+            this.E7_btn.Location = new System.Drawing.Point(238, 294);
             this.E7_btn.Name = "E7_btn";
-            this.E7_btn.Size = new System.Drawing.Size(40, 38);
+            this.E7_btn.Size = new System.Drawing.Size(50, 50);
             this.E7_btn.TabIndex = 76;
             this.E7_btn.UseVisualStyleBackColor = true;
+            this.E7_btn.Click += new System.EventHandler(this.E7_btn_Click);
             // 
             // D7_btn
             // 
             this.D7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D7_btn.Location = new System.Drawing.Point(185, 294);
+            this.D7_btn.Location = new System.Drawing.Point(198, 294);
             this.D7_btn.Name = "D7_btn";
-            this.D7_btn.Size = new System.Drawing.Size(40, 38);
+            this.D7_btn.Size = new System.Drawing.Size(50, 50);
             this.D7_btn.TabIndex = 75;
             this.D7_btn.UseVisualStyleBackColor = true;
+            this.D7_btn.Click += new System.EventHandler(this.D7_btn_Click);
             // 
             // C7_btn
             // 
             this.C7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C7_btn.Location = new System.Drawing.Point(145, 294);
+            this.C7_btn.Location = new System.Drawing.Point(158, 294);
             this.C7_btn.Name = "C7_btn";
-            this.C7_btn.Size = new System.Drawing.Size(40, 38);
+            this.C7_btn.Size = new System.Drawing.Size(50, 50);
             this.C7_btn.TabIndex = 74;
             this.C7_btn.UseVisualStyleBackColor = true;
+            this.C7_btn.Click += new System.EventHandler(this.C7_btn_Click);
             // 
             // B7_btn
             // 
             this.B7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B7_btn.Location = new System.Drawing.Point(105, 294);
+            this.B7_btn.Location = new System.Drawing.Point(118, 294);
             this.B7_btn.Name = "B7_btn";
-            this.B7_btn.Size = new System.Drawing.Size(40, 38);
+            this.B7_btn.Size = new System.Drawing.Size(50, 50);
             this.B7_btn.TabIndex = 73;
             this.B7_btn.UseVisualStyleBackColor = true;
+            this.B7_btn.Click += new System.EventHandler(this.B7_btn_Click);
             // 
             // A7_btn
             // 
             this.A7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A7_btn.Location = new System.Drawing.Point(65, 294);
+            this.A7_btn.Location = new System.Drawing.Point(50, 350);
             this.A7_btn.Name = "A7_btn";
-            this.A7_btn.Size = new System.Drawing.Size(40, 38);
+            this.A7_btn.Size = new System.Drawing.Size(50, 50);
             this.A7_btn.TabIndex = 72;
             this.A7_btn.UseVisualStyleBackColor = true;
+            this.A7_btn.Click += new System.EventHandler(this.A7_btn_Click);
             // 
             // J6_btn
             // 
             this.J6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J6_btn.Location = new System.Drawing.Point(425, 256);
+            this.J6_btn.Location = new System.Drawing.Point(438, 256);
             this.J6_btn.Name = "J6_btn";
-            this.J6_btn.Size = new System.Drawing.Size(40, 38);
+            this.J6_btn.Size = new System.Drawing.Size(50, 50);
             this.J6_btn.TabIndex = 71;
             this.J6_btn.UseVisualStyleBackColor = true;
+            this.J6_btn.Click += new System.EventHandler(this.J6_btn_Click);
             // 
             // I6_btn
             // 
             this.I6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I6_btn.Location = new System.Drawing.Point(385, 256);
+            this.I6_btn.Location = new System.Drawing.Point(398, 256);
             this.I6_btn.Name = "I6_btn";
-            this.I6_btn.Size = new System.Drawing.Size(40, 38);
+            this.I6_btn.Size = new System.Drawing.Size(50, 50);
             this.I6_btn.TabIndex = 70;
             this.I6_btn.UseVisualStyleBackColor = true;
+            this.I6_btn.Click += new System.EventHandler(this.I6_btn_Click);
             // 
             // H6_btn
             // 
             this.H6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H6_btn.Location = new System.Drawing.Point(345, 256);
+            this.H6_btn.Location = new System.Drawing.Point(358, 256);
             this.H6_btn.Name = "H6_btn";
-            this.H6_btn.Size = new System.Drawing.Size(40, 38);
+            this.H6_btn.Size = new System.Drawing.Size(50, 50);
             this.H6_btn.TabIndex = 69;
             this.H6_btn.UseVisualStyleBackColor = true;
+            this.H6_btn.Click += new System.EventHandler(this.H6_btn_Click);
             // 
             // G6_btn
             // 
             this.G6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G6_btn.Location = new System.Drawing.Point(305, 256);
+            this.G6_btn.Location = new System.Drawing.Point(318, 256);
             this.G6_btn.Name = "G6_btn";
-            this.G6_btn.Size = new System.Drawing.Size(40, 38);
+            this.G6_btn.Size = new System.Drawing.Size(50, 50);
             this.G6_btn.TabIndex = 68;
             this.G6_btn.UseVisualStyleBackColor = true;
+            this.G6_btn.Click += new System.EventHandler(this.G6_btn_Click);
             // 
             // F6_btn
             // 
             this.F6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F6_btn.Location = new System.Drawing.Point(265, 256);
+            this.F6_btn.Location = new System.Drawing.Point(278, 256);
             this.F6_btn.Name = "F6_btn";
-            this.F6_btn.Size = new System.Drawing.Size(40, 38);
+            this.F6_btn.Size = new System.Drawing.Size(50, 50);
             this.F6_btn.TabIndex = 67;
             this.F6_btn.UseVisualStyleBackColor = true;
+            this.F6_btn.Click += new System.EventHandler(this.F6_btn_Click);
             // 
             // E6_btn
             // 
             this.E6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E6_btn.Location = new System.Drawing.Point(225, 256);
+            this.E6_btn.Location = new System.Drawing.Point(238, 256);
             this.E6_btn.Name = "E6_btn";
-            this.E6_btn.Size = new System.Drawing.Size(40, 38);
+            this.E6_btn.Size = new System.Drawing.Size(50, 50);
             this.E6_btn.TabIndex = 66;
             this.E6_btn.UseVisualStyleBackColor = true;
+            this.E6_btn.Click += new System.EventHandler(this.E6_btn_Click);
             // 
             // D6_btn
             // 
             this.D6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D6_btn.Location = new System.Drawing.Point(185, 256);
+            this.D6_btn.Location = new System.Drawing.Point(198, 256);
             this.D6_btn.Name = "D6_btn";
-            this.D6_btn.Size = new System.Drawing.Size(40, 38);
+            this.D6_btn.Size = new System.Drawing.Size(50, 50);
             this.D6_btn.TabIndex = 65;
             this.D6_btn.UseVisualStyleBackColor = true;
+            this.D6_btn.Click += new System.EventHandler(this.D6_btn_Click);
             // 
             // C6_btn
             // 
             this.C6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C6_btn.Location = new System.Drawing.Point(145, 256);
+            this.C6_btn.Location = new System.Drawing.Point(158, 256);
             this.C6_btn.Name = "C6_btn";
-            this.C6_btn.Size = new System.Drawing.Size(40, 38);
+            this.C6_btn.Size = new System.Drawing.Size(50, 50);
             this.C6_btn.TabIndex = 64;
             this.C6_btn.UseVisualStyleBackColor = true;
+            this.C6_btn.Click += new System.EventHandler(this.C6_btn_Click);
             // 
             // B6_btn
             // 
             this.B6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B6_btn.Location = new System.Drawing.Point(105, 256);
+            this.B6_btn.Location = new System.Drawing.Point(118, 256);
             this.B6_btn.Name = "B6_btn";
-            this.B6_btn.Size = new System.Drawing.Size(40, 38);
+            this.B6_btn.Size = new System.Drawing.Size(50, 50);
             this.B6_btn.TabIndex = 63;
             this.B6_btn.UseVisualStyleBackColor = true;
+            this.B6_btn.Click += new System.EventHandler(this.B6_btn_Click);
             // 
             // A6_btn
             // 
             this.A6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A6_btn.Location = new System.Drawing.Point(65, 256);
+            this.A6_btn.Location = new System.Drawing.Point(50, 300);
             this.A6_btn.Name = "A6_btn";
-            this.A6_btn.Size = new System.Drawing.Size(40, 38);
+            this.A6_btn.Size = new System.Drawing.Size(50, 50);
             this.A6_btn.TabIndex = 62;
             this.A6_btn.UseVisualStyleBackColor = true;
+            this.A6_btn.Click += new System.EventHandler(this.A6_btn_Click);
             // 
             // J5_btn
             // 
             this.J5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J5_btn.Location = new System.Drawing.Point(425, 218);
+            this.J5_btn.Location = new System.Drawing.Point(438, 218);
             this.J5_btn.Name = "J5_btn";
-            this.J5_btn.Size = new System.Drawing.Size(40, 38);
+            this.J5_btn.Size = new System.Drawing.Size(50, 50);
             this.J5_btn.TabIndex = 61;
             this.J5_btn.UseVisualStyleBackColor = true;
+            this.J5_btn.Click += new System.EventHandler(this.J5_btn_Click);
             // 
             // I5_btn
             // 
             this.I5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I5_btn.Location = new System.Drawing.Point(385, 218);
+            this.I5_btn.Location = new System.Drawing.Point(398, 218);
             this.I5_btn.Name = "I5_btn";
-            this.I5_btn.Size = new System.Drawing.Size(40, 38);
+            this.I5_btn.Size = new System.Drawing.Size(50, 50);
             this.I5_btn.TabIndex = 60;
             this.I5_btn.UseVisualStyleBackColor = true;
+            this.I5_btn.Click += new System.EventHandler(this.I5_btn_Click);
             // 
             // H5_btn
             // 
             this.H5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H5_btn.Location = new System.Drawing.Point(345, 218);
+            this.H5_btn.Location = new System.Drawing.Point(358, 218);
             this.H5_btn.Name = "H5_btn";
-            this.H5_btn.Size = new System.Drawing.Size(40, 38);
+            this.H5_btn.Size = new System.Drawing.Size(50, 50);
             this.H5_btn.TabIndex = 59;
             this.H5_btn.UseVisualStyleBackColor = true;
+            this.H5_btn.Click += new System.EventHandler(this.H5_btn_Click);
             // 
             // G5_btn
             // 
             this.G5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G5_btn.Location = new System.Drawing.Point(305, 218);
+            this.G5_btn.Location = new System.Drawing.Point(318, 218);
             this.G5_btn.Name = "G5_btn";
-            this.G5_btn.Size = new System.Drawing.Size(40, 38);
+            this.G5_btn.Size = new System.Drawing.Size(50, 50);
             this.G5_btn.TabIndex = 58;
             this.G5_btn.UseVisualStyleBackColor = true;
+            this.G5_btn.Click += new System.EventHandler(this.G5_btn_Click);
             // 
             // F5_btn
             // 
             this.F5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F5_btn.Location = new System.Drawing.Point(265, 218);
+            this.F5_btn.Location = new System.Drawing.Point(278, 218);
             this.F5_btn.Name = "F5_btn";
-            this.F5_btn.Size = new System.Drawing.Size(40, 38);
+            this.F5_btn.Size = new System.Drawing.Size(50, 50);
             this.F5_btn.TabIndex = 57;
             this.F5_btn.UseVisualStyleBackColor = true;
+            this.F5_btn.Click += new System.EventHandler(this.F5_btn_Click);
             // 
             // E5_btn
             // 
             this.E5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E5_btn.Location = new System.Drawing.Point(225, 218);
+            this.E5_btn.Location = new System.Drawing.Point(238, 218);
             this.E5_btn.Name = "E5_btn";
-            this.E5_btn.Size = new System.Drawing.Size(40, 38);
+            this.E5_btn.Size = new System.Drawing.Size(50, 50);
             this.E5_btn.TabIndex = 56;
             this.E5_btn.UseVisualStyleBackColor = true;
+            this.E5_btn.Click += new System.EventHandler(this.E5_btn_Click);
             // 
             // D5_btn
             // 
             this.D5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D5_btn.Location = new System.Drawing.Point(185, 218);
+            this.D5_btn.Location = new System.Drawing.Point(198, 218);
             this.D5_btn.Name = "D5_btn";
-            this.D5_btn.Size = new System.Drawing.Size(40, 38);
+            this.D5_btn.Size = new System.Drawing.Size(50, 50);
             this.D5_btn.TabIndex = 55;
             this.D5_btn.UseVisualStyleBackColor = true;
+            this.D5_btn.Click += new System.EventHandler(this.D5_btn_Click);
             // 
             // C5_btn
             // 
             this.C5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C5_btn.Location = new System.Drawing.Point(145, 218);
+            this.C5_btn.Location = new System.Drawing.Point(158, 218);
             this.C5_btn.Name = "C5_btn";
-            this.C5_btn.Size = new System.Drawing.Size(40, 38);
+            this.C5_btn.Size = new System.Drawing.Size(50, 50);
             this.C5_btn.TabIndex = 54;
             this.C5_btn.UseVisualStyleBackColor = true;
+            this.C5_btn.Click += new System.EventHandler(this.C5_btn_Click);
             // 
             // B5_btn
             // 
             this.B5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B5_btn.Location = new System.Drawing.Point(105, 218);
+            this.B5_btn.Location = new System.Drawing.Point(118, 218);
             this.B5_btn.Name = "B5_btn";
-            this.B5_btn.Size = new System.Drawing.Size(40, 38);
+            this.B5_btn.Size = new System.Drawing.Size(50, 50);
             this.B5_btn.TabIndex = 53;
             this.B5_btn.UseVisualStyleBackColor = true;
+            this.B5_btn.Click += new System.EventHandler(this.B5_btn_Click);
             // 
             // A5_btn
             // 
             this.A5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A5_btn.Location = new System.Drawing.Point(65, 218);
+            this.A5_btn.Location = new System.Drawing.Point(50, 250);
             this.A5_btn.Name = "A5_btn";
-            this.A5_btn.Size = new System.Drawing.Size(40, 38);
+            this.A5_btn.Size = new System.Drawing.Size(50, 50);
             this.A5_btn.TabIndex = 52;
             this.A5_btn.UseVisualStyleBackColor = true;
+            this.A5_btn.Click += new System.EventHandler(this.A5_btn_Click);
             // 
             // J4_btn
             // 
             this.J4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J4_btn.Location = new System.Drawing.Point(425, 180);
+            this.J4_btn.Location = new System.Drawing.Point(438, 180);
             this.J4_btn.Name = "J4_btn";
-            this.J4_btn.Size = new System.Drawing.Size(40, 38);
+            this.J4_btn.Size = new System.Drawing.Size(50, 50);
             this.J4_btn.TabIndex = 51;
             this.J4_btn.UseVisualStyleBackColor = true;
+            this.J4_btn.Click += new System.EventHandler(this.J4_btn_Click);
             // 
             // I4_btn
             // 
             this.I4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I4_btn.Location = new System.Drawing.Point(385, 180);
+            this.I4_btn.Location = new System.Drawing.Point(398, 180);
             this.I4_btn.Name = "I4_btn";
-            this.I4_btn.Size = new System.Drawing.Size(40, 38);
+            this.I4_btn.Size = new System.Drawing.Size(50, 50);
             this.I4_btn.TabIndex = 50;
             this.I4_btn.UseVisualStyleBackColor = true;
+            this.I4_btn.Click += new System.EventHandler(this.I4_btn_Click);
             // 
             // H4_btn
             // 
             this.H4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H4_btn.Location = new System.Drawing.Point(345, 180);
+            this.H4_btn.Location = new System.Drawing.Point(358, 180);
             this.H4_btn.Name = "H4_btn";
-            this.H4_btn.Size = new System.Drawing.Size(40, 38);
+            this.H4_btn.Size = new System.Drawing.Size(50, 50);
             this.H4_btn.TabIndex = 49;
             this.H4_btn.UseVisualStyleBackColor = true;
+            this.H4_btn.Click += new System.EventHandler(this.H4_btn_Click);
             // 
             // G4_btn
             // 
             this.G4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G4_btn.Location = new System.Drawing.Point(305, 180);
+            this.G4_btn.Location = new System.Drawing.Point(318, 180);
             this.G4_btn.Name = "G4_btn";
-            this.G4_btn.Size = new System.Drawing.Size(40, 38);
+            this.G4_btn.Size = new System.Drawing.Size(50, 50);
             this.G4_btn.TabIndex = 48;
             this.G4_btn.UseVisualStyleBackColor = true;
+            this.G4_btn.Click += new System.EventHandler(this.G4_btn_Click);
             // 
             // F4_btn
             // 
             this.F4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F4_btn.Location = new System.Drawing.Point(265, 180);
+            this.F4_btn.Location = new System.Drawing.Point(278, 180);
             this.F4_btn.Name = "F4_btn";
-            this.F4_btn.Size = new System.Drawing.Size(40, 38);
+            this.F4_btn.Size = new System.Drawing.Size(50, 50);
             this.F4_btn.TabIndex = 47;
             this.F4_btn.UseVisualStyleBackColor = true;
+            this.F4_btn.Click += new System.EventHandler(this.F4_btn_Click);
             // 
             // E4_btn
             // 
             this.E4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E4_btn.Location = new System.Drawing.Point(225, 180);
+            this.E4_btn.Location = new System.Drawing.Point(238, 180);
             this.E4_btn.Name = "E4_btn";
-            this.E4_btn.Size = new System.Drawing.Size(40, 38);
+            this.E4_btn.Size = new System.Drawing.Size(50, 50);
             this.E4_btn.TabIndex = 46;
             this.E4_btn.UseVisualStyleBackColor = true;
+            this.E4_btn.Click += new System.EventHandler(this.E4_btn_Click);
             // 
             // D4_btn
             // 
             this.D4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D4_btn.Location = new System.Drawing.Point(185, 180);
+            this.D4_btn.Location = new System.Drawing.Point(198, 180);
             this.D4_btn.Name = "D4_btn";
-            this.D4_btn.Size = new System.Drawing.Size(40, 38);
+            this.D4_btn.Size = new System.Drawing.Size(50, 50);
             this.D4_btn.TabIndex = 45;
             this.D4_btn.UseVisualStyleBackColor = true;
+            this.D4_btn.Click += new System.EventHandler(this.D4_btn_Click);
             // 
             // C4_btn
             // 
             this.C4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C4_btn.Location = new System.Drawing.Point(145, 180);
+            this.C4_btn.Location = new System.Drawing.Point(158, 180);
             this.C4_btn.Name = "C4_btn";
-            this.C4_btn.Size = new System.Drawing.Size(40, 38);
+            this.C4_btn.Size = new System.Drawing.Size(50, 50);
             this.C4_btn.TabIndex = 44;
             this.C4_btn.UseVisualStyleBackColor = true;
+            this.C4_btn.Click += new System.EventHandler(this.C4_btn_Click);
             // 
             // B4_btn
             // 
             this.B4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B4_btn.Location = new System.Drawing.Point(105, 180);
+            this.B4_btn.Location = new System.Drawing.Point(118, 180);
             this.B4_btn.Name = "B4_btn";
-            this.B4_btn.Size = new System.Drawing.Size(40, 38);
+            this.B4_btn.Size = new System.Drawing.Size(50, 50);
             this.B4_btn.TabIndex = 43;
             this.B4_btn.UseVisualStyleBackColor = true;
+            this.B4_btn.Click += new System.EventHandler(this.B4_btn_Click);
             // 
             // A4_btn
             // 
             this.A4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A4_btn.Location = new System.Drawing.Point(65, 180);
+            this.A4_btn.Location = new System.Drawing.Point(50, 200);
             this.A4_btn.Name = "A4_btn";
-            this.A4_btn.Size = new System.Drawing.Size(40, 38);
+            this.A4_btn.Size = new System.Drawing.Size(50, 50);
             this.A4_btn.TabIndex = 42;
             this.A4_btn.UseVisualStyleBackColor = true;
+            this.A4_btn.Click += new System.EventHandler(this.A4_btn_Click);
             // 
             // J3_btn
             // 
             this.J3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J3_btn.Location = new System.Drawing.Point(425, 142);
+            this.J3_btn.Location = new System.Drawing.Point(438, 142);
             this.J3_btn.Name = "J3_btn";
-            this.J3_btn.Size = new System.Drawing.Size(40, 38);
+            this.J3_btn.Size = new System.Drawing.Size(50, 50);
             this.J3_btn.TabIndex = 41;
             this.J3_btn.UseVisualStyleBackColor = true;
+            this.J3_btn.Click += new System.EventHandler(this.J3_btn_Click);
             // 
             // I3_btn
             // 
             this.I3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I3_btn.Location = new System.Drawing.Point(385, 142);
+            this.I3_btn.Location = new System.Drawing.Point(398, 142);
             this.I3_btn.Name = "I3_btn";
-            this.I3_btn.Size = new System.Drawing.Size(40, 38);
+            this.I3_btn.Size = new System.Drawing.Size(50, 50);
             this.I3_btn.TabIndex = 40;
             this.I3_btn.UseVisualStyleBackColor = true;
+            this.I3_btn.Click += new System.EventHandler(this.I3_btn_Click);
             // 
             // H3_btn
             // 
             this.H3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H3_btn.Location = new System.Drawing.Point(345, 142);
+            this.H3_btn.Location = new System.Drawing.Point(358, 142);
             this.H3_btn.Name = "H3_btn";
-            this.H3_btn.Size = new System.Drawing.Size(40, 38);
+            this.H3_btn.Size = new System.Drawing.Size(50, 50);
             this.H3_btn.TabIndex = 39;
             this.H3_btn.UseVisualStyleBackColor = true;
+            this.H3_btn.Click += new System.EventHandler(this.H3_btn_Click);
             // 
             // G3_btn
             // 
             this.G3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G3_btn.Location = new System.Drawing.Point(305, 142);
+            this.G3_btn.Location = new System.Drawing.Point(318, 142);
             this.G3_btn.Name = "G3_btn";
-            this.G3_btn.Size = new System.Drawing.Size(40, 38);
+            this.G3_btn.Size = new System.Drawing.Size(50, 50);
             this.G3_btn.TabIndex = 38;
             this.G3_btn.UseVisualStyleBackColor = true;
+            this.G3_btn.Click += new System.EventHandler(this.G3_btn_Click);
             // 
             // F3_btn
             // 
             this.F3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F3_btn.Location = new System.Drawing.Point(265, 142);
+            this.F3_btn.Location = new System.Drawing.Point(278, 142);
             this.F3_btn.Name = "F3_btn";
-            this.F3_btn.Size = new System.Drawing.Size(40, 38);
+            this.F3_btn.Size = new System.Drawing.Size(50, 50);
             this.F3_btn.TabIndex = 37;
             this.F3_btn.UseVisualStyleBackColor = true;
+            this.F3_btn.Click += new System.EventHandler(this.F3_btn_Click);
             // 
             // E3_btn
             // 
             this.E3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E3_btn.Location = new System.Drawing.Point(225, 142);
+            this.E3_btn.Location = new System.Drawing.Point(238, 142);
             this.E3_btn.Name = "E3_btn";
-            this.E3_btn.Size = new System.Drawing.Size(40, 38);
+            this.E3_btn.Size = new System.Drawing.Size(50, 50);
             this.E3_btn.TabIndex = 36;
             this.E3_btn.UseVisualStyleBackColor = true;
+            this.E3_btn.Click += new System.EventHandler(this.E3_btn_Click);
             // 
             // D3_btn
             // 
             this.D3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D3_btn.Location = new System.Drawing.Point(185, 142);
+            this.D3_btn.Location = new System.Drawing.Point(198, 142);
             this.D3_btn.Name = "D3_btn";
-            this.D3_btn.Size = new System.Drawing.Size(40, 38);
+            this.D3_btn.Size = new System.Drawing.Size(50, 50);
             this.D3_btn.TabIndex = 35;
             this.D3_btn.UseVisualStyleBackColor = true;
+            this.D3_btn.Click += new System.EventHandler(this.D3_btn_Click);
             // 
             // C3_btn
             // 
             this.C3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C3_btn.Location = new System.Drawing.Point(145, 142);
+            this.C3_btn.Location = new System.Drawing.Point(158, 142);
             this.C3_btn.Name = "C3_btn";
-            this.C3_btn.Size = new System.Drawing.Size(40, 38);
+            this.C3_btn.Size = new System.Drawing.Size(50, 50);
             this.C3_btn.TabIndex = 34;
             this.C3_btn.UseVisualStyleBackColor = true;
+            this.C3_btn.Click += new System.EventHandler(this.C3_btn_Click);
             // 
             // B3_btn
             // 
             this.B3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B3_btn.Location = new System.Drawing.Point(105, 142);
+            this.B3_btn.Location = new System.Drawing.Point(118, 142);
             this.B3_btn.Name = "B3_btn";
-            this.B3_btn.Size = new System.Drawing.Size(40, 38);
+            this.B3_btn.Size = new System.Drawing.Size(50, 50);
             this.B3_btn.TabIndex = 33;
             this.B3_btn.UseVisualStyleBackColor = true;
+            this.B3_btn.Click += new System.EventHandler(this.B3_btn_Click);
             // 
             // A3_btn
             // 
             this.A3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A3_btn.Location = new System.Drawing.Point(65, 142);
+            this.A3_btn.Location = new System.Drawing.Point(50, 150);
             this.A3_btn.Name = "A3_btn";
-            this.A3_btn.Size = new System.Drawing.Size(40, 38);
+            this.A3_btn.Size = new System.Drawing.Size(50, 50);
             this.A3_btn.TabIndex = 32;
             this.A3_btn.UseVisualStyleBackColor = true;
+            this.A3_btn.Click += new System.EventHandler(this.A3_btn_Click);
             // 
             // J2_btn
             // 
             this.J2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J2_btn.Location = new System.Drawing.Point(425, 104);
+            this.J2_btn.Location = new System.Drawing.Point(438, 104);
             this.J2_btn.Name = "J2_btn";
-            this.J2_btn.Size = new System.Drawing.Size(40, 38);
+            this.J2_btn.Size = new System.Drawing.Size(50, 50);
             this.J2_btn.TabIndex = 31;
             this.J2_btn.UseVisualStyleBackColor = true;
+            this.J2_btn.Click += new System.EventHandler(this.J2_btn_Click);
             // 
             // I2_btn
             // 
             this.I2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I2_btn.Location = new System.Drawing.Point(385, 104);
+            this.I2_btn.Location = new System.Drawing.Point(398, 104);
             this.I2_btn.Name = "I2_btn";
-            this.I2_btn.Size = new System.Drawing.Size(40, 38);
+            this.I2_btn.Size = new System.Drawing.Size(50, 50);
             this.I2_btn.TabIndex = 30;
             this.I2_btn.UseVisualStyleBackColor = true;
+            this.I2_btn.Click += new System.EventHandler(this.I2_btn_Click);
             // 
             // H2_btn
             // 
             this.H2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H2_btn.Location = new System.Drawing.Point(345, 104);
+            this.H2_btn.Location = new System.Drawing.Point(358, 104);
             this.H2_btn.Name = "H2_btn";
-            this.H2_btn.Size = new System.Drawing.Size(40, 38);
+            this.H2_btn.Size = new System.Drawing.Size(50, 50);
             this.H2_btn.TabIndex = 29;
             this.H2_btn.UseVisualStyleBackColor = true;
+            this.H2_btn.Click += new System.EventHandler(this.H2_btn_Click);
             // 
             // G2_btn
             // 
             this.G2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G2_btn.Location = new System.Drawing.Point(305, 104);
+            this.G2_btn.Location = new System.Drawing.Point(318, 104);
             this.G2_btn.Name = "G2_btn";
-            this.G2_btn.Size = new System.Drawing.Size(40, 38);
+            this.G2_btn.Size = new System.Drawing.Size(50, 50);
             this.G2_btn.TabIndex = 28;
             this.G2_btn.UseVisualStyleBackColor = true;
+            this.G2_btn.Click += new System.EventHandler(this.G2_btn_Click);
             // 
             // F2_btn
             // 
             this.F2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F2_btn.Location = new System.Drawing.Point(265, 104);
+            this.F2_btn.Location = new System.Drawing.Point(278, 104);
             this.F2_btn.Name = "F2_btn";
-            this.F2_btn.Size = new System.Drawing.Size(40, 38);
+            this.F2_btn.Size = new System.Drawing.Size(50, 50);
             this.F2_btn.TabIndex = 27;
             this.F2_btn.UseVisualStyleBackColor = true;
+            this.F2_btn.Click += new System.EventHandler(this.F2_btn_Click);
             // 
             // E2_btn
             // 
             this.E2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E2_btn.Location = new System.Drawing.Point(225, 104);
+            this.E2_btn.Location = new System.Drawing.Point(238, 104);
             this.E2_btn.Name = "E2_btn";
-            this.E2_btn.Size = new System.Drawing.Size(40, 38);
+            this.E2_btn.Size = new System.Drawing.Size(50, 50);
             this.E2_btn.TabIndex = 26;
             this.E2_btn.UseVisualStyleBackColor = true;
+            this.E2_btn.Click += new System.EventHandler(this.E2_btn_Click);
             // 
             // D2_btn
             // 
             this.D2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D2_btn.Location = new System.Drawing.Point(185, 104);
+            this.D2_btn.Location = new System.Drawing.Point(198, 104);
             this.D2_btn.Name = "D2_btn";
-            this.D2_btn.Size = new System.Drawing.Size(40, 38);
+            this.D2_btn.Size = new System.Drawing.Size(50, 50);
             this.D2_btn.TabIndex = 25;
             this.D2_btn.UseVisualStyleBackColor = true;
+            this.D2_btn.Click += new System.EventHandler(this.D2_btn_Click);
             // 
             // C2_btn
             // 
             this.C2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C2_btn.Location = new System.Drawing.Point(145, 104);
+            this.C2_btn.Location = new System.Drawing.Point(158, 104);
             this.C2_btn.Name = "C2_btn";
-            this.C2_btn.Size = new System.Drawing.Size(40, 38);
+            this.C2_btn.Size = new System.Drawing.Size(50, 50);
             this.C2_btn.TabIndex = 24;
             this.C2_btn.UseVisualStyleBackColor = true;
+            this.C2_btn.Click += new System.EventHandler(this.C2_btn_Click);
             // 
             // B2_btn
             // 
             this.B2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B2_btn.Location = new System.Drawing.Point(105, 104);
+            this.B2_btn.Location = new System.Drawing.Point(118, 104);
             this.B2_btn.Name = "B2_btn";
-            this.B2_btn.Size = new System.Drawing.Size(40, 38);
+            this.B2_btn.Size = new System.Drawing.Size(50, 50);
             this.B2_btn.TabIndex = 23;
             this.B2_btn.UseVisualStyleBackColor = true;
+            this.B2_btn.Click += new System.EventHandler(this.B2_btn_Click);
             // 
             // A2_btn
             // 
             this.A2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A2_btn.Location = new System.Drawing.Point(65, 104);
+            this.A2_btn.Location = new System.Drawing.Point(50, 100);
             this.A2_btn.Name = "A2_btn";
-            this.A2_btn.Size = new System.Drawing.Size(40, 38);
+            this.A2_btn.Size = new System.Drawing.Size(50, 50);
             this.A2_btn.TabIndex = 22;
             this.A2_btn.UseVisualStyleBackColor = true;
+            this.A2_btn.Click += new System.EventHandler(this.A2_btn_Click);
             // 
             // J1_btn
             // 
             this.J1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J1_btn.Location = new System.Drawing.Point(425, 66);
+            this.J1_btn.Location = new System.Drawing.Point(438, 66);
             this.J1_btn.Name = "J1_btn";
-            this.J1_btn.Size = new System.Drawing.Size(40, 38);
+            this.J1_btn.Size = new System.Drawing.Size(50, 50);
             this.J1_btn.TabIndex = 11;
             this.J1_btn.UseVisualStyleBackColor = true;
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label22.Location = new System.Drawing.Point(397, 42);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(15, 19);
-            this.label22.TabIndex = 21;
-            this.label22.Text = "I";
+            this.J1_btn.Click += new System.EventHandler(this.J1_btn_Click);
             // 
             // I1_btn
             // 
             this.I1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I1_btn.Location = new System.Drawing.Point(385, 66);
+            this.I1_btn.Location = new System.Drawing.Point(398, 66);
             this.I1_btn.Name = "I1_btn";
-            this.I1_btn.Size = new System.Drawing.Size(40, 38);
+            this.I1_btn.Size = new System.Drawing.Size(50, 50);
             this.I1_btn.TabIndex = 10;
             this.I1_btn.UseVisualStyleBackColor = true;
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label21.Location = new System.Drawing.Point(434, 42);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(16, 19);
-            this.label21.TabIndex = 20;
-            this.label21.Text = "J";
+            this.I1_btn.Click += new System.EventHandler(this.I1_btn_Click);
             // 
             // H1_btn
             // 
             this.H1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H1_btn.Location = new System.Drawing.Point(345, 66);
+            this.H1_btn.Location = new System.Drawing.Point(358, 66);
             this.H1_btn.Name = "H1_btn";
-            this.H1_btn.Size = new System.Drawing.Size(40, 38);
+            this.H1_btn.Size = new System.Drawing.Size(50, 50);
             this.H1_btn.TabIndex = 9;
             this.H1_btn.UseVisualStyleBackColor = true;
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label20.Location = new System.Drawing.Point(354, 42);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(21, 19);
-            this.label20.TabIndex = 19;
-            this.label20.Text = "H";
+            this.H1_btn.Click += new System.EventHandler(this.H1_btn_Click);
             // 
             // G1_btn
             // 
             this.G1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G1_btn.Location = new System.Drawing.Point(305, 66);
+            this.G1_btn.Location = new System.Drawing.Point(318, 66);
             this.G1_btn.Name = "G1_btn";
-            this.G1_btn.Size = new System.Drawing.Size(40, 38);
+            this.G1_btn.Size = new System.Drawing.Size(50, 50);
             this.G1_btn.TabIndex = 8;
             this.G1_btn.UseVisualStyleBackColor = true;
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label18.Location = new System.Drawing.Point(274, 42);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(18, 19);
-            this.label18.TabIndex = 17;
-            this.label18.Text = "F";
+            this.G1_btn.Click += new System.EventHandler(this.G1_btn_Click);
             // 
             // F1_btn
             // 
             this.F1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F1_btn.Location = new System.Drawing.Point(265, 66);
+            this.F1_btn.Location = new System.Drawing.Point(278, 66);
             this.F1_btn.Name = "F1_btn";
-            this.F1_btn.Size = new System.Drawing.Size(40, 38);
+            this.F1_btn.Size = new System.Drawing.Size(50, 50);
             this.F1_btn.TabIndex = 7;
             this.F1_btn.UseVisualStyleBackColor = true;
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label17.Location = new System.Drawing.Point(311, 42);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(21, 19);
-            this.label17.TabIndex = 16;
-            this.label17.Text = "G";
+            this.F1_btn.Click += new System.EventHandler(this.F1_btn_Click);
             // 
             // E1_btn
             // 
             this.E1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E1_btn.Location = new System.Drawing.Point(225, 66);
+            this.E1_btn.Location = new System.Drawing.Point(238, 66);
             this.E1_btn.Name = "E1_btn";
-            this.E1_btn.Size = new System.Drawing.Size(40, 38);
+            this.E1_btn.Size = new System.Drawing.Size(50, 50);
             this.E1_btn.TabIndex = 6;
             this.E1_btn.UseVisualStyleBackColor = true;
+            this.E1_btn.Click += new System.EventHandler(this.E1_btn_Click);
             // 
             // D1_btn
             // 
             this.D1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D1_btn.Location = new System.Drawing.Point(185, 66);
+            this.D1_btn.Location = new System.Drawing.Point(198, 66);
             this.D1_btn.Name = "D1_btn";
-            this.D1_btn.Size = new System.Drawing.Size(40, 38);
+            this.D1_btn.Size = new System.Drawing.Size(50, 50);
             this.D1_btn.TabIndex = 5;
             this.D1_btn.UseVisualStyleBackColor = true;
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label15.Location = new System.Drawing.Point(118, 42);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(19, 19);
-            this.label15.TabIndex = 14;
-            this.label15.Text = "B";
+            this.D1_btn.Click += new System.EventHandler(this.D1_btn_Click);
             // 
             // C1_btn
             // 
             this.C1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C1_btn.Location = new System.Drawing.Point(145, 66);
+            this.C1_btn.Location = new System.Drawing.Point(158, 66);
             this.C1_btn.Name = "C1_btn";
-            this.C1_btn.Size = new System.Drawing.Size(40, 38);
+            this.C1_btn.Size = new System.Drawing.Size(50, 50);
             this.C1_btn.TabIndex = 4;
             this.C1_btn.UseVisualStyleBackColor = true;
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label14.Location = new System.Drawing.Point(155, 42);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(19, 19);
-            this.label14.TabIndex = 13;
-            this.label14.Text = "C";
+            this.C1_btn.Click += new System.EventHandler(this.C1_btn_Click);
             // 
             // B1_btn
             // 
             this.B1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B1_btn.Location = new System.Drawing.Point(105, 66);
+            this.B1_btn.Location = new System.Drawing.Point(118, 66);
             this.B1_btn.Name = "B1_btn";
-            this.B1_btn.Size = new System.Drawing.Size(40, 38);
+            this.B1_btn.Size = new System.Drawing.Size(50, 50);
             this.B1_btn.TabIndex = 3;
             this.B1_btn.UseVisualStyleBackColor = true;
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label13.Location = new System.Drawing.Point(196, 42);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(21, 19);
-            this.label13.TabIndex = 12;
-            this.label13.Text = "D";
+            this.B1_btn.Click += new System.EventHandler(this.B1_btn_Click);
             // 
             // A1_btn
             // 
             this.A1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A1_btn.Location = new System.Drawing.Point(65, 66);
+            this.A1_btn.Location = new System.Drawing.Point(50, 50);
             this.A1_btn.Name = "A1_btn";
-            this.A1_btn.Size = new System.Drawing.Size(40, 38);
+            this.A1_btn.Size = new System.Drawing.Size(50, 50);
             this.A1_btn.TabIndex = 2;
             this.A1_btn.UseVisualStyleBackColor = true;
+            this.A1_btn.Click += new System.EventHandler(this.A1_btn_Click);
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
+            this.label22.Location = new System.Drawing.Point(897, 0);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(15, 19);
+            this.label22.TabIndex = 21;
+            this.label22.Text = "I";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
+            this.label21.Location = new System.Drawing.Point(934, 0);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(16, 19);
+            this.label21.TabIndex = 20;
+            this.label21.Text = "J";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
+            this.label20.Location = new System.Drawing.Point(854, 0);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(21, 19);
+            this.label20.TabIndex = 19;
+            this.label20.Text = "H";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
+            this.label18.Location = new System.Drawing.Point(774, 0);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(18, 19);
+            this.label18.TabIndex = 17;
+            this.label18.Text = "F";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
+            this.label17.Location = new System.Drawing.Point(811, 0);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(21, 19);
+            this.label17.TabIndex = 16;
+            this.label17.Text = "G";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
+            this.label15.Location = new System.Drawing.Point(618, 0);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(19, 19);
+            this.label15.TabIndex = 14;
+            this.label15.Text = "B";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
+            this.label14.Location = new System.Drawing.Point(655, 0);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(19, 19);
+            this.label14.TabIndex = 13;
+            this.label14.Text = "C";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
+            this.label13.Location = new System.Drawing.Point(696, 0);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(21, 19);
+            this.label13.TabIndex = 12;
+            this.label13.Text = "D";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label12.Location = new System.Drawing.Point(238, 42);
+            this.label12.Location = new System.Drawing.Point(738, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(19, 19);
             this.label12.TabIndex = 11;
@@ -1525,7 +1605,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label11.Location = new System.Drawing.Point(77, 42);
+            this.label11.Location = new System.Drawing.Point(577, 0);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(19, 19);
             this.label11.TabIndex = 10;
@@ -1535,7 +1615,7 @@
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label10.Location = new System.Drawing.Point(27, 414);
+            this.label10.Location = new System.Drawing.Point(0, 370);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(32, 24);
             this.label10.TabIndex = 9;
@@ -1545,7 +1625,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label9.Location = new System.Drawing.Point(38, 376);
+            this.label9.Location = new System.Drawing.Point(11, 332);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(21, 24);
             this.label9.TabIndex = 8;
@@ -1555,7 +1635,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label8.Location = new System.Drawing.Point(38, 338);
+            this.label8.Location = new System.Drawing.Point(11, 294);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(21, 24);
             this.label8.TabIndex = 7;
@@ -1565,7 +1645,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label7.Location = new System.Drawing.Point(38, 300);
+            this.label7.Location = new System.Drawing.Point(11, 256);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(21, 24);
             this.label7.TabIndex = 6;
@@ -1575,7 +1655,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label6.Location = new System.Drawing.Point(38, 262);
+            this.label6.Location = new System.Drawing.Point(11, 218);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(21, 24);
             this.label6.TabIndex = 5;
@@ -1585,7 +1665,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(38, 224);
+            this.label5.Location = new System.Drawing.Point(11, 180);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(21, 24);
             this.label5.TabIndex = 4;
@@ -1595,7 +1675,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(38, 186);
+            this.label4.Location = new System.Drawing.Point(11, 142);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(21, 24);
             this.label4.TabIndex = 3;
@@ -1605,7 +1685,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(38, 150);
+            this.label3.Location = new System.Drawing.Point(11, 106);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(21, 24);
             this.label3.TabIndex = 2;
@@ -1615,7 +1695,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label2.Location = new System.Drawing.Point(38, 111);
+            this.label2.Location = new System.Drawing.Point(11, 67);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(21, 24);
             this.label2.TabIndex = 1;
@@ -1625,7 +1705,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(38, 72);
+            this.label1.Location = new System.Drawing.Point(11, 28);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(21, 24);
             this.label1.TabIndex = 0;
@@ -1639,33 +1719,37 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 16;
             this.listBox1.Items.AddRange(new object[] {
-            "3 adet mayın gemisi(2 karelik)",
-            "3 adet muhrip (2 karelik)",
-            "4 adet denizaltı(1 karelik)",
-            "2 adet kruvazör(3 karelik)",
-            "1 adet amiral(4 karelik)"});
+            "4 adet mayın gemisi(2 karelik)",
+            "2 adet fırkateyn (4 karelik)",
+            "3 adet kruvazör(3 karelik)",
+            "1 adet amiral(4 karelik)",
+            "3 adet mayın(1 karelik)"});
             this.listBox1.Location = new System.Drawing.Point(505, 70);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(222, 96);
             this.listBox1.TabIndex = 113;
             // 
-            // dnzaltı3_btn
+            // mayın1_btn
             // 
-            this.dnzaltı3_btn.BackColor = System.Drawing.Color.Black;
-            this.dnzaltı3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.dnzaltı3_btn.Location = new System.Drawing.Point(654, 180);
-            this.dnzaltı3_btn.Name = "dnzaltı3_btn";
-            this.dnzaltı3_btn.Size = new System.Drawing.Size(40, 38);
-            this.dnzaltı3_btn.TabIndex = 115;
-            this.dnzaltı3_btn.UseVisualStyleBackColor = false;
+            this.mayın1_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın1_btn.Location = new System.Drawing.Point(504, 418);
+            this.mayın1_btn.Name = "mayın1_btn";
+            this.mayın1_btn.Size = new System.Drawing.Size(40, 38);
+            this.mayın1_btn.TabIndex = 115;
+            this.mayın1_btn.UseVisualStyleBackColor = false;
+            this.mayın1_btn.Click += new System.EventHandler(this.dnzaltı3_btn_Click);
+            this.mayın1_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseDown);
+            this.mayın1_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseMove);
+            this.mayın1_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseUp);
             // 
             // mayıng3_btn
             // 
             this.mayıng3_btn.BackColor = System.Drawing.Color.Black;
             this.mayıng3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng3_btn.Location = new System.Drawing.Point(516, 318);
+            this.mayıng3_btn.Location = new System.Drawing.Point(629, 293);
             this.mayıng3_btn.Name = "mayıng3_btn";
-            this.mayıng3_btn.Size = new System.Drawing.Size(40, 76);
+            this.mayıng3_btn.Size = new System.Drawing.Size(80, 38);
             this.mayıng3_btn.TabIndex = 123;
             this.mayıng3_btn.UseVisualStyleBackColor = false;
             // 
@@ -1673,112 +1757,84 @@
             // 
             this.mayıng2_btn.BackColor = System.Drawing.Color.Black;
             this.mayıng2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng2_btn.Location = new System.Drawing.Point(608, 332);
+            this.mayıng2_btn.Location = new System.Drawing.Point(628, 377);
             this.mayıng2_btn.Name = "mayıng2_btn";
-            this.mayıng2_btn.Size = new System.Drawing.Size(40, 76);
+            this.mayıng2_btn.Size = new System.Drawing.Size(80, 38);
             this.mayıng2_btn.TabIndex = 119;
             this.mayıng2_btn.UseVisualStyleBackColor = false;
             // 
-            // muhrip2_btn
+            // kruvazör1_btn
             // 
-            this.muhrip2_btn.BackColor = System.Drawing.Color.Black;
-            this.muhrip2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.muhrip2_btn.ForeColor = System.Drawing.Color.Black;
-            this.muhrip2_btn.Location = new System.Drawing.Point(608, 414);
-            this.muhrip2_btn.Name = "muhrip2_btn";
-            this.muhrip2_btn.Size = new System.Drawing.Size(40, 76);
-            this.muhrip2_btn.TabIndex = 124;
-            this.muhrip2_btn.UseVisualStyleBackColor = false;
+            this.kruvazör1_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör1_btn.ForeColor = System.Drawing.Color.Black;
+            this.kruvazör1_btn.Location = new System.Drawing.Point(505, 376);
+            this.kruvazör1_btn.Name = "kruvazör1_btn";
+            this.kruvazör1_btn.Size = new System.Drawing.Size(120, 37);
+            this.kruvazör1_btn.TabIndex = 124;
+            this.kruvazör1_btn.UseVisualStyleBackColor = false;
             // 
-            // dnzaltı4_btn
+            // mayın3_btn
             // 
-            this.dnzaltı4_btn.BackColor = System.Drawing.Color.Black;
-            this.dnzaltı4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.dnzaltı4_btn.Location = new System.Drawing.Point(654, 230);
-            this.dnzaltı4_btn.Name = "dnzaltı4_btn";
-            this.dnzaltı4_btn.Size = new System.Drawing.Size(40, 38);
-            this.dnzaltı4_btn.TabIndex = 120;
-            this.dnzaltı4_btn.UseVisualStyleBackColor = false;
-            // 
-            // dnzaltı2_btn
-            // 
-            this.dnzaltı2_btn.BackColor = System.Drawing.Color.Black;
-            this.dnzaltı2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.dnzaltı2_btn.Location = new System.Drawing.Point(654, 337);
-            this.dnzaltı2_btn.Name = "dnzaltı2_btn";
-            this.dnzaltı2_btn.Size = new System.Drawing.Size(40, 38);
-            this.dnzaltı2_btn.TabIndex = 117;
-            this.dnzaltı2_btn.UseVisualStyleBackColor = false;
+            this.mayın3_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın3_btn.Location = new System.Drawing.Point(590, 418);
+            this.mayın3_btn.Name = "mayın3_btn";
+            this.mayın3_btn.Size = new System.Drawing.Size(40, 38);
+            this.mayın3_btn.TabIndex = 117;
+            this.mayın3_btn.UseVisualStyleBackColor = false;
             // 
             // mayıng1_btn
             // 
             this.mayıng1_btn.BackColor = System.Drawing.Color.Black;
             this.mayıng1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng1_btn.Location = new System.Drawing.Point(562, 402);
+            this.mayıng1_btn.Location = new System.Drawing.Point(629, 335);
             this.mayıng1_btn.Name = "mayıng1_btn";
-            this.mayıng1_btn.Size = new System.Drawing.Size(40, 76);
+            this.mayıng1_btn.Size = new System.Drawing.Size(80, 38);
             this.mayıng1_btn.TabIndex = 125;
             this.mayıng1_btn.UseVisualStyleBackColor = false;
             // 
-            // muhrip1_btn
+            // fırkateyn1_btn
             // 
-            this.muhrip1_btn.BackColor = System.Drawing.Color.Black;
-            this.muhrip1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.muhrip1_btn.Location = new System.Drawing.Point(516, 400);
-            this.muhrip1_btn.Name = "muhrip1_btn";
-            this.muhrip1_btn.Size = new System.Drawing.Size(40, 76);
-            this.muhrip1_btn.TabIndex = 126;
-            this.muhrip1_btn.UseVisualStyleBackColor = false;
+            this.fırkateyn1_btn.BackColor = System.Drawing.Color.Black;
+            this.fırkateyn1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.fırkateyn1_btn.Location = new System.Drawing.Point(505, 208);
+            this.fırkateyn1_btn.Name = "fırkateyn1_btn";
+            this.fırkateyn1_btn.Size = new System.Drawing.Size(200, 36);
+            this.fırkateyn1_btn.TabIndex = 121;
+            this.fırkateyn1_btn.UseVisualStyleBackColor = false;
             // 
-            // kruvazor2_btn
+            // fırkateyn2_btn
             // 
-            this.kruvazor2_btn.BackColor = System.Drawing.Color.Black;
-            this.kruvazor2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.kruvazor2_btn.Location = new System.Drawing.Point(516, 175);
-            this.kruvazor2_btn.Name = "kruvazor2_btn";
-            this.kruvazor2_btn.Size = new System.Drawing.Size(40, 114);
-            this.kruvazor2_btn.TabIndex = 121;
-            this.kruvazor2_btn.UseVisualStyleBackColor = false;
-            // 
-            // kruvazor1_btn
-            // 
-            this.kruvazor1_btn.BackColor = System.Drawing.Color.Black;
-            this.kruvazor1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.kruvazor1_btn.Location = new System.Drawing.Point(562, 175);
-            this.kruvazor1_btn.Name = "kruvazor1_btn";
-            this.kruvazor1_btn.Size = new System.Drawing.Size(40, 114);
-            this.kruvazor1_btn.TabIndex = 116;
-            this.kruvazor1_btn.UseVisualStyleBackColor = false;
+            this.fırkateyn2_btn.BackColor = System.Drawing.Color.Black;
+            this.fırkateyn2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.fırkateyn2_btn.Location = new System.Drawing.Point(506, 166);
+            this.fırkateyn2_btn.Name = "fırkateyn2_btn";
+            this.fırkateyn2_btn.Size = new System.Drawing.Size(200, 36);
+            this.fırkateyn2_btn.TabIndex = 116;
+            this.fırkateyn2_btn.UseVisualStyleBackColor = false;
             // 
             // amiral_btn
             // 
             this.amiral_btn.BackColor = System.Drawing.Color.Black;
             this.amiral_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.amiral_btn.Location = new System.Drawing.Point(608, 174);
+            this.amiral_btn.Location = new System.Drawing.Point(505, 250);
             this.amiral_btn.Name = "amiral_btn";
-            this.amiral_btn.Size = new System.Drawing.Size(40, 151);
+            this.amiral_btn.Size = new System.Drawing.Size(200, 36);
             this.amiral_btn.TabIndex = 122;
             this.amiral_btn.UseVisualStyleBackColor = false;
+            this.amiral_btn.Click += new System.EventHandler(this.amiral_btn_Click);
             // 
-            // muhrip3_btn
+            // mayın2_btn
             // 
-            this.muhrip3_btn.BackColor = System.Drawing.Color.Black;
-            this.muhrip3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.muhrip3_btn.Location = new System.Drawing.Point(562, 318);
-            this.muhrip3_btn.Name = "muhrip3_btn";
-            this.muhrip3_btn.Size = new System.Drawing.Size(40, 76);
-            this.muhrip3_btn.TabIndex = 118;
-            this.muhrip3_btn.UseVisualStyleBackColor = false;
-            // 
-            // dnzaltı_btn
-            // 
-            this.dnzaltı_btn.BackColor = System.Drawing.Color.Black;
-            this.dnzaltı_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.dnzaltı_btn.Location = new System.Drawing.Point(654, 287);
-            this.dnzaltı_btn.Name = "dnzaltı_btn";
-            this.dnzaltı_btn.Size = new System.Drawing.Size(40, 38);
-            this.dnzaltı_btn.TabIndex = 114;
-            this.dnzaltı_btn.UseVisualStyleBackColor = false;
+            this.mayın2_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın2_btn.Location = new System.Drawing.Point(547, 418);
+            this.mayın2_btn.Name = "mayın2_btn";
+            this.mayın2_btn.Size = new System.Drawing.Size(40, 38);
+            this.mayın2_btn.TabIndex = 114;
+            this.mayın2_btn.UseVisualStyleBackColor = false;
+            this.mayın2_btn.Click += new System.EventHandler(this.mayın2_btn_Click);
             // 
             // panel2
             // 
@@ -1884,14 +1940,24 @@
             this.panel2.Controls.Add(this.label28);
             this.panel2.Controls.Add(this.F1);
             this.panel2.Controls.Add(this.label29);
+            this.panel2.Controls.Add(this.label10);
             this.panel2.Controls.Add(this.E1);
+            this.panel2.Controls.Add(this.label9);
             this.panel2.Controls.Add(this.D1);
+            this.panel2.Controls.Add(this.label8);
             this.panel2.Controls.Add(this.label30);
+            this.panel2.Controls.Add(this.label7);
             this.panel2.Controls.Add(this.C1);
+            this.panel2.Controls.Add(this.label6);
+            this.panel2.Controls.Add(this.label5);
             this.panel2.Controls.Add(this.label31);
+            this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.B1);
+            this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.label32);
+            this.panel2.Controls.Add(this.label2);
             this.panel2.Controls.Add(this.A1);
+            this.panel2.Controls.Add(this.label1);
             this.panel2.Controls.Add(this.label33);
             this.panel2.Controls.Add(this.label34);
             this.panel2.Controls.Add(this.label35);
@@ -2126,6 +2192,7 @@
             this.B9.Size = new System.Drawing.Size(40, 38);
             this.B9.TabIndex = 93;
             this.B9.UseVisualStyleBackColor = true;
+            this.B9.Click += new System.EventHandler(this.B9_Click);
             // 
             // A9
             // 
@@ -3216,34 +3283,79 @@
             this.label44.TabIndex = 0;
             this.label44.Text = "1";
             // 
+            // kruvazör3_btn
+            // 
+            this.kruvazör3_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör3_btn.ForeColor = System.Drawing.Color.Black;
+            this.kruvazör3_btn.Location = new System.Drawing.Point(505, 293);
+            this.kruvazör3_btn.Name = "kruvazör3_btn";
+            this.kruvazör3_btn.Size = new System.Drawing.Size(120, 37);
+            this.kruvazör3_btn.TabIndex = 125;
+            this.kruvazör3_btn.UseVisualStyleBackColor = false;
+            // 
+            // kruvazör2_btn
+            // 
+            this.kruvazör2_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör2_btn.ForeColor = System.Drawing.Color.Black;
+            this.kruvazör2_btn.Location = new System.Drawing.Point(505, 335);
+            this.kruvazör2_btn.Name = "kruvazör2_btn";
+            this.kruvazör2_btn.Size = new System.Drawing.Size(120, 37);
+            this.kruvazör2_btn.TabIndex = 126;
+            this.kruvazör2_btn.UseVisualStyleBackColor = false;
+            this.kruvazör2_btn.Click += new System.EventHandler(this.kruvazör2_btn_Click);
+            // 
+            // mayıng4_btn
+            // 
+            this.mayıng4_btn.BackColor = System.Drawing.Color.Black;
+            this.mayıng4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayıng4_btn.Location = new System.Drawing.Point(633, 418);
+            this.mayıng4_btn.Name = "mayıng4_btn";
+            this.mayıng4_btn.Size = new System.Drawing.Size(80, 38);
+            this.mayıng4_btn.TabIndex = 128;
+            this.mayıng4_btn.UseVisualStyleBackColor = false;
+            // 
             // oyuncu1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1252, 557);
+            this.ClientSize = new System.Drawing.Size(1036, 548);
+            this.Controls.Add(this.mayıng4_btn);
+            this.Controls.Add(this.kruvazör3_btn);
+            this.Controls.Add(this.kruvazör2_btn);
+            this.Controls.Add(this.mayın1_btn);
             this.Controls.Add(this.panel2);
-            this.Controls.Add(this.dnzaltı3_btn);
             this.Controls.Add(this.mayıng3_btn);
-            this.Controls.Add(this.mayıng2_btn);
-            this.Controls.Add(this.muhrip2_btn);
-            this.Controls.Add(this.dnzaltı4_btn);
-            this.Controls.Add(this.dnzaltı2_btn);
-            this.Controls.Add(this.mayıng1_btn);
-            this.Controls.Add(this.muhrip1_btn);
-            this.Controls.Add(this.kruvazor2_btn);
-            this.Controls.Add(this.kruvazor1_btn);
             this.Controls.Add(this.amiral_btn);
-            this.Controls.Add(this.muhrip3_btn);
-            this.Controls.Add(this.dnzaltı_btn);
+            this.Controls.Add(this.mayın3_btn);
+            this.Controls.Add(this.mayıng2_btn);
+            this.Controls.Add(this.mayıng1_btn);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.panel1);
+            this.Controls.Add(this.kruvazör1_btn);
+            this.Controls.Add(this.fırkateyn1_btn);
+            this.Controls.Add(this.mayın2_btn);
+            this.Controls.Add(this.fırkateyn2_btn);
+            this.Controls.Add(this.label18);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.label15);
+            this.Controls.Add(this.label17);
+            this.Controls.Add(this.label20);
+            this.Controls.Add(this.label21);
+            this.Controls.Add(this.label22);
             this.Name = "oyuncu1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.oyuncu1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -3372,19 +3484,16 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         public System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.Button dnzaltı3_btn;
+        private System.Windows.Forms.Button mayın1_btn;
         private System.Windows.Forms.Button mayıng3_btn;
         private System.Windows.Forms.Button mayıng2_btn;
-        private System.Windows.Forms.Button muhrip2_btn;
-        private System.Windows.Forms.Button dnzaltı4_btn;
-        private System.Windows.Forms.Button dnzaltı2_btn;
+        private System.Windows.Forms.Button kruvazör1_btn;
+        private System.Windows.Forms.Button mayın3_btn;
         private System.Windows.Forms.Button mayıng1_btn;
-        private System.Windows.Forms.Button muhrip1_btn;
-        private System.Windows.Forms.Button kruvazor2_btn;
-        private System.Windows.Forms.Button kruvazor1_btn;
+        private System.Windows.Forms.Button fırkateyn1_btn;
+        private System.Windows.Forms.Button fırkateyn2_btn;
         private System.Windows.Forms.Button amiral_btn;
-        private System.Windows.Forms.Button muhrip3_btn;
-        private System.Windows.Forms.Button dnzaltı_btn;
+        private System.Windows.Forms.Button mayın2_btn;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Button J10;
@@ -3507,5 +3616,8 @@
         private System.Windows.Forms.Label label42;
         private System.Windows.Forms.Label label43;
         private System.Windows.Forms.Label label44;
+        private System.Windows.Forms.Button kruvazör2_btn;
+        private System.Windows.Forms.Button kruvazör3_btn;
+        private System.Windows.Forms.Button mayıng4_btn;
     }
 }
