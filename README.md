@@ -1,8 +1,8 @@
 **Amiral Battı Oyunu**
 
-*Amiral battı, 2 kişilik düşünce ve strateji temelli bir kutu oyunudur. Her oyuncu kendi filo ve rakip filo kartları olan yani, yatay ve dikey koordinatların belli olduğu bir alanda oyunu oynar.*
+*Amiral battı, 2 kişilik düşünce ve strateji temelli bir kutu oyunudur. Her oyuncu kendi filo ve rakip filo kartını yani, yatay ve dikey koordinatların belli olduğu bir alanda oyunu oynar.*
 
-*Gemiler satır ve sütunlar üzerine dizilir her iki tarafta start verince oyun başlar, karşılıklı hamleler yaparak oyun devam eder. Buradaki karşılıklı hamleler yapması aslında birbiri ile haberleşmesi, bunuda tcp/ip mantığı ile yapacağız.Böylece devam eder ve karşı takımın gemilerini ilk suya düşüren oyunun kazananı olur.*
+*Gemiler satır ve sütunlar üzerine dizilir her iki tarafta start verince oyun başlar, karşılıklı hamleler yaparak oyun devam eder. Karşı takımın gemilerini ilk suya düşüren oyunun kazananı olur. Buradaki karşılıklı hamleler yapması aslında birbiri ile haberleşmesi, bunu da tcp/ip mantığı ile yapacağız.*
 
 | Gemi | Adet| Kare |
 | ------------ | ------------- | ------------- |
