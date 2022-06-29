@@ -7,9 +7,11 @@ Karşı takımın gemilerini ilk suya düşüren oyunun kazananı olur.*
 | Gemi | Adet| Kare |
 | ------------ | ------------- | ------------- |
 | Amiral | 1 |4|
-| Kruvazör| 2 |3|
-| Denizaltı | 4|1|
-| Muhrip| 3|2 |
-| Mayın gemisi|3|2 |
+| Kruvazör|3|3|
+| Fırkateyn|2|4|
+| Mayın gemisi|4|2|
+|Mayın|3 |1|
+
+
 
 ![amiral-batti2](https://user-images.githubusercontent.com/107867674/175823262-902863d9-20ed-41b4-b611-bbb4bde39084.jpg)
