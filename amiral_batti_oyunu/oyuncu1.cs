@@ -104,7 +104,7 @@ namespace amiral_batti_oyunu
 
             for (j = 0; j < 10; j++)
             {
-                if(Gemi.Location.Y >= butonlarFormKonumuY[j,0] && Gemi.Location.Y<(butonlarFormKonumuY[j,0] + ))
+                if(Gemi.Location.Y >= butonlarFormKonumuY[j,0] && Gemi.Location.Y<(butonlarFormKonumuY[j,0] + 50))
                 {
                     Gemi.Location = new Point(MayınYeniKonum+3,butonlarFormKonumuY[j, 0] + 3);
                     GemiSayıKonumu = j;
