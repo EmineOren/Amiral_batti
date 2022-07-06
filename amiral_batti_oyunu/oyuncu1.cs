@@ -17,44 +17,41 @@ namespace amiral_batti_oyunu
             InitializeComponent();
         }
 
-        bool suruklenme = false;
-        Point ilkkonum_alma;
+        bool suruklenme = false; // bool tipinde classımı tanımladım.Farenin durumlarında değişiklik yapılacak(true/false)
+        Point ilkkonum_alma;// point butonun ilk konumunu alıyoruz. 
 
-
-        private void dnzaltı3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void amiral_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void kruvazör2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
+        private string kullanılangemi;
+         /*  int i,j;
+        String GemiHarfKonumu = "";
+        int GemiSayiKonumu = 0;
+        int MayinyeniKonum = 0;*/
+      
        
          
         private void mayın1_btn_MouseDown(object sender, MouseEventArgs e)
         {
-            suruklenme = true;
-            mayın1_btn.Cursor = Cursors.SizeAll;
-            ilkkonum_alma = e.Location;
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;//işlemi başlatıyorum.
+                mayın1_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "mayın1.btn";
+            }
             
 
         }
 
         private void mayın1_btn_MouseMove(object sender, MouseEventArgs e)
         {
-            if (suruklenme)
+            if (suruklenme)// true ise
             {
                 mayın1_btn.Left = e.X + mayın1_btn.Left - (ilkkonum_alma.X);
-                // mayın1.left ile sol tarafdan uzaklık ayarlanıyor. e.X buton üzerinde mousenin hareket ettiği pixeli  + butonun soldan uzaklığını ekliyoruz son olarak ilk mouseın tıklandığı alanı çıkarıyoruz yoksa butonun en solunda olur mouse imleci.
+                //left ile soldan uzaklık ayarlandı.e.x burada mousenin buton üzerindeki hareketi+ sola olan uzaklık eklendi- mousenin tıklandıgı alan
                 mayın1_btn.Top = e.Y + mayın1_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = mayın1_btn.Top + "," + mayın1_btn.Left;
+               
+
+
             }
 
         }
@@ -62,521 +59,135 @@ namespace amiral_batti_oyunu
         {
             suruklenme = false; //Sol tuştan elimi çektim,sürükle işlemi bitti.
             mayın1_btn.Cursor = Cursors.Default; //İmlecimiz(Cursor) default değerini aldı.
+            butoneslestirme(mayın1_btn);
+        }
+
+
+        int sayac = 0;
+        int[,] butonlarX = new int[10,10];
+        int[,] butonlarY = new int[10,10];
+        int[,] butonlarFormKonumuX = new int[10,10];
+        int[,] butonlarFormKonumuY = new int[10,10];
+
+        private void butonKonumBelirleme()// butonun konumunu belirliyorum.
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    butonlarX[i, j] = panel1.Controls[sayac].Location.X;
+                    butonlarY[i, j] = panel1.Controls[sayac].Location.Y;
+                    butonlarFormKonumuX[i, j] = panel1.Controls[sayac].Location.X + panel1.Location.X;
+                    butonlarFormKonumuY[i, j] = panel1.Controls[sayac].Location.Y + panel1.Location.Y;
+                    sayac++;
+                }
+            }
+            
+        }
+        private void butoneslestirme(Button Gemi)
+        {
+            int i, j;
+            string GemiHarfKonumu = "";
+            int GemiSayıKonumu = 0;
+            int MayınYeniKonum = 0;
+
+
+            for(i=0; i<10; i++)
+            {
+                if(Gemi.Location.X >= butonlarFormKonumuX[0,i] && Gemi.Location.X<(butonlarFormKonumuX[0,i] + 50))
+                {
+                    MayınYeniKonum = butonlarFormKonumuX[0, i];
+                    break;
+                }
+            }
+
+
+            for (j = 0; j < 10; j++)
+            {
+                if(Gemi.Location.Y >= butonlarFormKonumuY[j,0] && Gemi.Location.Y<(butonlarFormKonumuY[j,0] + ))
+                {
+                    Gemi.Location = new Point(MayınYeniKonum+3,butonlarFormKonumuY[j, 0] + 3);
+                    GemiSayıKonumu = j;
+                    break;
+                }
+            }
+          
+            switch (i)
+            {
+                case 0:
+                    GemiHarfKonumu = "A";
+                    break;
+                case 1:
+                    GemiHarfKonumu = "B";
+                    break;
+                case 2:
+                    GemiHarfKonumu = "C";
+                    break;
+                case 3:
+                    GemiHarfKonumu = "D";
+                    break;
+                case 4:
+                    GemiHarfKonumu = "E";
+                    break;
+                case 5:
+                    GemiHarfKonumu = "F";
+                    break;
+                case 6:
+                    GemiHarfKonumu = "G";
+                    break;
+                case 7:
+                    GemiHarfKonumu = "H";
+                    break;
+                case 8:
+                    GemiHarfKonumu = "I";
+                    break;
+                case 9:
+                    GemiHarfKonumu = "J";
+                    break;
+            }
+            
+    
+            
+            if(i == 10 || j == 10)
+            {
+                mayın1_btn.Location = new Point(565,352); 
+                label1.Text= "";
+            }
+            else
+            {
+                label1.Text =  kullanılangemi+" " + GemiHarfKonumu + (GemiSayıKonumu + 1) +@" Bölgesine yerleştirildi.";
+
+            }
+
+      
         }
 
-        private void mayın2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A9_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A8_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A7_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B6_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A6_btn_Click(object sender, EventArgs e)
-        {
 
-        }
-
-        private void J5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A5_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A4_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A3_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void A2_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void I1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void H1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void G1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void F1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void E1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void D1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void C1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void B1_btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void J10_btn_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void oyuncu1_Load(object sender, EventArgs e)
         {
+            butonKonumBelirleme();
+        }
+
+    
+
+        private void mayıng2_btn_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void mayıng1_btn_Click(object sender, EventArgs e)
+        {
 
         }
 
-        private void B9_Click(object sender, EventArgs e)
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

@@ -50,7 +50,6 @@
             this.label2.Size = new System.Drawing.Size(69, 15);
             this.label2.TabIndex = 1;
             this.label2.Text = "1. OYUNCU:";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBox1
             // 
@@ -91,7 +90,7 @@
             this.panel1.Controls.Add(this.textBox2);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.textBox1);
-            this.panel1.Location = new System.Drawing.Point(315, 29);
+            this.panel1.Location = new System.Drawing.Point(325, 21);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(334, 108);
             this.panel1.TabIndex = 5;
@@ -120,7 +119,6 @@
             this.label1.Size = new System.Drawing.Size(147, 14);
             this.label1.TabIndex = 0;
             this.label1.Text = "Lütfen Nicknamelerinizi Giriniz";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox2
             // 
@@ -141,10 +139,11 @@
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.ClientSize = new System.Drawing.Size(854, 488);
+            this.ClientSize = new System.Drawing.Size(875, 472);
             this.Controls.Add(this.panel1);
             this.DoubleBuffered = true;
             this.ForeColor = System.Drawing.Color.Transparent;
+            this.MaximizeBox = false;
             this.Name = "Giriş_ekranı";
             this.Text = "Oyuncu Giriş Ekranı";
             this.WindowState = System.Windows.Forms.FormWindowState.Minimized;

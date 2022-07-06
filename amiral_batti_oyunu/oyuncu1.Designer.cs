@@ -33,14 +33,24 @@
             this.J10_btn = new System.Windows.Forms.Button();
             this.J9_btn = new System.Windows.Forms.Button();
             this.I10_btn = new System.Windows.Forms.Button();
+            this.label18 = new System.Windows.Forms.Label();
             this.I9_btn = new System.Windows.Forms.Button();
+            this.label11 = new System.Windows.Forms.Label();
             this.H10_btn = new System.Windows.Forms.Button();
+            this.label12 = new System.Windows.Forms.Label();
             this.H9_btn = new System.Windows.Forms.Button();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
             this.G10_btn = new System.Windows.Forms.Button();
+            this.label15 = new System.Windows.Forms.Label();
             this.G9_btn = new System.Windows.Forms.Button();
+            this.label17 = new System.Windows.Forms.Label();
             this.F10_btn = new System.Windows.Forms.Button();
+            this.label20 = new System.Windows.Forms.Label();
             this.E10_btn = new System.Windows.Forms.Button();
+            this.label21 = new System.Windows.Forms.Label();
             this.F9_btn = new System.Windows.Forms.Button();
+            this.label22 = new System.Windows.Forms.Label();
             this.D10_btn = new System.Windows.Forms.Button();
             this.E9_btn = new System.Windows.Forms.Button();
             this.C10_btn = new System.Windows.Forms.Button();
@@ -130,169 +140,38 @@
             this.C1_btn = new System.Windows.Forms.Button();
             this.B1_btn = new System.Windows.Forms.Button();
             this.A1_btn = new System.Windows.Forms.Button();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.label39 = new System.Windows.Forms.Label();
+            this.label44 = new System.Windows.Forms.Label();
+            this.label43 = new System.Windows.Forms.Label();
+            this.label42 = new System.Windows.Forms.Label();
+            this.label41 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
+            this.label38 = new System.Windows.Forms.Label();
+            this.label35 = new System.Windows.Forms.Label();
+            this.label37 = new System.Windows.Forms.Label();
+            this.label36 = new System.Windows.Forms.Label();
             this.mayın1_btn = new System.Windows.Forms.Button();
             this.mayıng3_btn = new System.Windows.Forms.Button();
             this.mayıng2_btn = new System.Windows.Forms.Button();
-            this.kruvazör1_btn = new System.Windows.Forms.Button();
-            this.mayın3_btn = new System.Windows.Forms.Button();
             this.mayıng1_btn = new System.Windows.Forms.Button();
             this.fırkateyn1_btn = new System.Windows.Forms.Button();
             this.fırkateyn2_btn = new System.Windows.Forms.Button();
             this.amiral_btn = new System.Windows.Forms.Button();
-            this.mayın2_btn = new System.Windows.Forms.Button();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.label24 = new System.Windows.Forms.Label();
-            this.J10 = new System.Windows.Forms.Button();
-            this.J9 = new System.Windows.Forms.Button();
-            this.I10 = new System.Windows.Forms.Button();
-            this.I9 = new System.Windows.Forms.Button();
-            this.H10 = new System.Windows.Forms.Button();
-            this.H9 = new System.Windows.Forms.Button();
-            this.G10 = new System.Windows.Forms.Button();
-            this.G9 = new System.Windows.Forms.Button();
-            this.F10 = new System.Windows.Forms.Button();
-            this.E10 = new System.Windows.Forms.Button();
-            this.F9 = new System.Windows.Forms.Button();
-            this.D10 = new System.Windows.Forms.Button();
-            this.E9 = new System.Windows.Forms.Button();
-            this.C10 = new System.Windows.Forms.Button();
-            this.D9 = new System.Windows.Forms.Button();
-            this.B10 = new System.Windows.Forms.Button();
-            this.C9 = new System.Windows.Forms.Button();
-            this.A10 = new System.Windows.Forms.Button();
-            this.B9 = new System.Windows.Forms.Button();
-            this.A9 = new System.Windows.Forms.Button();
-            this.J8 = new System.Windows.Forms.Button();
-            this.I8 = new System.Windows.Forms.Button();
-            this.H8 = new System.Windows.Forms.Button();
-            this.G8 = new System.Windows.Forms.Button();
-            this.F8 = new System.Windows.Forms.Button();
-            this.E8 = new System.Windows.Forms.Button();
-            this.D8 = new System.Windows.Forms.Button();
-            this.C8 = new System.Windows.Forms.Button();
-            this.B8 = new System.Windows.Forms.Button();
-            this.A8 = new System.Windows.Forms.Button();
-            this.J7 = new System.Windows.Forms.Button();
-            this.I7 = new System.Windows.Forms.Button();
-            this.H7 = new System.Windows.Forms.Button();
-            this.G7 = new System.Windows.Forms.Button();
-            this.F7 = new System.Windows.Forms.Button();
-            this.E7 = new System.Windows.Forms.Button();
-            this.D7 = new System.Windows.Forms.Button();
-            this.C7 = new System.Windows.Forms.Button();
-            this.B7 = new System.Windows.Forms.Button();
-            this.A7 = new System.Windows.Forms.Button();
-            this.J6 = new System.Windows.Forms.Button();
-            this.I6 = new System.Windows.Forms.Button();
-            this.H6 = new System.Windows.Forms.Button();
-            this.G6 = new System.Windows.Forms.Button();
-            this.F6 = new System.Windows.Forms.Button();
-            this.E6 = new System.Windows.Forms.Button();
-            this.D6 = new System.Windows.Forms.Button();
-            this.C6 = new System.Windows.Forms.Button();
-            this.B6 = new System.Windows.Forms.Button();
-            this.A6 = new System.Windows.Forms.Button();
-            this.J5 = new System.Windows.Forms.Button();
-            this.I5 = new System.Windows.Forms.Button();
-            this.H5 = new System.Windows.Forms.Button();
-            this.G5 = new System.Windows.Forms.Button();
-            this.F5 = new System.Windows.Forms.Button();
-            this.E5 = new System.Windows.Forms.Button();
-            this.D5 = new System.Windows.Forms.Button();
-            this.C5 = new System.Windows.Forms.Button();
-            this.B5 = new System.Windows.Forms.Button();
-            this.A5 = new System.Windows.Forms.Button();
-            this.J4 = new System.Windows.Forms.Button();
-            this.I4 = new System.Windows.Forms.Button();
-            this.H4 = new System.Windows.Forms.Button();
-            this.G4 = new System.Windows.Forms.Button();
-            this.F4 = new System.Windows.Forms.Button();
-            this.E4 = new System.Windows.Forms.Button();
-            this.D4 = new System.Windows.Forms.Button();
-            this.C4 = new System.Windows.Forms.Button();
-            this.B4 = new System.Windows.Forms.Button();
-            this.A4 = new System.Windows.Forms.Button();
-            this.J3 = new System.Windows.Forms.Button();
-            this.I3 = new System.Windows.Forms.Button();
-            this.H3 = new System.Windows.Forms.Button();
-            this.G3 = new System.Windows.Forms.Button();
-            this.F3 = new System.Windows.Forms.Button();
-            this.E3 = new System.Windows.Forms.Button();
-            this.D3 = new System.Windows.Forms.Button();
-            this.C3 = new System.Windows.Forms.Button();
-            this.B3 = new System.Windows.Forms.Button();
-            this.A3 = new System.Windows.Forms.Button();
-            this.J2 = new System.Windows.Forms.Button();
-            this.I2 = new System.Windows.Forms.Button();
-            this.H2 = new System.Windows.Forms.Button();
-            this.G2 = new System.Windows.Forms.Button();
-            this.F2 = new System.Windows.Forms.Button();
-            this.E2 = new System.Windows.Forms.Button();
-            this.D2 = new System.Windows.Forms.Button();
-            this.C2 = new System.Windows.Forms.Button();
-            this.B2 = new System.Windows.Forms.Button();
-            this.A2 = new System.Windows.Forms.Button();
-            this.J1 = new System.Windows.Forms.Button();
-            this.label25 = new System.Windows.Forms.Label();
-            this.I1 = new System.Windows.Forms.Button();
-            this.label26 = new System.Windows.Forms.Label();
-            this.H1 = new System.Windows.Forms.Button();
-            this.label27 = new System.Windows.Forms.Label();
-            this.G1 = new System.Windows.Forms.Button();
-            this.label28 = new System.Windows.Forms.Label();
-            this.F1 = new System.Windows.Forms.Button();
-            this.label29 = new System.Windows.Forms.Label();
-            this.E1 = new System.Windows.Forms.Button();
-            this.D1 = new System.Windows.Forms.Button();
-            this.label30 = new System.Windows.Forms.Label();
-            this.C1 = new System.Windows.Forms.Button();
-            this.label31 = new System.Windows.Forms.Label();
-            this.B1 = new System.Windows.Forms.Button();
-            this.label32 = new System.Windows.Forms.Label();
-            this.A1 = new System.Windows.Forms.Button();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
-            this.label39 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
-            this.label42 = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
-            this.label44 = new System.Windows.Forms.Label();
-            this.kruvazör3_btn = new System.Windows.Forms.Button();
-            this.kruvazör2_btn = new System.Windows.Forms.Button();
             this.mayıng4_btn = new System.Windows.Forms.Button();
+            this.kruvazör1_btn = new System.Windows.Forms.Button();
+            this.kruvazör2_btn = new System.Windows.Forms.Button();
+            this.kruvazör3_btn = new System.Windows.Forms.Button();
+            this.mayın3_btn = new System.Windows.Forms.Button();
+            this.mayın2_btn = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
-            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.Silver;
+            this.panel1.BackColor = System.Drawing.Color.White;
             this.panel1.Controls.Add(this.label16);
             this.panel1.Controls.Add(this.J10_btn);
             this.panel1.Controls.Add(this.J9_btn);
@@ -394,9 +273,9 @@
             this.panel1.Controls.Add(this.C1_btn);
             this.panel1.Controls.Add(this.B1_btn);
             this.panel1.Controls.Add(this.A1_btn);
-            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Location = new System.Drawing.Point(38, 36);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(500, 571);
+            this.panel1.Size = new System.Drawing.Size(521, 538);
             this.panel1.TabIndex = 1;
             // 
             // label16
@@ -405,7 +284,7 @@
             this.label16.Cursor = System.Windows.Forms.Cursors.Default;
             this.label16.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.label16.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic);
-            this.label16.Location = new System.Drawing.Point(236, 480);
+            this.label16.Location = new System.Drawing.Point(245, 515);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(62, 16);
             this.label16.TabIndex = 112;
@@ -415,1304 +294,1342 @@
             // 
             this.J10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J10_btn.Location = new System.Drawing.Point(438, 408);
+            this.J10_btn.Location = new System.Drawing.Point(461, 462);
             this.J10_btn.Name = "J10_btn";
             this.J10_btn.Size = new System.Drawing.Size(50, 50);
             this.J10_btn.TabIndex = 111;
             this.J10_btn.UseVisualStyleBackColor = true;
-            this.J10_btn.Click += new System.EventHandler(this.J10_btn_Click);
             // 
             // J9_btn
             // 
             this.J9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J9_btn.Location = new System.Drawing.Point(438, 370);
+            this.J9_btn.Location = new System.Drawing.Point(461, 412);
             this.J9_btn.Name = "J9_btn";
             this.J9_btn.Size = new System.Drawing.Size(50, 50);
             this.J9_btn.TabIndex = 101;
             this.J9_btn.UseVisualStyleBackColor = true;
-            this.J9_btn.Click += new System.EventHandler(this.J9_btn_Click);
             // 
             // I10_btn
             // 
             this.I10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I10_btn.Location = new System.Drawing.Point(398, 408);
+            this.I10_btn.Location = new System.Drawing.Point(411, 462);
             this.I10_btn.Name = "I10_btn";
             this.I10_btn.Size = new System.Drawing.Size(50, 50);
             this.I10_btn.TabIndex = 110;
             this.I10_btn.UseVisualStyleBackColor = true;
-            this.I10_btn.Click += new System.EventHandler(this.I10_btn_Click);
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label18.Location = new System.Drawing.Point(316, 9);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(22, 24);
+            this.label18.TabIndex = 17;
+            this.label18.Text = "F";
             // 
             // I9_btn
             // 
             this.I9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I9_btn.Location = new System.Drawing.Point(398, 370);
+            this.I9_btn.Location = new System.Drawing.Point(411, 412);
             this.I9_btn.Name = "I9_btn";
             this.I9_btn.Size = new System.Drawing.Size(50, 50);
             this.I9_btn.TabIndex = 100;
             this.I9_btn.UseVisualStyleBackColor = true;
-            this.I9_btn.Click += new System.EventHandler(this.I9_btn_Click);
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label11.Location = new System.Drawing.Point(66, 9);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(23, 24);
+            this.label11.TabIndex = 10;
+            this.label11.Text = "A";
             // 
             // H10_btn
             // 
             this.H10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H10_btn.Location = new System.Drawing.Point(358, 408);
+            this.H10_btn.Location = new System.Drawing.Point(361, 462);
             this.H10_btn.Name = "H10_btn";
             this.H10_btn.Size = new System.Drawing.Size(50, 50);
             this.H10_btn.TabIndex = 109;
             this.H10_btn.UseVisualStyleBackColor = true;
-            this.H10_btn.Click += new System.EventHandler(this.H10_btn_Click);
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label12.Location = new System.Drawing.Point(267, 9);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(22, 24);
+            this.label12.TabIndex = 11;
+            this.label12.Text = "E";
             // 
             // H9_btn
             // 
             this.H9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H9_btn.Location = new System.Drawing.Point(358, 370);
+            this.H9_btn.Location = new System.Drawing.Point(361, 412);
             this.H9_btn.Name = "H9_btn";
             this.H9_btn.Size = new System.Drawing.Size(50, 50);
             this.H9_btn.TabIndex = 99;
             this.H9_btn.UseVisualStyleBackColor = true;
-            this.H9_btn.Click += new System.EventHandler(this.H9_btn_Click);
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label13.Location = new System.Drawing.Point(215, 9);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(25, 24);
+            this.label13.TabIndex = 12;
+            this.label13.Text = "D";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label14.Location = new System.Drawing.Point(165, 9);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(23, 24);
+            this.label14.TabIndex = 13;
+            this.label14.Text = "C";
             // 
             // G10_btn
             // 
             this.G10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G10_btn.Location = new System.Drawing.Point(318, 408);
+            this.G10_btn.Location = new System.Drawing.Point(311, 462);
             this.G10_btn.Name = "G10_btn";
             this.G10_btn.Size = new System.Drawing.Size(50, 50);
             this.G10_btn.TabIndex = 108;
             this.G10_btn.UseVisualStyleBackColor = true;
-            this.G10_btn.Click += new System.EventHandler(this.G10_btn_Click);
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label15.Location = new System.Drawing.Point(116, 9);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(22, 24);
+            this.label15.TabIndex = 14;
+            this.label15.Text = "B";
             // 
             // G9_btn
             // 
             this.G9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G9_btn.Location = new System.Drawing.Point(318, 370);
+            this.G9_btn.Location = new System.Drawing.Point(311, 412);
             this.G9_btn.Name = "G9_btn";
             this.G9_btn.Size = new System.Drawing.Size(50, 50);
             this.G9_btn.TabIndex = 98;
             this.G9_btn.UseVisualStyleBackColor = true;
-            this.G9_btn.Click += new System.EventHandler(this.G9_btn_Click);
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label17.Location = new System.Drawing.Point(365, 9);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(25, 24);
+            this.label17.TabIndex = 16;
+            this.label17.Text = "G";
             // 
             // F10_btn
             // 
             this.F10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F10_btn.Location = new System.Drawing.Point(278, 408);
+            this.F10_btn.Location = new System.Drawing.Point(261, 462);
             this.F10_btn.Name = "F10_btn";
             this.F10_btn.Size = new System.Drawing.Size(50, 50);
             this.F10_btn.TabIndex = 107;
             this.F10_btn.UseVisualStyleBackColor = true;
-            this.F10_btn.Click += new System.EventHandler(this.F10_btn_Click);
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label20.Location = new System.Drawing.Point(417, 9);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(25, 24);
+            this.label20.TabIndex = 19;
+            this.label20.Text = "H";
             // 
             // E10_btn
             // 
             this.E10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E10_btn.Location = new System.Drawing.Point(238, 408);
+            this.E10_btn.Location = new System.Drawing.Point(211, 462);
             this.E10_btn.Name = "E10_btn";
             this.E10_btn.Size = new System.Drawing.Size(50, 50);
             this.E10_btn.TabIndex = 106;
             this.E10_btn.UseVisualStyleBackColor = true;
-            this.E10_btn.Click += new System.EventHandler(this.E10_btn_Click);
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label21.Location = new System.Drawing.Point(515, 9);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(19, 24);
+            this.label21.TabIndex = 20;
+            this.label21.Text = "J";
             // 
             // F9_btn
             // 
             this.F9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F9_btn.Location = new System.Drawing.Point(278, 370);
+            this.F9_btn.Location = new System.Drawing.Point(261, 412);
             this.F9_btn.Name = "F9_btn";
             this.F9_btn.Size = new System.Drawing.Size(50, 50);
             this.F9_btn.TabIndex = 97;
             this.F9_btn.UseVisualStyleBackColor = true;
-            this.F9_btn.Click += new System.EventHandler(this.F9_btn_Click);
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Font = new System.Drawing.Font("Bell MT", 14F, System.Drawing.FontStyle.Bold);
+            this.label22.Location = new System.Drawing.Point(469, 9);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(17, 24);
+            this.label22.TabIndex = 21;
+            this.label22.Text = "I";
             // 
             // D10_btn
             // 
             this.D10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D10_btn.Location = new System.Drawing.Point(198, 408);
+            this.D10_btn.Location = new System.Drawing.Point(161, 462);
             this.D10_btn.Name = "D10_btn";
             this.D10_btn.Size = new System.Drawing.Size(50, 50);
             this.D10_btn.TabIndex = 105;
             this.D10_btn.UseVisualStyleBackColor = true;
-            this.D10_btn.Click += new System.EventHandler(this.D10_btn_Click);
             // 
             // E9_btn
             // 
             this.E9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E9_btn.Location = new System.Drawing.Point(238, 370);
+            this.E9_btn.Location = new System.Drawing.Point(211, 412);
             this.E9_btn.Name = "E9_btn";
             this.E9_btn.Size = new System.Drawing.Size(50, 50);
             this.E9_btn.TabIndex = 96;
             this.E9_btn.UseVisualStyleBackColor = true;
-            this.E9_btn.Click += new System.EventHandler(this.E9_btn_Click);
             // 
             // C10_btn
             // 
             this.C10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C10_btn.Location = new System.Drawing.Point(158, 408);
+            this.C10_btn.Location = new System.Drawing.Point(111, 462);
             this.C10_btn.Name = "C10_btn";
             this.C10_btn.Size = new System.Drawing.Size(50, 50);
             this.C10_btn.TabIndex = 104;
             this.C10_btn.UseVisualStyleBackColor = true;
-            this.C10_btn.Click += new System.EventHandler(this.C10_btn_Click);
             // 
             // D9_btn
             // 
             this.D9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D9_btn.Location = new System.Drawing.Point(198, 370);
+            this.D9_btn.Location = new System.Drawing.Point(161, 412);
             this.D9_btn.Name = "D9_btn";
             this.D9_btn.Size = new System.Drawing.Size(50, 50);
             this.D9_btn.TabIndex = 95;
             this.D9_btn.UseVisualStyleBackColor = true;
-            this.D9_btn.Click += new System.EventHandler(this.D9_btn_Click);
             // 
             // B10_btn
             // 
             this.B10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B10_btn.Location = new System.Drawing.Point(118, 408);
+            this.B10_btn.Location = new System.Drawing.Point(61, 462);
             this.B10_btn.Name = "B10_btn";
             this.B10_btn.Size = new System.Drawing.Size(50, 50);
             this.B10_btn.TabIndex = 103;
             this.B10_btn.UseVisualStyleBackColor = true;
-            this.B10_btn.Click += new System.EventHandler(this.B10_btn_Click);
             // 
             // C9_btn
             // 
             this.C9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C9_btn.Location = new System.Drawing.Point(158, 370);
+            this.C9_btn.Location = new System.Drawing.Point(111, 412);
             this.C9_btn.Name = "C9_btn";
             this.C9_btn.Size = new System.Drawing.Size(50, 50);
             this.C9_btn.TabIndex = 94;
             this.C9_btn.UseVisualStyleBackColor = true;
-            this.C9_btn.Click += new System.EventHandler(this.C9_btn_Click);
             // 
             // A10_btn
             // 
             this.A10_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A10_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A10_btn.Location = new System.Drawing.Point(50, 500);
+            this.A10_btn.Location = new System.Drawing.Point(11, 462);
             this.A10_btn.Name = "A10_btn";
             this.A10_btn.Size = new System.Drawing.Size(50, 50);
             this.A10_btn.TabIndex = 102;
             this.A10_btn.UseVisualStyleBackColor = true;
-            this.A10_btn.Click += new System.EventHandler(this.A10_btn_Click);
             // 
             // B9_btn
             // 
             this.B9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B9_btn.Location = new System.Drawing.Point(118, 370);
+            this.B9_btn.Location = new System.Drawing.Point(61, 412);
             this.B9_btn.Name = "B9_btn";
             this.B9_btn.Size = new System.Drawing.Size(50, 50);
             this.B9_btn.TabIndex = 93;
             this.B9_btn.UseVisualStyleBackColor = true;
-            this.B9_btn.Click += new System.EventHandler(this.B9_btn_Click);
             // 
             // A9_btn
             // 
             this.A9_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A9_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A9_btn.Location = new System.Drawing.Point(50, 450);
+            this.A9_btn.Location = new System.Drawing.Point(11, 412);
             this.A9_btn.Name = "A9_btn";
             this.A9_btn.Size = new System.Drawing.Size(50, 50);
             this.A9_btn.TabIndex = 92;
             this.A9_btn.UseVisualStyleBackColor = true;
-            this.A9_btn.Click += new System.EventHandler(this.A9_btn_Click);
             // 
             // J8_btn
             // 
             this.J8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J8_btn.Location = new System.Drawing.Point(438, 332);
+            this.J8_btn.Location = new System.Drawing.Point(461, 362);
             this.J8_btn.Name = "J8_btn";
             this.J8_btn.Size = new System.Drawing.Size(50, 50);
             this.J8_btn.TabIndex = 91;
             this.J8_btn.UseVisualStyleBackColor = true;
-            this.J8_btn.Click += new System.EventHandler(this.J8_btn_Click);
             // 
             // I8_btn
             // 
             this.I8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I8_btn.Location = new System.Drawing.Point(398, 332);
+            this.I8_btn.Location = new System.Drawing.Point(411, 362);
             this.I8_btn.Name = "I8_btn";
             this.I8_btn.Size = new System.Drawing.Size(50, 50);
             this.I8_btn.TabIndex = 90;
             this.I8_btn.UseVisualStyleBackColor = true;
-            this.I8_btn.Click += new System.EventHandler(this.I8_btn_Click);
             // 
             // H8_btn
             // 
             this.H8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H8_btn.Location = new System.Drawing.Point(358, 332);
+            this.H8_btn.Location = new System.Drawing.Point(361, 362);
             this.H8_btn.Name = "H8_btn";
             this.H8_btn.Size = new System.Drawing.Size(50, 50);
             this.H8_btn.TabIndex = 89;
             this.H8_btn.UseVisualStyleBackColor = true;
-            this.H8_btn.Click += new System.EventHandler(this.H8_btn_Click);
             // 
             // G8_btn
             // 
             this.G8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G8_btn.Location = new System.Drawing.Point(318, 332);
+            this.G8_btn.Location = new System.Drawing.Point(311, 362);
             this.G8_btn.Name = "G8_btn";
             this.G8_btn.Size = new System.Drawing.Size(50, 50);
             this.G8_btn.TabIndex = 88;
             this.G8_btn.UseVisualStyleBackColor = true;
-            this.G8_btn.Click += new System.EventHandler(this.G8_btn_Click);
             // 
             // F8_btn
             // 
             this.F8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F8_btn.Location = new System.Drawing.Point(278, 332);
+            this.F8_btn.Location = new System.Drawing.Point(261, 362);
             this.F8_btn.Name = "F8_btn";
             this.F8_btn.Size = new System.Drawing.Size(50, 50);
             this.F8_btn.TabIndex = 87;
             this.F8_btn.UseVisualStyleBackColor = true;
-            this.F8_btn.Click += new System.EventHandler(this.F8_btn_Click);
             // 
             // E8_btn
             // 
             this.E8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E8_btn.Location = new System.Drawing.Point(238, 332);
+            this.E8_btn.Location = new System.Drawing.Point(211, 362);
             this.E8_btn.Name = "E8_btn";
             this.E8_btn.Size = new System.Drawing.Size(50, 50);
             this.E8_btn.TabIndex = 86;
             this.E8_btn.UseVisualStyleBackColor = true;
-            this.E8_btn.Click += new System.EventHandler(this.E8_btn_Click);
             // 
             // D8_btn
             // 
             this.D8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D8_btn.Location = new System.Drawing.Point(198, 332);
+            this.D8_btn.Location = new System.Drawing.Point(161, 362);
             this.D8_btn.Name = "D8_btn";
             this.D8_btn.Size = new System.Drawing.Size(50, 50);
             this.D8_btn.TabIndex = 85;
             this.D8_btn.UseVisualStyleBackColor = true;
-            this.D8_btn.Click += new System.EventHandler(this.D8_btn_Click);
             // 
             // C8_btn
             // 
             this.C8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C8_btn.Location = new System.Drawing.Point(158, 332);
+            this.C8_btn.Location = new System.Drawing.Point(111, 362);
             this.C8_btn.Name = "C8_btn";
             this.C8_btn.Size = new System.Drawing.Size(50, 50);
             this.C8_btn.TabIndex = 84;
             this.C8_btn.UseVisualStyleBackColor = true;
-            this.C8_btn.Click += new System.EventHandler(this.C8_btn_Click);
             // 
             // B8_btn
             // 
             this.B8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B8_btn.Location = new System.Drawing.Point(118, 332);
+            this.B8_btn.Location = new System.Drawing.Point(61, 362);
             this.B8_btn.Name = "B8_btn";
             this.B8_btn.Size = new System.Drawing.Size(50, 50);
             this.B8_btn.TabIndex = 83;
             this.B8_btn.UseVisualStyleBackColor = true;
-            this.B8_btn.Click += new System.EventHandler(this.B8_btn_Click);
             // 
             // A8_btn
             // 
             this.A8_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A8_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A8_btn.Location = new System.Drawing.Point(50, 400);
+            this.A8_btn.Location = new System.Drawing.Point(11, 362);
             this.A8_btn.Name = "A8_btn";
             this.A8_btn.Size = new System.Drawing.Size(50, 50);
             this.A8_btn.TabIndex = 82;
             this.A8_btn.UseVisualStyleBackColor = true;
-            this.A8_btn.Click += new System.EventHandler(this.A8_btn_Click);
             // 
             // J7_btn
             // 
             this.J7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J7_btn.Location = new System.Drawing.Point(438, 294);
+            this.J7_btn.Location = new System.Drawing.Point(461, 312);
             this.J7_btn.Name = "J7_btn";
             this.J7_btn.Size = new System.Drawing.Size(50, 50);
             this.J7_btn.TabIndex = 81;
             this.J7_btn.UseVisualStyleBackColor = true;
-            this.J7_btn.Click += new System.EventHandler(this.J7_btn_Click);
             // 
             // I7_btn
             // 
             this.I7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I7_btn.Location = new System.Drawing.Point(398, 294);
+            this.I7_btn.Location = new System.Drawing.Point(411, 312);
             this.I7_btn.Name = "I7_btn";
             this.I7_btn.Size = new System.Drawing.Size(50, 50);
             this.I7_btn.TabIndex = 80;
             this.I7_btn.UseVisualStyleBackColor = true;
-            this.I7_btn.Click += new System.EventHandler(this.I7_btn_Click);
             // 
             // H7_btn
             // 
             this.H7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H7_btn.Location = new System.Drawing.Point(358, 294);
+            this.H7_btn.Location = new System.Drawing.Point(361, 312);
             this.H7_btn.Name = "H7_btn";
             this.H7_btn.Size = new System.Drawing.Size(50, 50);
             this.H7_btn.TabIndex = 79;
             this.H7_btn.UseVisualStyleBackColor = true;
-            this.H7_btn.Click += new System.EventHandler(this.H7_btn_Click);
             // 
             // G7_btn
             // 
             this.G7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G7_btn.Location = new System.Drawing.Point(318, 294);
+            this.G7_btn.Location = new System.Drawing.Point(311, 312);
             this.G7_btn.Name = "G7_btn";
             this.G7_btn.Size = new System.Drawing.Size(50, 50);
             this.G7_btn.TabIndex = 78;
             this.G7_btn.UseVisualStyleBackColor = true;
-            this.G7_btn.Click += new System.EventHandler(this.G7_btn_Click);
             // 
             // F7_btn
             // 
             this.F7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F7_btn.Location = new System.Drawing.Point(278, 294);
+            this.F7_btn.Location = new System.Drawing.Point(261, 312);
             this.F7_btn.Name = "F7_btn";
             this.F7_btn.Size = new System.Drawing.Size(50, 50);
             this.F7_btn.TabIndex = 77;
             this.F7_btn.UseVisualStyleBackColor = true;
-            this.F7_btn.Click += new System.EventHandler(this.F7_btn_Click);
             // 
             // E7_btn
             // 
             this.E7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E7_btn.Location = new System.Drawing.Point(238, 294);
+            this.E7_btn.Location = new System.Drawing.Point(211, 312);
             this.E7_btn.Name = "E7_btn";
             this.E7_btn.Size = new System.Drawing.Size(50, 50);
             this.E7_btn.TabIndex = 76;
             this.E7_btn.UseVisualStyleBackColor = true;
-            this.E7_btn.Click += new System.EventHandler(this.E7_btn_Click);
             // 
             // D7_btn
             // 
             this.D7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D7_btn.Location = new System.Drawing.Point(198, 294);
+            this.D7_btn.Location = new System.Drawing.Point(161, 312);
             this.D7_btn.Name = "D7_btn";
             this.D7_btn.Size = new System.Drawing.Size(50, 50);
             this.D7_btn.TabIndex = 75;
             this.D7_btn.UseVisualStyleBackColor = true;
-            this.D7_btn.Click += new System.EventHandler(this.D7_btn_Click);
             // 
             // C7_btn
             // 
             this.C7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C7_btn.Location = new System.Drawing.Point(158, 294);
+            this.C7_btn.Location = new System.Drawing.Point(111, 312);
             this.C7_btn.Name = "C7_btn";
             this.C7_btn.Size = new System.Drawing.Size(50, 50);
             this.C7_btn.TabIndex = 74;
             this.C7_btn.UseVisualStyleBackColor = true;
-            this.C7_btn.Click += new System.EventHandler(this.C7_btn_Click);
             // 
             // B7_btn
             // 
             this.B7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B7_btn.Location = new System.Drawing.Point(118, 294);
+            this.B7_btn.Location = new System.Drawing.Point(61, 312);
             this.B7_btn.Name = "B7_btn";
             this.B7_btn.Size = new System.Drawing.Size(50, 50);
             this.B7_btn.TabIndex = 73;
             this.B7_btn.UseVisualStyleBackColor = true;
-            this.B7_btn.Click += new System.EventHandler(this.B7_btn_Click);
             // 
             // A7_btn
             // 
             this.A7_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A7_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A7_btn.Location = new System.Drawing.Point(50, 350);
+            this.A7_btn.Location = new System.Drawing.Point(11, 312);
             this.A7_btn.Name = "A7_btn";
             this.A7_btn.Size = new System.Drawing.Size(50, 50);
             this.A7_btn.TabIndex = 72;
             this.A7_btn.UseVisualStyleBackColor = true;
-            this.A7_btn.Click += new System.EventHandler(this.A7_btn_Click);
             // 
             // J6_btn
             // 
             this.J6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J6_btn.Location = new System.Drawing.Point(438, 256);
+            this.J6_btn.Location = new System.Drawing.Point(461, 262);
             this.J6_btn.Name = "J6_btn";
             this.J6_btn.Size = new System.Drawing.Size(50, 50);
             this.J6_btn.TabIndex = 71;
             this.J6_btn.UseVisualStyleBackColor = true;
-            this.J6_btn.Click += new System.EventHandler(this.J6_btn_Click);
             // 
             // I6_btn
             // 
             this.I6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I6_btn.Location = new System.Drawing.Point(398, 256);
+            this.I6_btn.Location = new System.Drawing.Point(411, 262);
             this.I6_btn.Name = "I6_btn";
             this.I6_btn.Size = new System.Drawing.Size(50, 50);
             this.I6_btn.TabIndex = 70;
             this.I6_btn.UseVisualStyleBackColor = true;
-            this.I6_btn.Click += new System.EventHandler(this.I6_btn_Click);
             // 
             // H6_btn
             // 
             this.H6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H6_btn.Location = new System.Drawing.Point(358, 256);
+            this.H6_btn.Location = new System.Drawing.Point(361, 262);
             this.H6_btn.Name = "H6_btn";
             this.H6_btn.Size = new System.Drawing.Size(50, 50);
             this.H6_btn.TabIndex = 69;
             this.H6_btn.UseVisualStyleBackColor = true;
-            this.H6_btn.Click += new System.EventHandler(this.H6_btn_Click);
             // 
             // G6_btn
             // 
             this.G6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G6_btn.Location = new System.Drawing.Point(318, 256);
+            this.G6_btn.Location = new System.Drawing.Point(311, 262);
             this.G6_btn.Name = "G6_btn";
             this.G6_btn.Size = new System.Drawing.Size(50, 50);
             this.G6_btn.TabIndex = 68;
             this.G6_btn.UseVisualStyleBackColor = true;
-            this.G6_btn.Click += new System.EventHandler(this.G6_btn_Click);
             // 
             // F6_btn
             // 
             this.F6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F6_btn.Location = new System.Drawing.Point(278, 256);
+            this.F6_btn.Location = new System.Drawing.Point(261, 262);
             this.F6_btn.Name = "F6_btn";
             this.F6_btn.Size = new System.Drawing.Size(50, 50);
             this.F6_btn.TabIndex = 67;
             this.F6_btn.UseVisualStyleBackColor = true;
-            this.F6_btn.Click += new System.EventHandler(this.F6_btn_Click);
             // 
             // E6_btn
             // 
             this.E6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E6_btn.Location = new System.Drawing.Point(238, 256);
+            this.E6_btn.Location = new System.Drawing.Point(211, 262);
             this.E6_btn.Name = "E6_btn";
             this.E6_btn.Size = new System.Drawing.Size(50, 50);
             this.E6_btn.TabIndex = 66;
             this.E6_btn.UseVisualStyleBackColor = true;
-            this.E6_btn.Click += new System.EventHandler(this.E6_btn_Click);
             // 
             // D6_btn
             // 
             this.D6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D6_btn.Location = new System.Drawing.Point(198, 256);
+            this.D6_btn.Location = new System.Drawing.Point(161, 262);
             this.D6_btn.Name = "D6_btn";
             this.D6_btn.Size = new System.Drawing.Size(50, 50);
             this.D6_btn.TabIndex = 65;
             this.D6_btn.UseVisualStyleBackColor = true;
-            this.D6_btn.Click += new System.EventHandler(this.D6_btn_Click);
             // 
             // C6_btn
             // 
             this.C6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C6_btn.Location = new System.Drawing.Point(158, 256);
+            this.C6_btn.Location = new System.Drawing.Point(111, 262);
             this.C6_btn.Name = "C6_btn";
             this.C6_btn.Size = new System.Drawing.Size(50, 50);
             this.C6_btn.TabIndex = 64;
             this.C6_btn.UseVisualStyleBackColor = true;
-            this.C6_btn.Click += new System.EventHandler(this.C6_btn_Click);
             // 
             // B6_btn
             // 
             this.B6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B6_btn.Location = new System.Drawing.Point(118, 256);
+            this.B6_btn.Location = new System.Drawing.Point(61, 262);
             this.B6_btn.Name = "B6_btn";
             this.B6_btn.Size = new System.Drawing.Size(50, 50);
             this.B6_btn.TabIndex = 63;
             this.B6_btn.UseVisualStyleBackColor = true;
-            this.B6_btn.Click += new System.EventHandler(this.B6_btn_Click);
             // 
             // A6_btn
             // 
             this.A6_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A6_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A6_btn.Location = new System.Drawing.Point(50, 300);
+            this.A6_btn.Location = new System.Drawing.Point(11, 262);
             this.A6_btn.Name = "A6_btn";
             this.A6_btn.Size = new System.Drawing.Size(50, 50);
             this.A6_btn.TabIndex = 62;
             this.A6_btn.UseVisualStyleBackColor = true;
-            this.A6_btn.Click += new System.EventHandler(this.A6_btn_Click);
             // 
             // J5_btn
             // 
             this.J5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J5_btn.Location = new System.Drawing.Point(438, 218);
+            this.J5_btn.Location = new System.Drawing.Point(461, 212);
             this.J5_btn.Name = "J5_btn";
             this.J5_btn.Size = new System.Drawing.Size(50, 50);
             this.J5_btn.TabIndex = 61;
             this.J5_btn.UseVisualStyleBackColor = true;
-            this.J5_btn.Click += new System.EventHandler(this.J5_btn_Click);
             // 
             // I5_btn
             // 
             this.I5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I5_btn.Location = new System.Drawing.Point(398, 218);
+            this.I5_btn.Location = new System.Drawing.Point(411, 212);
             this.I5_btn.Name = "I5_btn";
             this.I5_btn.Size = new System.Drawing.Size(50, 50);
             this.I5_btn.TabIndex = 60;
             this.I5_btn.UseVisualStyleBackColor = true;
-            this.I5_btn.Click += new System.EventHandler(this.I5_btn_Click);
             // 
             // H5_btn
             // 
             this.H5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H5_btn.Location = new System.Drawing.Point(358, 218);
+            this.H5_btn.Location = new System.Drawing.Point(361, 212);
             this.H5_btn.Name = "H5_btn";
             this.H5_btn.Size = new System.Drawing.Size(50, 50);
             this.H5_btn.TabIndex = 59;
             this.H5_btn.UseVisualStyleBackColor = true;
-            this.H5_btn.Click += new System.EventHandler(this.H5_btn_Click);
             // 
             // G5_btn
             // 
             this.G5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G5_btn.Location = new System.Drawing.Point(318, 218);
+            this.G5_btn.Location = new System.Drawing.Point(311, 212);
             this.G5_btn.Name = "G5_btn";
             this.G5_btn.Size = new System.Drawing.Size(50, 50);
             this.G5_btn.TabIndex = 58;
             this.G5_btn.UseVisualStyleBackColor = true;
-            this.G5_btn.Click += new System.EventHandler(this.G5_btn_Click);
             // 
             // F5_btn
             // 
             this.F5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F5_btn.Location = new System.Drawing.Point(278, 218);
+            this.F5_btn.Location = new System.Drawing.Point(261, 212);
             this.F5_btn.Name = "F5_btn";
             this.F5_btn.Size = new System.Drawing.Size(50, 50);
             this.F5_btn.TabIndex = 57;
             this.F5_btn.UseVisualStyleBackColor = true;
-            this.F5_btn.Click += new System.EventHandler(this.F5_btn_Click);
             // 
             // E5_btn
             // 
             this.E5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E5_btn.Location = new System.Drawing.Point(238, 218);
+            this.E5_btn.Location = new System.Drawing.Point(211, 212);
             this.E5_btn.Name = "E5_btn";
             this.E5_btn.Size = new System.Drawing.Size(50, 50);
             this.E5_btn.TabIndex = 56;
             this.E5_btn.UseVisualStyleBackColor = true;
-            this.E5_btn.Click += new System.EventHandler(this.E5_btn_Click);
             // 
             // D5_btn
             // 
             this.D5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D5_btn.Location = new System.Drawing.Point(198, 218);
+            this.D5_btn.Location = new System.Drawing.Point(161, 212);
             this.D5_btn.Name = "D5_btn";
             this.D5_btn.Size = new System.Drawing.Size(50, 50);
             this.D5_btn.TabIndex = 55;
             this.D5_btn.UseVisualStyleBackColor = true;
-            this.D5_btn.Click += new System.EventHandler(this.D5_btn_Click);
             // 
             // C5_btn
             // 
             this.C5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C5_btn.Location = new System.Drawing.Point(158, 218);
+            this.C5_btn.Location = new System.Drawing.Point(111, 212);
             this.C5_btn.Name = "C5_btn";
             this.C5_btn.Size = new System.Drawing.Size(50, 50);
             this.C5_btn.TabIndex = 54;
             this.C5_btn.UseVisualStyleBackColor = true;
-            this.C5_btn.Click += new System.EventHandler(this.C5_btn_Click);
             // 
             // B5_btn
             // 
             this.B5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B5_btn.Location = new System.Drawing.Point(118, 218);
+            this.B5_btn.Location = new System.Drawing.Point(61, 212);
             this.B5_btn.Name = "B5_btn";
             this.B5_btn.Size = new System.Drawing.Size(50, 50);
             this.B5_btn.TabIndex = 53;
             this.B5_btn.UseVisualStyleBackColor = true;
-            this.B5_btn.Click += new System.EventHandler(this.B5_btn_Click);
             // 
             // A5_btn
             // 
             this.A5_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A5_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A5_btn.Location = new System.Drawing.Point(50, 250);
+            this.A5_btn.Location = new System.Drawing.Point(11, 212);
             this.A5_btn.Name = "A5_btn";
             this.A5_btn.Size = new System.Drawing.Size(50, 50);
             this.A5_btn.TabIndex = 52;
             this.A5_btn.UseVisualStyleBackColor = true;
-            this.A5_btn.Click += new System.EventHandler(this.A5_btn_Click);
             // 
             // J4_btn
             // 
             this.J4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J4_btn.Location = new System.Drawing.Point(438, 180);
+            this.J4_btn.Location = new System.Drawing.Point(461, 162);
             this.J4_btn.Name = "J4_btn";
             this.J4_btn.Size = new System.Drawing.Size(50, 50);
             this.J4_btn.TabIndex = 51;
             this.J4_btn.UseVisualStyleBackColor = true;
-            this.J4_btn.Click += new System.EventHandler(this.J4_btn_Click);
             // 
             // I4_btn
             // 
             this.I4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I4_btn.Location = new System.Drawing.Point(398, 180);
+            this.I4_btn.Location = new System.Drawing.Point(411, 162);
             this.I4_btn.Name = "I4_btn";
             this.I4_btn.Size = new System.Drawing.Size(50, 50);
             this.I4_btn.TabIndex = 50;
             this.I4_btn.UseVisualStyleBackColor = true;
-            this.I4_btn.Click += new System.EventHandler(this.I4_btn_Click);
             // 
             // H4_btn
             // 
             this.H4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H4_btn.Location = new System.Drawing.Point(358, 180);
+            this.H4_btn.Location = new System.Drawing.Point(361, 162);
             this.H4_btn.Name = "H4_btn";
             this.H4_btn.Size = new System.Drawing.Size(50, 50);
             this.H4_btn.TabIndex = 49;
             this.H4_btn.UseVisualStyleBackColor = true;
-            this.H4_btn.Click += new System.EventHandler(this.H4_btn_Click);
             // 
             // G4_btn
             // 
             this.G4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G4_btn.Location = new System.Drawing.Point(318, 180);
+            this.G4_btn.Location = new System.Drawing.Point(311, 162);
             this.G4_btn.Name = "G4_btn";
             this.G4_btn.Size = new System.Drawing.Size(50, 50);
             this.G4_btn.TabIndex = 48;
             this.G4_btn.UseVisualStyleBackColor = true;
-            this.G4_btn.Click += new System.EventHandler(this.G4_btn_Click);
             // 
             // F4_btn
             // 
             this.F4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F4_btn.Location = new System.Drawing.Point(278, 180);
+            this.F4_btn.Location = new System.Drawing.Point(261, 162);
             this.F4_btn.Name = "F4_btn";
             this.F4_btn.Size = new System.Drawing.Size(50, 50);
             this.F4_btn.TabIndex = 47;
             this.F4_btn.UseVisualStyleBackColor = true;
-            this.F4_btn.Click += new System.EventHandler(this.F4_btn_Click);
             // 
             // E4_btn
             // 
             this.E4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E4_btn.Location = new System.Drawing.Point(238, 180);
+            this.E4_btn.Location = new System.Drawing.Point(211, 162);
             this.E4_btn.Name = "E4_btn";
             this.E4_btn.Size = new System.Drawing.Size(50, 50);
             this.E4_btn.TabIndex = 46;
             this.E4_btn.UseVisualStyleBackColor = true;
-            this.E4_btn.Click += new System.EventHandler(this.E4_btn_Click);
             // 
             // D4_btn
             // 
             this.D4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D4_btn.Location = new System.Drawing.Point(198, 180);
+            this.D4_btn.Location = new System.Drawing.Point(161, 162);
             this.D4_btn.Name = "D4_btn";
             this.D4_btn.Size = new System.Drawing.Size(50, 50);
             this.D4_btn.TabIndex = 45;
             this.D4_btn.UseVisualStyleBackColor = true;
-            this.D4_btn.Click += new System.EventHandler(this.D4_btn_Click);
             // 
             // C4_btn
             // 
             this.C4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C4_btn.Location = new System.Drawing.Point(158, 180);
+            this.C4_btn.Location = new System.Drawing.Point(111, 162);
             this.C4_btn.Name = "C4_btn";
             this.C4_btn.Size = new System.Drawing.Size(50, 50);
             this.C4_btn.TabIndex = 44;
             this.C4_btn.UseVisualStyleBackColor = true;
-            this.C4_btn.Click += new System.EventHandler(this.C4_btn_Click);
             // 
             // B4_btn
             // 
             this.B4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B4_btn.Location = new System.Drawing.Point(118, 180);
+            this.B4_btn.Location = new System.Drawing.Point(61, 162);
             this.B4_btn.Name = "B4_btn";
             this.B4_btn.Size = new System.Drawing.Size(50, 50);
             this.B4_btn.TabIndex = 43;
             this.B4_btn.UseVisualStyleBackColor = true;
-            this.B4_btn.Click += new System.EventHandler(this.B4_btn_Click);
             // 
             // A4_btn
             // 
             this.A4_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A4_btn.Location = new System.Drawing.Point(50, 200);
+            this.A4_btn.Location = new System.Drawing.Point(11, 162);
             this.A4_btn.Name = "A4_btn";
             this.A4_btn.Size = new System.Drawing.Size(50, 50);
             this.A4_btn.TabIndex = 42;
             this.A4_btn.UseVisualStyleBackColor = true;
-            this.A4_btn.Click += new System.EventHandler(this.A4_btn_Click);
             // 
             // J3_btn
             // 
             this.J3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J3_btn.Location = new System.Drawing.Point(438, 142);
+            this.J3_btn.Location = new System.Drawing.Point(461, 112);
             this.J3_btn.Name = "J3_btn";
             this.J3_btn.Size = new System.Drawing.Size(50, 50);
             this.J3_btn.TabIndex = 41;
             this.J3_btn.UseVisualStyleBackColor = true;
-            this.J3_btn.Click += new System.EventHandler(this.J3_btn_Click);
             // 
             // I3_btn
             // 
             this.I3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I3_btn.Location = new System.Drawing.Point(398, 142);
+            this.I3_btn.Location = new System.Drawing.Point(411, 112);
             this.I3_btn.Name = "I3_btn";
             this.I3_btn.Size = new System.Drawing.Size(50, 50);
             this.I3_btn.TabIndex = 40;
             this.I3_btn.UseVisualStyleBackColor = true;
-            this.I3_btn.Click += new System.EventHandler(this.I3_btn_Click);
             // 
             // H3_btn
             // 
             this.H3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H3_btn.Location = new System.Drawing.Point(358, 142);
+            this.H3_btn.Location = new System.Drawing.Point(361, 112);
             this.H3_btn.Name = "H3_btn";
             this.H3_btn.Size = new System.Drawing.Size(50, 50);
             this.H3_btn.TabIndex = 39;
             this.H3_btn.UseVisualStyleBackColor = true;
-            this.H3_btn.Click += new System.EventHandler(this.H3_btn_Click);
             // 
             // G3_btn
             // 
             this.G3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G3_btn.Location = new System.Drawing.Point(318, 142);
+            this.G3_btn.Location = new System.Drawing.Point(311, 112);
             this.G3_btn.Name = "G3_btn";
             this.G3_btn.Size = new System.Drawing.Size(50, 50);
             this.G3_btn.TabIndex = 38;
             this.G3_btn.UseVisualStyleBackColor = true;
-            this.G3_btn.Click += new System.EventHandler(this.G3_btn_Click);
             // 
             // F3_btn
             // 
             this.F3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F3_btn.Location = new System.Drawing.Point(278, 142);
+            this.F3_btn.Location = new System.Drawing.Point(261, 112);
             this.F3_btn.Name = "F3_btn";
             this.F3_btn.Size = new System.Drawing.Size(50, 50);
             this.F3_btn.TabIndex = 37;
             this.F3_btn.UseVisualStyleBackColor = true;
-            this.F3_btn.Click += new System.EventHandler(this.F3_btn_Click);
             // 
             // E3_btn
             // 
             this.E3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E3_btn.Location = new System.Drawing.Point(238, 142);
+            this.E3_btn.Location = new System.Drawing.Point(211, 112);
             this.E3_btn.Name = "E3_btn";
             this.E3_btn.Size = new System.Drawing.Size(50, 50);
             this.E3_btn.TabIndex = 36;
             this.E3_btn.UseVisualStyleBackColor = true;
-            this.E3_btn.Click += new System.EventHandler(this.E3_btn_Click);
             // 
             // D3_btn
             // 
             this.D3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D3_btn.Location = new System.Drawing.Point(198, 142);
+            this.D3_btn.Location = new System.Drawing.Point(161, 112);
             this.D3_btn.Name = "D3_btn";
             this.D3_btn.Size = new System.Drawing.Size(50, 50);
             this.D3_btn.TabIndex = 35;
             this.D3_btn.UseVisualStyleBackColor = true;
-            this.D3_btn.Click += new System.EventHandler(this.D3_btn_Click);
             // 
             // C3_btn
             // 
             this.C3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C3_btn.Location = new System.Drawing.Point(158, 142);
+            this.C3_btn.Location = new System.Drawing.Point(111, 112);
             this.C3_btn.Name = "C3_btn";
             this.C3_btn.Size = new System.Drawing.Size(50, 50);
             this.C3_btn.TabIndex = 34;
             this.C3_btn.UseVisualStyleBackColor = true;
-            this.C3_btn.Click += new System.EventHandler(this.C3_btn_Click);
             // 
             // B3_btn
             // 
             this.B3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B3_btn.Location = new System.Drawing.Point(118, 142);
+            this.B3_btn.Location = new System.Drawing.Point(61, 112);
             this.B3_btn.Name = "B3_btn";
             this.B3_btn.Size = new System.Drawing.Size(50, 50);
             this.B3_btn.TabIndex = 33;
             this.B3_btn.UseVisualStyleBackColor = true;
-            this.B3_btn.Click += new System.EventHandler(this.B3_btn_Click);
             // 
             // A3_btn
             // 
             this.A3_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A3_btn.Location = new System.Drawing.Point(50, 150);
+            this.A3_btn.Location = new System.Drawing.Point(11, 112);
             this.A3_btn.Name = "A3_btn";
             this.A3_btn.Size = new System.Drawing.Size(50, 50);
             this.A3_btn.TabIndex = 32;
             this.A3_btn.UseVisualStyleBackColor = true;
-            this.A3_btn.Click += new System.EventHandler(this.A3_btn_Click);
             // 
             // J2_btn
             // 
             this.J2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J2_btn.Location = new System.Drawing.Point(438, 104);
+            this.J2_btn.Location = new System.Drawing.Point(461, 62);
             this.J2_btn.Name = "J2_btn";
             this.J2_btn.Size = new System.Drawing.Size(50, 50);
             this.J2_btn.TabIndex = 31;
             this.J2_btn.UseVisualStyleBackColor = true;
-            this.J2_btn.Click += new System.EventHandler(this.J2_btn_Click);
             // 
             // I2_btn
             // 
             this.I2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I2_btn.Location = new System.Drawing.Point(398, 104);
+            this.I2_btn.Location = new System.Drawing.Point(411, 62);
             this.I2_btn.Name = "I2_btn";
             this.I2_btn.Size = new System.Drawing.Size(50, 50);
             this.I2_btn.TabIndex = 30;
             this.I2_btn.UseVisualStyleBackColor = true;
-            this.I2_btn.Click += new System.EventHandler(this.I2_btn_Click);
             // 
             // H2_btn
             // 
             this.H2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H2_btn.Location = new System.Drawing.Point(358, 104);
+            this.H2_btn.Location = new System.Drawing.Point(361, 62);
             this.H2_btn.Name = "H2_btn";
             this.H2_btn.Size = new System.Drawing.Size(50, 50);
             this.H2_btn.TabIndex = 29;
             this.H2_btn.UseVisualStyleBackColor = true;
-            this.H2_btn.Click += new System.EventHandler(this.H2_btn_Click);
             // 
             // G2_btn
             // 
             this.G2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G2_btn.Location = new System.Drawing.Point(318, 104);
+            this.G2_btn.Location = new System.Drawing.Point(311, 62);
             this.G2_btn.Name = "G2_btn";
             this.G2_btn.Size = new System.Drawing.Size(50, 50);
             this.G2_btn.TabIndex = 28;
             this.G2_btn.UseVisualStyleBackColor = true;
-            this.G2_btn.Click += new System.EventHandler(this.G2_btn_Click);
             // 
             // F2_btn
             // 
             this.F2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F2_btn.Location = new System.Drawing.Point(278, 104);
+            this.F2_btn.Location = new System.Drawing.Point(261, 62);
             this.F2_btn.Name = "F2_btn";
             this.F2_btn.Size = new System.Drawing.Size(50, 50);
             this.F2_btn.TabIndex = 27;
             this.F2_btn.UseVisualStyleBackColor = true;
-            this.F2_btn.Click += new System.EventHandler(this.F2_btn_Click);
             // 
             // E2_btn
             // 
             this.E2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E2_btn.Location = new System.Drawing.Point(238, 104);
+            this.E2_btn.Location = new System.Drawing.Point(211, 62);
             this.E2_btn.Name = "E2_btn";
             this.E2_btn.Size = new System.Drawing.Size(50, 50);
             this.E2_btn.TabIndex = 26;
             this.E2_btn.UseVisualStyleBackColor = true;
-            this.E2_btn.Click += new System.EventHandler(this.E2_btn_Click);
             // 
             // D2_btn
             // 
             this.D2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D2_btn.Location = new System.Drawing.Point(198, 104);
+            this.D2_btn.Location = new System.Drawing.Point(161, 62);
             this.D2_btn.Name = "D2_btn";
             this.D2_btn.Size = new System.Drawing.Size(50, 50);
             this.D2_btn.TabIndex = 25;
             this.D2_btn.UseVisualStyleBackColor = true;
-            this.D2_btn.Click += new System.EventHandler(this.D2_btn_Click);
             // 
             // C2_btn
             // 
             this.C2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C2_btn.Location = new System.Drawing.Point(158, 104);
+            this.C2_btn.Location = new System.Drawing.Point(111, 62);
             this.C2_btn.Name = "C2_btn";
             this.C2_btn.Size = new System.Drawing.Size(50, 50);
             this.C2_btn.TabIndex = 24;
             this.C2_btn.UseVisualStyleBackColor = true;
-            this.C2_btn.Click += new System.EventHandler(this.C2_btn_Click);
             // 
             // B2_btn
             // 
             this.B2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B2_btn.Location = new System.Drawing.Point(118, 104);
+            this.B2_btn.Location = new System.Drawing.Point(61, 62);
             this.B2_btn.Name = "B2_btn";
             this.B2_btn.Size = new System.Drawing.Size(50, 50);
             this.B2_btn.TabIndex = 23;
             this.B2_btn.UseVisualStyleBackColor = true;
-            this.B2_btn.Click += new System.EventHandler(this.B2_btn_Click);
             // 
             // A2_btn
             // 
             this.A2_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A2_btn.Location = new System.Drawing.Point(50, 100);
+            this.A2_btn.Location = new System.Drawing.Point(11, 62);
             this.A2_btn.Name = "A2_btn";
             this.A2_btn.Size = new System.Drawing.Size(50, 50);
             this.A2_btn.TabIndex = 22;
             this.A2_btn.UseVisualStyleBackColor = true;
-            this.A2_btn.Click += new System.EventHandler(this.A2_btn_Click);
             // 
             // J1_btn
             // 
             this.J1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.J1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J1_btn.Location = new System.Drawing.Point(438, 66);
+            this.J1_btn.Location = new System.Drawing.Point(461, 12);
             this.J1_btn.Name = "J1_btn";
             this.J1_btn.Size = new System.Drawing.Size(50, 50);
             this.J1_btn.TabIndex = 11;
             this.J1_btn.UseVisualStyleBackColor = true;
-            this.J1_btn.Click += new System.EventHandler(this.J1_btn_Click);
             // 
             // I1_btn
             // 
             this.I1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.I1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I1_btn.Location = new System.Drawing.Point(398, 66);
+            this.I1_btn.Location = new System.Drawing.Point(411, 12);
             this.I1_btn.Name = "I1_btn";
             this.I1_btn.Size = new System.Drawing.Size(50, 50);
             this.I1_btn.TabIndex = 10;
             this.I1_btn.UseVisualStyleBackColor = true;
-            this.I1_btn.Click += new System.EventHandler(this.I1_btn_Click);
             // 
             // H1_btn
             // 
             this.H1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.H1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H1_btn.Location = new System.Drawing.Point(358, 66);
+            this.H1_btn.Location = new System.Drawing.Point(361, 12);
             this.H1_btn.Name = "H1_btn";
             this.H1_btn.Size = new System.Drawing.Size(50, 50);
             this.H1_btn.TabIndex = 9;
             this.H1_btn.UseVisualStyleBackColor = true;
-            this.H1_btn.Click += new System.EventHandler(this.H1_btn_Click);
             // 
             // G1_btn
             // 
             this.G1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.G1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G1_btn.Location = new System.Drawing.Point(318, 66);
+            this.G1_btn.Location = new System.Drawing.Point(311, 12);
             this.G1_btn.Name = "G1_btn";
             this.G1_btn.Size = new System.Drawing.Size(50, 50);
             this.G1_btn.TabIndex = 8;
             this.G1_btn.UseVisualStyleBackColor = true;
-            this.G1_btn.Click += new System.EventHandler(this.G1_btn_Click);
             // 
             // F1_btn
             // 
             this.F1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.F1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F1_btn.Location = new System.Drawing.Point(278, 66);
+            this.F1_btn.Location = new System.Drawing.Point(261, 12);
             this.F1_btn.Name = "F1_btn";
             this.F1_btn.Size = new System.Drawing.Size(50, 50);
             this.F1_btn.TabIndex = 7;
             this.F1_btn.UseVisualStyleBackColor = true;
-            this.F1_btn.Click += new System.EventHandler(this.F1_btn_Click);
             // 
             // E1_btn
             // 
             this.E1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.E1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E1_btn.Location = new System.Drawing.Point(238, 66);
+            this.E1_btn.Location = new System.Drawing.Point(211, 12);
             this.E1_btn.Name = "E1_btn";
             this.E1_btn.Size = new System.Drawing.Size(50, 50);
             this.E1_btn.TabIndex = 6;
             this.E1_btn.UseVisualStyleBackColor = true;
-            this.E1_btn.Click += new System.EventHandler(this.E1_btn_Click);
             // 
             // D1_btn
             // 
             this.D1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.D1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D1_btn.Location = new System.Drawing.Point(198, 66);
+            this.D1_btn.Location = new System.Drawing.Point(161, 12);
             this.D1_btn.Name = "D1_btn";
             this.D1_btn.Size = new System.Drawing.Size(50, 50);
             this.D1_btn.TabIndex = 5;
             this.D1_btn.UseVisualStyleBackColor = true;
-            this.D1_btn.Click += new System.EventHandler(this.D1_btn_Click);
             // 
             // C1_btn
             // 
             this.C1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.C1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C1_btn.Location = new System.Drawing.Point(158, 66);
+            this.C1_btn.Location = new System.Drawing.Point(111, 12);
             this.C1_btn.Name = "C1_btn";
             this.C1_btn.Size = new System.Drawing.Size(50, 50);
             this.C1_btn.TabIndex = 4;
             this.C1_btn.UseVisualStyleBackColor = true;
-            this.C1_btn.Click += new System.EventHandler(this.C1_btn_Click);
             // 
             // B1_btn
             // 
             this.B1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.B1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B1_btn.Location = new System.Drawing.Point(118, 66);
+            this.B1_btn.Location = new System.Drawing.Point(61, 12);
             this.B1_btn.Name = "B1_btn";
             this.B1_btn.Size = new System.Drawing.Size(50, 50);
             this.B1_btn.TabIndex = 3;
             this.B1_btn.UseVisualStyleBackColor = true;
-            this.B1_btn.Click += new System.EventHandler(this.B1_btn_Click);
             // 
             // A1_btn
             // 
             this.A1_btn.Cursor = System.Windows.Forms.Cursors.Default;
             this.A1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A1_btn.Location = new System.Drawing.Point(50, 50);
+            this.A1_btn.Location = new System.Drawing.Point(11, 12);
             this.A1_btn.Name = "A1_btn";
             this.A1_btn.Size = new System.Drawing.Size(50, 50);
             this.A1_btn.TabIndex = 2;
             this.A1_btn.UseVisualStyleBackColor = true;
-            this.A1_btn.Click += new System.EventHandler(this.A1_btn_Click);
             // 
-            // label22
+            // label39
             // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label22.Location = new System.Drawing.Point(897, 0);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(15, 19);
-            this.label22.TabIndex = 21;
-            this.label22.Text = "I";
+            this.label39.AutoSize = true;
+            this.label39.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label39.Location = new System.Drawing.Point(11, 301);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(26, 29);
+            this.label39.TabIndex = 5;
+            this.label39.Text = "6";
             // 
-            // label21
+            // label44
             // 
-            this.label21.AutoSize = true;
-            this.label21.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label21.Location = new System.Drawing.Point(934, 0);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(16, 19);
-            this.label21.TabIndex = 20;
-            this.label21.Text = "J";
+            this.label44.AutoSize = true;
+            this.label44.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label44.Location = new System.Drawing.Point(12, 56);
+            this.label44.Name = "label44";
+            this.label44.Size = new System.Drawing.Size(26, 29);
+            this.label44.TabIndex = 0;
+            this.label44.Text = "1";
             // 
-            // label20
+            // label43
             // 
-            this.label20.AutoSize = true;
-            this.label20.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label20.Location = new System.Drawing.Point(854, 0);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(21, 19);
-            this.label20.TabIndex = 19;
-            this.label20.Text = "H";
+            this.label43.AutoSize = true;
+            this.label43.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label43.Location = new System.Drawing.Point(12, 105);
+            this.label43.Name = "label43";
+            this.label43.Size = new System.Drawing.Size(26, 29);
+            this.label43.TabIndex = 1;
+            this.label43.Text = "2";
             // 
-            // label18
+            // label42
             // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label18.Location = new System.Drawing.Point(774, 0);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(18, 19);
-            this.label18.TabIndex = 17;
-            this.label18.Text = "F";
+            this.label42.AutoSize = true;
+            this.label42.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label42.Location = new System.Drawing.Point(11, 154);
+            this.label42.Name = "label42";
+            this.label42.Size = new System.Drawing.Size(26, 29);
+            this.label42.TabIndex = 2;
+            this.label42.Text = "3";
             // 
-            // label17
+            // label41
             // 
-            this.label17.AutoSize = true;
-            this.label17.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label17.Location = new System.Drawing.Point(811, 0);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(21, 19);
-            this.label17.TabIndex = 16;
-            this.label17.Text = "G";
+            this.label41.AutoSize = true;
+            this.label41.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label41.Location = new System.Drawing.Point(10, 203);
+            this.label41.Name = "label41";
+            this.label41.Size = new System.Drawing.Size(26, 29);
+            this.label41.TabIndex = 3;
+            this.label41.Text = "4";
             // 
-            // label15
+            // label40
             // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label15.Location = new System.Drawing.Point(618, 0);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(19, 19);
-            this.label15.TabIndex = 14;
-            this.label15.Text = "B";
+            this.label40.AutoSize = true;
+            this.label40.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label40.Location = new System.Drawing.Point(11, 252);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(26, 29);
+            this.label40.TabIndex = 4;
+            this.label40.Text = "5";
             // 
-            // label14
+            // label38
             // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label14.Location = new System.Drawing.Point(655, 0);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(19, 19);
-            this.label14.TabIndex = 13;
-            this.label14.Text = "C";
+            this.label38.AutoSize = true;
+            this.label38.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label38.Location = new System.Drawing.Point(11, 350);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(26, 29);
+            this.label38.TabIndex = 6;
+            this.label38.Text = "7";
             // 
-            // label13
+            // label35
             // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label13.Location = new System.Drawing.Point(696, 0);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(21, 19);
-            this.label13.TabIndex = 12;
-            this.label13.Text = "D";
+            this.label35.AutoSize = true;
+            this.label35.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label35.Location = new System.Drawing.Point(1, 497);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(39, 29);
+            this.label35.TabIndex = 9;
+            this.label35.Text = "10";
             // 
-            // label12
+            // label37
             // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label12.Location = new System.Drawing.Point(738, 0);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(19, 19);
-            this.label12.TabIndex = 11;
-            this.label12.Text = "E";
+            this.label37.AutoSize = true;
+            this.label37.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label37.Location = new System.Drawing.Point(12, 399);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(26, 29);
+            this.label37.TabIndex = 7;
+            this.label37.Text = "8";
             // 
-            // label11
+            // label36
             // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label11.Location = new System.Drawing.Point(577, 0);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(19, 19);
-            this.label11.TabIndex = 10;
-            this.label11.Text = "A";
+            this.label36.AutoSize = true;
+            this.label36.Font = new System.Drawing.Font("Bell MT", 18F, System.Drawing.FontStyle.Bold);
+            this.label36.Location = new System.Drawing.Point(12, 448);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(26, 29);
+            this.label36.TabIndex = 8;
+            this.label36.Text = "9";
             // 
-            // label10
+            // mayın1_btn
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label10.Location = new System.Drawing.Point(0, 370);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(32, 24);
-            this.label10.TabIndex = 9;
-            this.label10.Text = "10";
+            this.mayın1_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın1_btn.Location = new System.Drawing.Point(565, 352);
+            this.mayın1_btn.Name = "mayın1_btn";
+            this.mayın1_btn.Size = new System.Drawing.Size(44, 44);
+            this.mayın1_btn.TabIndex = 115;
+            this.mayın1_btn.UseVisualStyleBackColor = false;
+            this.mayın1_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseDown);
+            this.mayın1_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseMove);
+            this.mayın1_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseUp);
             // 
-            // label9
+            // mayıng3_btn
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label9.Location = new System.Drawing.Point(11, 332);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(21, 24);
-            this.label9.TabIndex = 8;
-            this.label9.Text = "9";
+            this.mayıng3_btn.BackColor = System.Drawing.Color.Black;
+            this.mayıng3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayıng3_btn.Location = new System.Drawing.Point(657, 449);
+            this.mayıng3_btn.Name = "mayıng3_btn";
+            this.mayıng3_btn.Size = new System.Drawing.Size(88, 44);
+            this.mayıng3_btn.TabIndex = 123;
+            this.mayıng3_btn.UseVisualStyleBackColor = false;
             // 
-            // label8
+            // mayıng2_btn
             // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label8.Location = new System.Drawing.Point(11, 294);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(21, 24);
-            this.label8.TabIndex = 7;
-            this.label8.Text = "8";
+            this.mayıng2_btn.BackColor = System.Drawing.Color.Black;
+            this.mayıng2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayıng2_btn.Location = new System.Drawing.Point(657, 401);
+            this.mayıng2_btn.Name = "mayıng2_btn";
+            this.mayıng2_btn.Size = new System.Drawing.Size(88, 44);
+            this.mayıng2_btn.TabIndex = 119;
+            this.mayıng2_btn.UseVisualStyleBackColor = false;
+            this.mayıng2_btn.Click += new System.EventHandler(this.mayıng2_btn_Click);
             // 
-            // label7
+            // mayıng1_btn
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label7.Location = new System.Drawing.Point(11, 256);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(21, 24);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "7";
+            this.mayıng1_btn.BackColor = System.Drawing.Color.Black;
+            this.mayıng1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayıng1_btn.Location = new System.Drawing.Point(565, 401);
+            this.mayıng1_btn.Name = "mayıng1_btn";
+            this.mayıng1_btn.Size = new System.Drawing.Size(88, 44);
+            this.mayıng1_btn.TabIndex = 125;
+            this.mayıng1_btn.UseVisualStyleBackColor = false;
+            this.mayıng1_btn.Click += new System.EventHandler(this.mayıng1_btn_Click);
             // 
-            // label6
+            // fırkateyn1_btn
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label6.Location = new System.Drawing.Point(11, 218);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(21, 24);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "6";
+            this.fırkateyn1_btn.BackColor = System.Drawing.Color.Black;
+            this.fırkateyn1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.fırkateyn1_btn.Location = new System.Drawing.Point(566, 206);
+            this.fırkateyn1_btn.Name = "fırkateyn1_btn";
+            this.fırkateyn1_btn.Size = new System.Drawing.Size(176, 44);
+            this.fırkateyn1_btn.TabIndex = 121;
+            this.fırkateyn1_btn.UseVisualStyleBackColor = false;
             // 
-            // label5
+            // fırkateyn2_btn
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(11, 180);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(21, 24);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "5";
+            this.fırkateyn2_btn.BackColor = System.Drawing.Color.Black;
+            this.fırkateyn2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.fırkateyn2_btn.Location = new System.Drawing.Point(565, 156);
+            this.fırkateyn2_btn.Name = "fırkateyn2_btn";
+            this.fırkateyn2_btn.Size = new System.Drawing.Size(176, 44);
+            this.fırkateyn2_btn.TabIndex = 116;
+            this.fırkateyn2_btn.UseVisualStyleBackColor = false;
             // 
-            // label4
+            // amiral_btn
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(11, 142);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(21, 24);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "4";
+            this.amiral_btn.BackColor = System.Drawing.Color.Black;
+            this.amiral_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.amiral_btn.Location = new System.Drawing.Point(565, 107);
+            this.amiral_btn.Name = "amiral_btn";
+            this.amiral_btn.Size = new System.Drawing.Size(176, 44);
+            this.amiral_btn.TabIndex = 122;
+            this.amiral_btn.UseVisualStyleBackColor = false;
             // 
-            // label3
+            // mayıng4_btn
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(11, 106);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(21, 24);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "3";
+            this.mayıng4_btn.BackColor = System.Drawing.Color.Black;
+            this.mayıng4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayıng4_btn.Location = new System.Drawing.Point(565, 449);
+            this.mayıng4_btn.Name = "mayıng4_btn";
+            this.mayıng4_btn.Size = new System.Drawing.Size(88, 44);
+            this.mayıng4_btn.TabIndex = 128;
+            this.mayıng4_btn.UseVisualStyleBackColor = false;
             // 
-            // label2
+            // kruvazör1_btn
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label2.Location = new System.Drawing.Point(11, 67);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(21, 24);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "2";
+            this.kruvazör1_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör1_btn.Location = new System.Drawing.Point(613, 304);
+            this.kruvazör1_btn.Name = "kruvazör1_btn";
+            this.kruvazör1_btn.Size = new System.Drawing.Size(132, 44);
+            this.kruvazör1_btn.TabIndex = 120;
+            this.kruvazör1_btn.UseVisualStyleBackColor = false;
             // 
-            // label1
+            // kruvazör2_btn
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(11, 28);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(21, 24);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "1";
+            this.kruvazör2_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör2_btn.Location = new System.Drawing.Point(612, 254);
+            this.kruvazör2_btn.Name = "kruvazör2_btn";
+            this.kruvazör2_btn.Size = new System.Drawing.Size(132, 44);
+            this.kruvazör2_btn.TabIndex = 121;
+            this.kruvazör2_btn.UseVisualStyleBackColor = false;
+            // 
+            // kruvazör3_btn
+            // 
+            this.kruvazör3_btn.BackColor = System.Drawing.Color.Black;
+            this.kruvazör3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.kruvazör3_btn.Location = new System.Drawing.Point(613, 353);
+            this.kruvazör3_btn.Name = "kruvazör3_btn";
+            this.kruvazör3_btn.Size = new System.Drawing.Size(132, 44);
+            this.kruvazör3_btn.TabIndex = 122;
+            this.kruvazör3_btn.UseVisualStyleBackColor = false;
+            // 
+            // mayın3_btn
+            // 
+            this.mayın3_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın3_btn.Location = new System.Drawing.Point(565, 255);
+            this.mayın3_btn.Name = "mayın3_btn";
+            this.mayın3_btn.Size = new System.Drawing.Size(44, 44);
+            this.mayın3_btn.TabIndex = 116;
+            this.mayın3_btn.UseVisualStyleBackColor = false;
+            // 
+            // mayın2_btn
+            // 
+            this.mayın2_btn.BackColor = System.Drawing.Color.Black;
+            this.mayın2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mayın2_btn.Location = new System.Drawing.Point(565, 304);
+            this.mayın2_btn.Name = "mayın2_btn";
+            this.mayın2_btn.Size = new System.Drawing.Size(44, 44);
+            this.mayın2_btn.TabIndex = 117;
+            this.mayın2_btn.UseVisualStyleBackColor = false;
             // 
             // listBox1
             // 
+            this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.listBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listBox1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -1724,1636 +1641,82 @@
             "3 adet kruvazör(3 karelik)",
             "1 adet amiral(4 karelik)",
             "3 adet mayın(1 karelik)"});
-            this.listBox1.Location = new System.Drawing.Point(505, 70);
+            this.listBox1.Location = new System.Drawing.Point(208, 580);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(222, 96);
-            this.listBox1.TabIndex = 113;
-            // 
-            // mayın1_btn
-            // 
-            this.mayın1_btn.BackColor = System.Drawing.Color.Black;
-            this.mayın1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayın1_btn.Location = new System.Drawing.Point(504, 418);
-            this.mayın1_btn.Name = "mayın1_btn";
-            this.mayın1_btn.Size = new System.Drawing.Size(40, 38);
-            this.mayın1_btn.TabIndex = 115;
-            this.mayın1_btn.UseVisualStyleBackColor = false;
-            this.mayın1_btn.Click += new System.EventHandler(this.dnzaltı3_btn_Click);
-            this.mayın1_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseDown);
-            this.mayın1_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseMove);
-            this.mayın1_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayın1_btn_MouseUp);
-            // 
-            // mayıng3_btn
-            // 
-            this.mayıng3_btn.BackColor = System.Drawing.Color.Black;
-            this.mayıng3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng3_btn.Location = new System.Drawing.Point(629, 293);
-            this.mayıng3_btn.Name = "mayıng3_btn";
-            this.mayıng3_btn.Size = new System.Drawing.Size(80, 38);
-            this.mayıng3_btn.TabIndex = 123;
-            this.mayıng3_btn.UseVisualStyleBackColor = false;
-            // 
-            // mayıng2_btn
-            // 
-            this.mayıng2_btn.BackColor = System.Drawing.Color.Black;
-            this.mayıng2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng2_btn.Location = new System.Drawing.Point(628, 377);
-            this.mayıng2_btn.Name = "mayıng2_btn";
-            this.mayıng2_btn.Size = new System.Drawing.Size(80, 38);
-            this.mayıng2_btn.TabIndex = 119;
-            this.mayıng2_btn.UseVisualStyleBackColor = false;
-            // 
-            // kruvazör1_btn
-            // 
-            this.kruvazör1_btn.BackColor = System.Drawing.Color.Black;
-            this.kruvazör1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.kruvazör1_btn.ForeColor = System.Drawing.Color.Black;
-            this.kruvazör1_btn.Location = new System.Drawing.Point(505, 376);
-            this.kruvazör1_btn.Name = "kruvazör1_btn";
-            this.kruvazör1_btn.Size = new System.Drawing.Size(120, 37);
-            this.kruvazör1_btn.TabIndex = 124;
-            this.kruvazör1_btn.UseVisualStyleBackColor = false;
-            // 
-            // mayın3_btn
-            // 
-            this.mayın3_btn.BackColor = System.Drawing.Color.Black;
-            this.mayın3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayın3_btn.Location = new System.Drawing.Point(590, 418);
-            this.mayın3_btn.Name = "mayın3_btn";
-            this.mayın3_btn.Size = new System.Drawing.Size(40, 38);
-            this.mayın3_btn.TabIndex = 117;
-            this.mayın3_btn.UseVisualStyleBackColor = false;
-            // 
-            // mayıng1_btn
-            // 
-            this.mayıng1_btn.BackColor = System.Drawing.Color.Black;
-            this.mayıng1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng1_btn.Location = new System.Drawing.Point(629, 335);
-            this.mayıng1_btn.Name = "mayıng1_btn";
-            this.mayıng1_btn.Size = new System.Drawing.Size(80, 38);
-            this.mayıng1_btn.TabIndex = 125;
-            this.mayıng1_btn.UseVisualStyleBackColor = false;
-            // 
-            // fırkateyn1_btn
-            // 
-            this.fırkateyn1_btn.BackColor = System.Drawing.Color.Black;
-            this.fırkateyn1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.fırkateyn1_btn.Location = new System.Drawing.Point(505, 208);
-            this.fırkateyn1_btn.Name = "fırkateyn1_btn";
-            this.fırkateyn1_btn.Size = new System.Drawing.Size(200, 36);
-            this.fırkateyn1_btn.TabIndex = 121;
-            this.fırkateyn1_btn.UseVisualStyleBackColor = false;
-            // 
-            // fırkateyn2_btn
-            // 
-            this.fırkateyn2_btn.BackColor = System.Drawing.Color.Black;
-            this.fırkateyn2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.fırkateyn2_btn.Location = new System.Drawing.Point(506, 166);
-            this.fırkateyn2_btn.Name = "fırkateyn2_btn";
-            this.fırkateyn2_btn.Size = new System.Drawing.Size(200, 36);
-            this.fırkateyn2_btn.TabIndex = 116;
-            this.fırkateyn2_btn.UseVisualStyleBackColor = false;
-            // 
-            // amiral_btn
-            // 
-            this.amiral_btn.BackColor = System.Drawing.Color.Black;
-            this.amiral_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.amiral_btn.Location = new System.Drawing.Point(505, 250);
-            this.amiral_btn.Name = "amiral_btn";
-            this.amiral_btn.Size = new System.Drawing.Size(200, 36);
-            this.amiral_btn.TabIndex = 122;
-            this.amiral_btn.UseVisualStyleBackColor = false;
-            this.amiral_btn.Click += new System.EventHandler(this.amiral_btn_Click);
-            // 
-            // mayın2_btn
-            // 
-            this.mayın2_btn.BackColor = System.Drawing.Color.Black;
-            this.mayın2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayın2_btn.Location = new System.Drawing.Point(547, 418);
-            this.mayın2_btn.Name = "mayın2_btn";
-            this.mayın2_btn.Size = new System.Drawing.Size(40, 38);
-            this.mayın2_btn.TabIndex = 114;
-            this.mayın2_btn.UseVisualStyleBackColor = false;
-            this.mayın2_btn.Click += new System.EventHandler(this.mayın2_btn_Click);
-            // 
-            // panel2
-            // 
-            this.panel2.BackColor = System.Drawing.Color.Transparent;
-            this.panel2.Controls.Add(this.label24);
-            this.panel2.Controls.Add(this.J10);
-            this.panel2.Controls.Add(this.J9);
-            this.panel2.Controls.Add(this.I10);
-            this.panel2.Controls.Add(this.I9);
-            this.panel2.Controls.Add(this.H10);
-            this.panel2.Controls.Add(this.H9);
-            this.panel2.Controls.Add(this.G10);
-            this.panel2.Controls.Add(this.G9);
-            this.panel2.Controls.Add(this.F10);
-            this.panel2.Controls.Add(this.E10);
-            this.panel2.Controls.Add(this.F9);
-            this.panel2.Controls.Add(this.D10);
-            this.panel2.Controls.Add(this.E9);
-            this.panel2.Controls.Add(this.C10);
-            this.panel2.Controls.Add(this.D9);
-            this.panel2.Controls.Add(this.B10);
-            this.panel2.Controls.Add(this.C9);
-            this.panel2.Controls.Add(this.A10);
-            this.panel2.Controls.Add(this.B9);
-            this.panel2.Controls.Add(this.A9);
-            this.panel2.Controls.Add(this.J8);
-            this.panel2.Controls.Add(this.I8);
-            this.panel2.Controls.Add(this.H8);
-            this.panel2.Controls.Add(this.G8);
-            this.panel2.Controls.Add(this.F8);
-            this.panel2.Controls.Add(this.E8);
-            this.panel2.Controls.Add(this.D8);
-            this.panel2.Controls.Add(this.C8);
-            this.panel2.Controls.Add(this.B8);
-            this.panel2.Controls.Add(this.A8);
-            this.panel2.Controls.Add(this.J7);
-            this.panel2.Controls.Add(this.I7);
-            this.panel2.Controls.Add(this.H7);
-            this.panel2.Controls.Add(this.G7);
-            this.panel2.Controls.Add(this.F7);
-            this.panel2.Controls.Add(this.E7);
-            this.panel2.Controls.Add(this.D7);
-            this.panel2.Controls.Add(this.C7);
-            this.panel2.Controls.Add(this.B7);
-            this.panel2.Controls.Add(this.A7);
-            this.panel2.Controls.Add(this.J6);
-            this.panel2.Controls.Add(this.I6);
-            this.panel2.Controls.Add(this.H6);
-            this.panel2.Controls.Add(this.G6);
-            this.panel2.Controls.Add(this.F6);
-            this.panel2.Controls.Add(this.E6);
-            this.panel2.Controls.Add(this.D6);
-            this.panel2.Controls.Add(this.C6);
-            this.panel2.Controls.Add(this.B6);
-            this.panel2.Controls.Add(this.A6);
-            this.panel2.Controls.Add(this.J5);
-            this.panel2.Controls.Add(this.I5);
-            this.panel2.Controls.Add(this.H5);
-            this.panel2.Controls.Add(this.G5);
-            this.panel2.Controls.Add(this.F5);
-            this.panel2.Controls.Add(this.E5);
-            this.panel2.Controls.Add(this.D5);
-            this.panel2.Controls.Add(this.C5);
-            this.panel2.Controls.Add(this.B5);
-            this.panel2.Controls.Add(this.A5);
-            this.panel2.Controls.Add(this.J4);
-            this.panel2.Controls.Add(this.I4);
-            this.panel2.Controls.Add(this.H4);
-            this.panel2.Controls.Add(this.G4);
-            this.panel2.Controls.Add(this.F4);
-            this.panel2.Controls.Add(this.E4);
-            this.panel2.Controls.Add(this.D4);
-            this.panel2.Controls.Add(this.C4);
-            this.panel2.Controls.Add(this.B4);
-            this.panel2.Controls.Add(this.A4);
-            this.panel2.Controls.Add(this.J3);
-            this.panel2.Controls.Add(this.I3);
-            this.panel2.Controls.Add(this.H3);
-            this.panel2.Controls.Add(this.G3);
-            this.panel2.Controls.Add(this.F3);
-            this.panel2.Controls.Add(this.E3);
-            this.panel2.Controls.Add(this.D3);
-            this.panel2.Controls.Add(this.C3);
-            this.panel2.Controls.Add(this.B3);
-            this.panel2.Controls.Add(this.A3);
-            this.panel2.Controls.Add(this.J2);
-            this.panel2.Controls.Add(this.I2);
-            this.panel2.Controls.Add(this.H2);
-            this.panel2.Controls.Add(this.G2);
-            this.panel2.Controls.Add(this.F2);
-            this.panel2.Controls.Add(this.E2);
-            this.panel2.Controls.Add(this.D2);
-            this.panel2.Controls.Add(this.C2);
-            this.panel2.Controls.Add(this.B2);
-            this.panel2.Controls.Add(this.A2);
-            this.panel2.Controls.Add(this.J1);
-            this.panel2.Controls.Add(this.label25);
-            this.panel2.Controls.Add(this.I1);
-            this.panel2.Controls.Add(this.label26);
-            this.panel2.Controls.Add(this.H1);
-            this.panel2.Controls.Add(this.label27);
-            this.panel2.Controls.Add(this.G1);
-            this.panel2.Controls.Add(this.label28);
-            this.panel2.Controls.Add(this.F1);
-            this.panel2.Controls.Add(this.label29);
-            this.panel2.Controls.Add(this.label10);
-            this.panel2.Controls.Add(this.E1);
-            this.panel2.Controls.Add(this.label9);
-            this.panel2.Controls.Add(this.D1);
-            this.panel2.Controls.Add(this.label8);
-            this.panel2.Controls.Add(this.label30);
-            this.panel2.Controls.Add(this.label7);
-            this.panel2.Controls.Add(this.C1);
-            this.panel2.Controls.Add(this.label6);
-            this.panel2.Controls.Add(this.label5);
-            this.panel2.Controls.Add(this.label31);
-            this.panel2.Controls.Add(this.label4);
-            this.panel2.Controls.Add(this.B1);
-            this.panel2.Controls.Add(this.label3);
-            this.panel2.Controls.Add(this.label32);
-            this.panel2.Controls.Add(this.label2);
-            this.panel2.Controls.Add(this.A1);
-            this.panel2.Controls.Add(this.label1);
-            this.panel2.Controls.Add(this.label33);
-            this.panel2.Controls.Add(this.label34);
-            this.panel2.Controls.Add(this.label35);
-            this.panel2.Controls.Add(this.label36);
-            this.panel2.Controls.Add(this.label37);
-            this.panel2.Controls.Add(this.label38);
-            this.panel2.Controls.Add(this.label39);
-            this.panel2.Controls.Add(this.label40);
-            this.panel2.Controls.Add(this.label41);
-            this.panel2.Controls.Add(this.label42);
-            this.panel2.Controls.Add(this.label43);
-            this.panel2.Controls.Add(this.label44);
-            this.panel2.Location = new System.Drawing.Point(733, 32);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(486, 466);
-            this.panel2.TabIndex = 127;
-            // 
-            // label24
-            // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic);
-            this.label24.Location = new System.Drawing.Point(233, 448);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(69, 16);
-            this.label24.TabIndex = 112;
-            this.label24.Text = "Rakip Filo";
-            // 
-            // J10
-            // 
-            this.J10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J10.Location = new System.Drawing.Point(425, 408);
-            this.J10.Name = "J10";
-            this.J10.Size = new System.Drawing.Size(40, 38);
-            this.J10.TabIndex = 111;
-            this.J10.UseVisualStyleBackColor = true;
-            // 
-            // J9
-            // 
-            this.J9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J9.Location = new System.Drawing.Point(425, 370);
-            this.J9.Name = "J9";
-            this.J9.Size = new System.Drawing.Size(40, 38);
-            this.J9.TabIndex = 101;
-            this.J9.UseVisualStyleBackColor = true;
-            // 
-            // I10
-            // 
-            this.I10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I10.Location = new System.Drawing.Point(385, 408);
-            this.I10.Name = "I10";
-            this.I10.Size = new System.Drawing.Size(40, 38);
-            this.I10.TabIndex = 110;
-            this.I10.UseVisualStyleBackColor = true;
-            // 
-            // I9
-            // 
-            this.I9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I9.Location = new System.Drawing.Point(385, 370);
-            this.I9.Name = "I9";
-            this.I9.Size = new System.Drawing.Size(40, 38);
-            this.I9.TabIndex = 100;
-            this.I9.UseVisualStyleBackColor = true;
-            // 
-            // H10
-            // 
-            this.H10.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.H10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H10.Location = new System.Drawing.Point(345, 408);
-            this.H10.Name = "H10";
-            this.H10.Size = new System.Drawing.Size(40, 38);
-            this.H10.TabIndex = 109;
-            this.H10.UseVisualStyleBackColor = true;
-            // 
-            // H9
-            // 
-            this.H9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H9.Location = new System.Drawing.Point(345, 370);
-            this.H9.Name = "H9";
-            this.H9.Size = new System.Drawing.Size(40, 38);
-            this.H9.TabIndex = 99;
-            this.H9.UseVisualStyleBackColor = true;
-            // 
-            // G10
-            // 
-            this.G10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G10.Location = new System.Drawing.Point(305, 408);
-            this.G10.Name = "G10";
-            this.G10.Size = new System.Drawing.Size(40, 38);
-            this.G10.TabIndex = 108;
-            this.G10.UseVisualStyleBackColor = true;
-            // 
-            // G9
-            // 
-            this.G9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G9.Location = new System.Drawing.Point(305, 370);
-            this.G9.Name = "G9";
-            this.G9.Size = new System.Drawing.Size(40, 38);
-            this.G9.TabIndex = 98;
-            this.G9.UseVisualStyleBackColor = true;
-            // 
-            // F10
-            // 
-            this.F10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F10.Location = new System.Drawing.Point(265, 408);
-            this.F10.Name = "F10";
-            this.F10.Size = new System.Drawing.Size(40, 38);
-            this.F10.TabIndex = 107;
-            this.F10.UseVisualStyleBackColor = true;
-            // 
-            // E10
-            // 
-            this.E10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E10.Location = new System.Drawing.Point(225, 408);
-            this.E10.Name = "E10";
-            this.E10.Size = new System.Drawing.Size(40, 38);
-            this.E10.TabIndex = 106;
-            this.E10.UseVisualStyleBackColor = true;
-            // 
-            // F9
-            // 
-            this.F9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F9.Location = new System.Drawing.Point(265, 370);
-            this.F9.Name = "F9";
-            this.F9.Size = new System.Drawing.Size(40, 38);
-            this.F9.TabIndex = 97;
-            this.F9.UseVisualStyleBackColor = true;
-            // 
-            // D10
-            // 
-            this.D10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D10.Location = new System.Drawing.Point(185, 408);
-            this.D10.Name = "D10";
-            this.D10.Size = new System.Drawing.Size(40, 38);
-            this.D10.TabIndex = 105;
-            this.D10.UseVisualStyleBackColor = true;
-            // 
-            // E9
-            // 
-            this.E9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E9.Location = new System.Drawing.Point(225, 370);
-            this.E9.Name = "E9";
-            this.E9.Size = new System.Drawing.Size(40, 38);
-            this.E9.TabIndex = 96;
-            this.E9.UseVisualStyleBackColor = true;
-            // 
-            // C10
-            // 
-            this.C10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C10.Location = new System.Drawing.Point(145, 408);
-            this.C10.Name = "C10";
-            this.C10.Size = new System.Drawing.Size(40, 38);
-            this.C10.TabIndex = 104;
-            this.C10.UseVisualStyleBackColor = true;
-            // 
-            // D9
-            // 
-            this.D9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D9.Location = new System.Drawing.Point(185, 370);
-            this.D9.Name = "D9";
-            this.D9.Size = new System.Drawing.Size(40, 38);
-            this.D9.TabIndex = 95;
-            this.D9.UseVisualStyleBackColor = true;
-            // 
-            // B10
-            // 
-            this.B10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B10.Location = new System.Drawing.Point(105, 408);
-            this.B10.Name = "B10";
-            this.B10.Size = new System.Drawing.Size(40, 38);
-            this.B10.TabIndex = 103;
-            this.B10.UseVisualStyleBackColor = true;
-            // 
-            // C9
-            // 
-            this.C9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C9.Location = new System.Drawing.Point(145, 370);
-            this.C9.Name = "C9";
-            this.C9.Size = new System.Drawing.Size(40, 38);
-            this.C9.TabIndex = 94;
-            this.C9.UseVisualStyleBackColor = true;
-            // 
-            // A10
-            // 
-            this.A10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A10.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A10.Location = new System.Drawing.Point(65, 408);
-            this.A10.Name = "A10";
-            this.A10.Size = new System.Drawing.Size(40, 38);
-            this.A10.TabIndex = 102;
-            this.A10.UseVisualStyleBackColor = true;
-            // 
-            // B9
-            // 
-            this.B9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B9.Location = new System.Drawing.Point(105, 370);
-            this.B9.Name = "B9";
-            this.B9.Size = new System.Drawing.Size(40, 38);
-            this.B9.TabIndex = 93;
-            this.B9.UseVisualStyleBackColor = true;
-            this.B9.Click += new System.EventHandler(this.B9_Click);
-            // 
-            // A9
-            // 
-            this.A9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A9.Location = new System.Drawing.Point(65, 370);
-            this.A9.Name = "A9";
-            this.A9.Size = new System.Drawing.Size(40, 38);
-            this.A9.TabIndex = 92;
-            this.A9.UseVisualStyleBackColor = true;
-            // 
-            // J8
-            // 
-            this.J8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J8.Location = new System.Drawing.Point(425, 332);
-            this.J8.Name = "J8";
-            this.J8.Size = new System.Drawing.Size(40, 38);
-            this.J8.TabIndex = 91;
-            this.J8.UseVisualStyleBackColor = true;
-            // 
-            // I8
-            // 
-            this.I8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I8.Location = new System.Drawing.Point(385, 332);
-            this.I8.Name = "I8";
-            this.I8.Size = new System.Drawing.Size(40, 38);
-            this.I8.TabIndex = 90;
-            this.I8.UseVisualStyleBackColor = true;
-            // 
-            // H8
-            // 
-            this.H8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H8.Location = new System.Drawing.Point(345, 332);
-            this.H8.Name = "H8";
-            this.H8.Size = new System.Drawing.Size(40, 38);
-            this.H8.TabIndex = 89;
-            this.H8.UseVisualStyleBackColor = true;
-            // 
-            // G8
-            // 
-            this.G8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G8.Location = new System.Drawing.Point(305, 332);
-            this.G8.Name = "G8";
-            this.G8.Size = new System.Drawing.Size(40, 38);
-            this.G8.TabIndex = 88;
-            this.G8.UseVisualStyleBackColor = true;
-            // 
-            // F8
-            // 
-            this.F8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F8.Location = new System.Drawing.Point(265, 332);
-            this.F8.Name = "F8";
-            this.F8.Size = new System.Drawing.Size(40, 38);
-            this.F8.TabIndex = 87;
-            this.F8.UseVisualStyleBackColor = true;
-            // 
-            // E8
-            // 
-            this.E8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E8.Location = new System.Drawing.Point(225, 332);
-            this.E8.Name = "E8";
-            this.E8.Size = new System.Drawing.Size(40, 38);
-            this.E8.TabIndex = 86;
-            this.E8.UseVisualStyleBackColor = true;
-            // 
-            // D8
-            // 
-            this.D8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D8.Location = new System.Drawing.Point(185, 332);
-            this.D8.Name = "D8";
-            this.D8.Size = new System.Drawing.Size(40, 38);
-            this.D8.TabIndex = 85;
-            this.D8.UseVisualStyleBackColor = true;
-            // 
-            // C8
-            // 
-            this.C8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C8.Location = new System.Drawing.Point(145, 332);
-            this.C8.Name = "C8";
-            this.C8.Size = new System.Drawing.Size(40, 38);
-            this.C8.TabIndex = 84;
-            this.C8.UseVisualStyleBackColor = true;
-            // 
-            // B8
-            // 
-            this.B8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B8.Location = new System.Drawing.Point(105, 332);
-            this.B8.Name = "B8";
-            this.B8.Size = new System.Drawing.Size(40, 38);
-            this.B8.TabIndex = 83;
-            this.B8.UseVisualStyleBackColor = true;
-            // 
-            // A8
-            // 
-            this.A8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A8.Location = new System.Drawing.Point(65, 332);
-            this.A8.Name = "A8";
-            this.A8.Size = new System.Drawing.Size(40, 38);
-            this.A8.TabIndex = 82;
-            this.A8.UseVisualStyleBackColor = true;
-            // 
-            // J7
-            // 
-            this.J7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J7.Location = new System.Drawing.Point(425, 294);
-            this.J7.Name = "J7";
-            this.J7.Size = new System.Drawing.Size(40, 38);
-            this.J7.TabIndex = 81;
-            this.J7.UseVisualStyleBackColor = true;
-            // 
-            // I7
-            // 
-            this.I7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I7.Location = new System.Drawing.Point(385, 294);
-            this.I7.Name = "I7";
-            this.I7.Size = new System.Drawing.Size(40, 38);
-            this.I7.TabIndex = 80;
-            this.I7.UseVisualStyleBackColor = true;
-            // 
-            // H7
-            // 
-            this.H7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H7.Location = new System.Drawing.Point(345, 294);
-            this.H7.Name = "H7";
-            this.H7.Size = new System.Drawing.Size(40, 38);
-            this.H7.TabIndex = 79;
-            this.H7.UseVisualStyleBackColor = true;
-            // 
-            // G7
-            // 
-            this.G7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G7.Location = new System.Drawing.Point(305, 294);
-            this.G7.Name = "G7";
-            this.G7.Size = new System.Drawing.Size(40, 38);
-            this.G7.TabIndex = 78;
-            this.G7.UseVisualStyleBackColor = true;
-            // 
-            // F7
-            // 
-            this.F7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F7.Location = new System.Drawing.Point(265, 294);
-            this.F7.Name = "F7";
-            this.F7.Size = new System.Drawing.Size(40, 38);
-            this.F7.TabIndex = 77;
-            this.F7.UseVisualStyleBackColor = true;
-            // 
-            // E7
-            // 
-            this.E7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E7.Location = new System.Drawing.Point(225, 294);
-            this.E7.Name = "E7";
-            this.E7.Size = new System.Drawing.Size(40, 38);
-            this.E7.TabIndex = 76;
-            this.E7.UseVisualStyleBackColor = true;
-            // 
-            // D7
-            // 
-            this.D7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D7.Location = new System.Drawing.Point(185, 294);
-            this.D7.Name = "D7";
-            this.D7.Size = new System.Drawing.Size(40, 38);
-            this.D7.TabIndex = 75;
-            this.D7.UseVisualStyleBackColor = true;
-            // 
-            // C7
-            // 
-            this.C7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C7.Location = new System.Drawing.Point(145, 294);
-            this.C7.Name = "C7";
-            this.C7.Size = new System.Drawing.Size(40, 38);
-            this.C7.TabIndex = 74;
-            this.C7.UseVisualStyleBackColor = true;
-            // 
-            // B7
-            // 
-            this.B7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B7.Location = new System.Drawing.Point(105, 294);
-            this.B7.Name = "B7";
-            this.B7.Size = new System.Drawing.Size(40, 38);
-            this.B7.TabIndex = 73;
-            this.B7.UseVisualStyleBackColor = true;
-            // 
-            // A7
-            // 
-            this.A7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A7.Location = new System.Drawing.Point(65, 294);
-            this.A7.Name = "A7";
-            this.A7.Size = new System.Drawing.Size(40, 38);
-            this.A7.TabIndex = 72;
-            this.A7.UseVisualStyleBackColor = true;
-            // 
-            // J6
-            // 
-            this.J6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J6.Location = new System.Drawing.Point(425, 256);
-            this.J6.Name = "J6";
-            this.J6.Size = new System.Drawing.Size(40, 38);
-            this.J6.TabIndex = 71;
-            this.J6.UseVisualStyleBackColor = true;
-            // 
-            // I6
-            // 
-            this.I6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I6.Location = new System.Drawing.Point(385, 256);
-            this.I6.Name = "I6";
-            this.I6.Size = new System.Drawing.Size(40, 38);
-            this.I6.TabIndex = 70;
-            this.I6.UseVisualStyleBackColor = true;
-            // 
-            // H6
-            // 
-            this.H6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H6.Location = new System.Drawing.Point(345, 256);
-            this.H6.Name = "H6";
-            this.H6.Size = new System.Drawing.Size(40, 38);
-            this.H6.TabIndex = 69;
-            this.H6.UseVisualStyleBackColor = true;
-            // 
-            // G6
-            // 
-            this.G6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G6.Location = new System.Drawing.Point(305, 256);
-            this.G6.Name = "G6";
-            this.G6.Size = new System.Drawing.Size(40, 38);
-            this.G6.TabIndex = 68;
-            this.G6.UseVisualStyleBackColor = true;
-            // 
-            // F6
-            // 
-            this.F6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F6.Location = new System.Drawing.Point(265, 256);
-            this.F6.Name = "F6";
-            this.F6.Size = new System.Drawing.Size(40, 38);
-            this.F6.TabIndex = 67;
-            this.F6.UseVisualStyleBackColor = true;
-            // 
-            // E6
-            // 
-            this.E6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E6.Location = new System.Drawing.Point(225, 256);
-            this.E6.Name = "E6";
-            this.E6.Size = new System.Drawing.Size(40, 38);
-            this.E6.TabIndex = 66;
-            this.E6.UseVisualStyleBackColor = true;
-            // 
-            // D6
-            // 
-            this.D6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D6.Location = new System.Drawing.Point(185, 256);
-            this.D6.Name = "D6";
-            this.D6.Size = new System.Drawing.Size(40, 38);
-            this.D6.TabIndex = 65;
-            this.D6.UseVisualStyleBackColor = true;
-            // 
-            // C6
-            // 
-            this.C6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C6.Location = new System.Drawing.Point(145, 256);
-            this.C6.Name = "C6";
-            this.C6.Size = new System.Drawing.Size(40, 38);
-            this.C6.TabIndex = 64;
-            this.C6.UseVisualStyleBackColor = true;
-            // 
-            // B6
-            // 
-            this.B6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B6.Location = new System.Drawing.Point(105, 256);
-            this.B6.Name = "B6";
-            this.B6.Size = new System.Drawing.Size(40, 38);
-            this.B6.TabIndex = 63;
-            this.B6.UseVisualStyleBackColor = true;
-            // 
-            // A6
-            // 
-            this.A6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A6.Location = new System.Drawing.Point(65, 256);
-            this.A6.Name = "A6";
-            this.A6.Size = new System.Drawing.Size(40, 38);
-            this.A6.TabIndex = 62;
-            this.A6.UseVisualStyleBackColor = true;
-            // 
-            // J5
-            // 
-            this.J5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J5.Location = new System.Drawing.Point(425, 218);
-            this.J5.Name = "J5";
-            this.J5.Size = new System.Drawing.Size(40, 38);
-            this.J5.TabIndex = 61;
-            this.J5.UseVisualStyleBackColor = true;
-            // 
-            // I5
-            // 
-            this.I5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I5.Location = new System.Drawing.Point(385, 218);
-            this.I5.Name = "I5";
-            this.I5.Size = new System.Drawing.Size(40, 38);
-            this.I5.TabIndex = 60;
-            this.I5.UseVisualStyleBackColor = true;
-            // 
-            // H5
-            // 
-            this.H5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H5.Location = new System.Drawing.Point(345, 218);
-            this.H5.Name = "H5";
-            this.H5.Size = new System.Drawing.Size(40, 38);
-            this.H5.TabIndex = 59;
-            this.H5.UseVisualStyleBackColor = true;
-            // 
-            // G5
-            // 
-            this.G5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G5.Location = new System.Drawing.Point(305, 218);
-            this.G5.Name = "G5";
-            this.G5.Size = new System.Drawing.Size(40, 38);
-            this.G5.TabIndex = 58;
-            this.G5.UseVisualStyleBackColor = true;
-            // 
-            // F5
-            // 
-            this.F5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F5.Location = new System.Drawing.Point(265, 218);
-            this.F5.Name = "F5";
-            this.F5.Size = new System.Drawing.Size(40, 38);
-            this.F5.TabIndex = 57;
-            this.F5.UseVisualStyleBackColor = true;
-            // 
-            // E5
-            // 
-            this.E5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E5.Location = new System.Drawing.Point(225, 218);
-            this.E5.Name = "E5";
-            this.E5.Size = new System.Drawing.Size(40, 38);
-            this.E5.TabIndex = 56;
-            this.E5.UseVisualStyleBackColor = true;
-            // 
-            // D5
-            // 
-            this.D5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D5.Location = new System.Drawing.Point(185, 218);
-            this.D5.Name = "D5";
-            this.D5.Size = new System.Drawing.Size(40, 38);
-            this.D5.TabIndex = 55;
-            this.D5.UseVisualStyleBackColor = true;
-            // 
-            // C5
-            // 
-            this.C5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C5.Location = new System.Drawing.Point(145, 218);
-            this.C5.Name = "C5";
-            this.C5.Size = new System.Drawing.Size(40, 38);
-            this.C5.TabIndex = 54;
-            this.C5.UseVisualStyleBackColor = true;
-            // 
-            // B5
-            // 
-            this.B5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B5.Location = new System.Drawing.Point(105, 218);
-            this.B5.Name = "B5";
-            this.B5.Size = new System.Drawing.Size(40, 38);
-            this.B5.TabIndex = 53;
-            this.B5.UseVisualStyleBackColor = true;
-            // 
-            // A5
-            // 
-            this.A5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A5.Location = new System.Drawing.Point(65, 218);
-            this.A5.Name = "A5";
-            this.A5.Size = new System.Drawing.Size(40, 38);
-            this.A5.TabIndex = 52;
-            this.A5.UseVisualStyleBackColor = true;
-            // 
-            // J4
-            // 
-            this.J4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J4.Location = new System.Drawing.Point(425, 180);
-            this.J4.Name = "J4";
-            this.J4.Size = new System.Drawing.Size(40, 38);
-            this.J4.TabIndex = 51;
-            this.J4.UseVisualStyleBackColor = true;
-            // 
-            // I4
-            // 
-            this.I4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I4.Location = new System.Drawing.Point(385, 180);
-            this.I4.Name = "I4";
-            this.I4.Size = new System.Drawing.Size(40, 38);
-            this.I4.TabIndex = 50;
-            this.I4.UseVisualStyleBackColor = true;
-            // 
-            // H4
-            // 
-            this.H4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H4.Location = new System.Drawing.Point(345, 180);
-            this.H4.Name = "H4";
-            this.H4.Size = new System.Drawing.Size(40, 38);
-            this.H4.TabIndex = 49;
-            this.H4.UseVisualStyleBackColor = true;
-            // 
-            // G4
-            // 
-            this.G4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G4.Location = new System.Drawing.Point(305, 180);
-            this.G4.Name = "G4";
-            this.G4.Size = new System.Drawing.Size(40, 38);
-            this.G4.TabIndex = 48;
-            this.G4.UseVisualStyleBackColor = true;
-            // 
-            // F4
-            // 
-            this.F4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F4.Location = new System.Drawing.Point(265, 180);
-            this.F4.Name = "F4";
-            this.F4.Size = new System.Drawing.Size(40, 38);
-            this.F4.TabIndex = 47;
-            this.F4.UseVisualStyleBackColor = true;
-            // 
-            // E4
-            // 
-            this.E4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E4.Location = new System.Drawing.Point(225, 180);
-            this.E4.Name = "E4";
-            this.E4.Size = new System.Drawing.Size(40, 38);
-            this.E4.TabIndex = 46;
-            this.E4.UseVisualStyleBackColor = true;
-            // 
-            // D4
-            // 
-            this.D4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D4.Location = new System.Drawing.Point(185, 180);
-            this.D4.Name = "D4";
-            this.D4.Size = new System.Drawing.Size(40, 38);
-            this.D4.TabIndex = 45;
-            this.D4.UseVisualStyleBackColor = true;
-            // 
-            // C4
-            // 
-            this.C4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C4.Location = new System.Drawing.Point(145, 180);
-            this.C4.Name = "C4";
-            this.C4.Size = new System.Drawing.Size(40, 38);
-            this.C4.TabIndex = 44;
-            this.C4.UseVisualStyleBackColor = true;
-            // 
-            // B4
-            // 
-            this.B4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B4.Location = new System.Drawing.Point(105, 180);
-            this.B4.Name = "B4";
-            this.B4.Size = new System.Drawing.Size(40, 38);
-            this.B4.TabIndex = 43;
-            this.B4.UseVisualStyleBackColor = true;
-            // 
-            // A4
-            // 
-            this.A4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A4.Location = new System.Drawing.Point(65, 180);
-            this.A4.Name = "A4";
-            this.A4.Size = new System.Drawing.Size(40, 38);
-            this.A4.TabIndex = 42;
-            this.A4.UseVisualStyleBackColor = true;
-            // 
-            // J3
-            // 
-            this.J3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J3.Location = new System.Drawing.Point(425, 142);
-            this.J3.Name = "J3";
-            this.J3.Size = new System.Drawing.Size(40, 38);
-            this.J3.TabIndex = 41;
-            this.J3.UseVisualStyleBackColor = true;
-            // 
-            // I3
-            // 
-            this.I3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I3.Location = new System.Drawing.Point(385, 142);
-            this.I3.Name = "I3";
-            this.I3.Size = new System.Drawing.Size(40, 38);
-            this.I3.TabIndex = 40;
-            this.I3.UseVisualStyleBackColor = true;
-            // 
-            // H3
-            // 
-            this.H3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H3.Location = new System.Drawing.Point(345, 142);
-            this.H3.Name = "H3";
-            this.H3.Size = new System.Drawing.Size(40, 38);
-            this.H3.TabIndex = 39;
-            this.H3.UseVisualStyleBackColor = true;
-            // 
-            // G3
-            // 
-            this.G3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G3.Location = new System.Drawing.Point(305, 142);
-            this.G3.Name = "G3";
-            this.G3.Size = new System.Drawing.Size(40, 38);
-            this.G3.TabIndex = 38;
-            this.G3.UseVisualStyleBackColor = true;
-            // 
-            // F3
-            // 
-            this.F3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F3.Location = new System.Drawing.Point(265, 142);
-            this.F3.Name = "F3";
-            this.F3.Size = new System.Drawing.Size(40, 38);
-            this.F3.TabIndex = 37;
-            this.F3.UseVisualStyleBackColor = true;
-            // 
-            // E3
-            // 
-            this.E3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E3.Location = new System.Drawing.Point(225, 142);
-            this.E3.Name = "E3";
-            this.E3.Size = new System.Drawing.Size(40, 38);
-            this.E3.TabIndex = 36;
-            this.E3.UseVisualStyleBackColor = true;
-            // 
-            // D3
-            // 
-            this.D3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D3.Location = new System.Drawing.Point(185, 142);
-            this.D3.Name = "D3";
-            this.D3.Size = new System.Drawing.Size(40, 38);
-            this.D3.TabIndex = 35;
-            this.D3.UseVisualStyleBackColor = true;
-            // 
-            // C3
-            // 
-            this.C3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C3.Location = new System.Drawing.Point(145, 142);
-            this.C3.Name = "C3";
-            this.C3.Size = new System.Drawing.Size(40, 38);
-            this.C3.TabIndex = 34;
-            this.C3.UseVisualStyleBackColor = true;
-            // 
-            // B3
-            // 
-            this.B3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B3.Location = new System.Drawing.Point(105, 142);
-            this.B3.Name = "B3";
-            this.B3.Size = new System.Drawing.Size(40, 38);
-            this.B3.TabIndex = 33;
-            this.B3.UseVisualStyleBackColor = true;
-            // 
-            // A3
-            // 
-            this.A3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A3.Location = new System.Drawing.Point(65, 142);
-            this.A3.Name = "A3";
-            this.A3.Size = new System.Drawing.Size(40, 38);
-            this.A3.TabIndex = 32;
-            this.A3.UseVisualStyleBackColor = true;
-            // 
-            // J2
-            // 
-            this.J2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J2.Location = new System.Drawing.Point(425, 104);
-            this.J2.Name = "J2";
-            this.J2.Size = new System.Drawing.Size(40, 38);
-            this.J2.TabIndex = 31;
-            this.J2.UseVisualStyleBackColor = true;
-            // 
-            // I2
-            // 
-            this.I2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I2.Location = new System.Drawing.Point(385, 104);
-            this.I2.Name = "I2";
-            this.I2.Size = new System.Drawing.Size(40, 38);
-            this.I2.TabIndex = 30;
-            this.I2.UseVisualStyleBackColor = true;
-            // 
-            // H2
-            // 
-            this.H2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H2.Location = new System.Drawing.Point(345, 104);
-            this.H2.Name = "H2";
-            this.H2.Size = new System.Drawing.Size(40, 38);
-            this.H2.TabIndex = 29;
-            this.H2.UseVisualStyleBackColor = true;
-            // 
-            // G2
-            // 
-            this.G2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G2.Location = new System.Drawing.Point(305, 104);
-            this.G2.Name = "G2";
-            this.G2.Size = new System.Drawing.Size(40, 38);
-            this.G2.TabIndex = 28;
-            this.G2.UseVisualStyleBackColor = true;
-            // 
-            // F2
-            // 
-            this.F2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F2.Location = new System.Drawing.Point(265, 104);
-            this.F2.Name = "F2";
-            this.F2.Size = new System.Drawing.Size(40, 38);
-            this.F2.TabIndex = 27;
-            this.F2.UseVisualStyleBackColor = true;
-            // 
-            // E2
-            // 
-            this.E2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E2.Location = new System.Drawing.Point(225, 104);
-            this.E2.Name = "E2";
-            this.E2.Size = new System.Drawing.Size(40, 38);
-            this.E2.TabIndex = 26;
-            this.E2.UseVisualStyleBackColor = true;
-            // 
-            // D2
-            // 
-            this.D2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D2.Location = new System.Drawing.Point(185, 104);
-            this.D2.Name = "D2";
-            this.D2.Size = new System.Drawing.Size(40, 38);
-            this.D2.TabIndex = 25;
-            this.D2.UseVisualStyleBackColor = true;
-            // 
-            // C2
-            // 
-            this.C2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C2.Location = new System.Drawing.Point(145, 104);
-            this.C2.Name = "C2";
-            this.C2.Size = new System.Drawing.Size(40, 38);
-            this.C2.TabIndex = 24;
-            this.C2.UseVisualStyleBackColor = true;
-            // 
-            // B2
-            // 
-            this.B2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B2.Location = new System.Drawing.Point(105, 104);
-            this.B2.Name = "B2";
-            this.B2.Size = new System.Drawing.Size(40, 38);
-            this.B2.TabIndex = 23;
-            this.B2.UseVisualStyleBackColor = true;
-            // 
-            // A2
-            // 
-            this.A2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A2.Location = new System.Drawing.Point(65, 104);
-            this.A2.Name = "A2";
-            this.A2.Size = new System.Drawing.Size(40, 38);
-            this.A2.TabIndex = 22;
-            this.A2.UseVisualStyleBackColor = true;
-            // 
-            // J1
-            // 
-            this.J1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.J1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.J1.Location = new System.Drawing.Point(425, 66);
-            this.J1.Name = "J1";
-            this.J1.Size = new System.Drawing.Size(40, 38);
-            this.J1.TabIndex = 11;
-            this.J1.UseVisualStyleBackColor = true;
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label25.Location = new System.Drawing.Point(397, 42);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(15, 19);
-            this.label25.TabIndex = 21;
-            this.label25.Text = "I";
-            // 
-            // I1
-            // 
-            this.I1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.I1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.I1.Location = new System.Drawing.Point(385, 66);
-            this.I1.Name = "I1";
-            this.I1.Size = new System.Drawing.Size(40, 38);
-            this.I1.TabIndex = 10;
-            this.I1.UseVisualStyleBackColor = true;
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label26.Location = new System.Drawing.Point(434, 42);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(16, 19);
-            this.label26.TabIndex = 20;
-            this.label26.Text = "J";
-            // 
-            // H1
-            // 
-            this.H1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.H1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.H1.Location = new System.Drawing.Point(345, 66);
-            this.H1.Name = "H1";
-            this.H1.Size = new System.Drawing.Size(40, 38);
-            this.H1.TabIndex = 9;
-            this.H1.UseVisualStyleBackColor = true;
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label27.Location = new System.Drawing.Point(354, 42);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(21, 19);
-            this.label27.TabIndex = 19;
-            this.label27.Text = "H";
-            // 
-            // G1
-            // 
-            this.G1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.G1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.G1.Location = new System.Drawing.Point(305, 66);
-            this.G1.Name = "G1";
-            this.G1.Size = new System.Drawing.Size(40, 38);
-            this.G1.TabIndex = 8;
-            this.G1.UseVisualStyleBackColor = true;
-            // 
-            // label28
-            // 
-            this.label28.AutoSize = true;
-            this.label28.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label28.Location = new System.Drawing.Point(274, 42);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(18, 19);
-            this.label28.TabIndex = 17;
-            this.label28.Text = "F";
-            // 
-            // F1
-            // 
-            this.F1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.F1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.F1.Location = new System.Drawing.Point(265, 66);
-            this.F1.Name = "F1";
-            this.F1.Size = new System.Drawing.Size(40, 38);
-            this.F1.TabIndex = 7;
-            this.F1.UseVisualStyleBackColor = true;
-            // 
-            // label29
-            // 
-            this.label29.AutoSize = true;
-            this.label29.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label29.Location = new System.Drawing.Point(311, 42);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(21, 19);
-            this.label29.TabIndex = 16;
-            this.label29.Text = "G";
-            // 
-            // E1
-            // 
-            this.E1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.E1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.E1.Location = new System.Drawing.Point(225, 66);
-            this.E1.Name = "E1";
-            this.E1.Size = new System.Drawing.Size(40, 38);
-            this.E1.TabIndex = 6;
-            this.E1.UseVisualStyleBackColor = true;
-            // 
-            // D1
-            // 
-            this.D1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.D1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.D1.Location = new System.Drawing.Point(185, 66);
-            this.D1.Name = "D1";
-            this.D1.Size = new System.Drawing.Size(40, 38);
-            this.D1.TabIndex = 5;
-            this.D1.UseVisualStyleBackColor = true;
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label30.Location = new System.Drawing.Point(118, 42);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(19, 19);
-            this.label30.TabIndex = 14;
-            this.label30.Text = "B";
-            // 
-            // C1
-            // 
-            this.C1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.C1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.C1.Location = new System.Drawing.Point(145, 66);
-            this.C1.Name = "C1";
-            this.C1.Size = new System.Drawing.Size(40, 38);
-            this.C1.TabIndex = 4;
-            this.C1.UseVisualStyleBackColor = true;
-            // 
-            // label31
-            // 
-            this.label31.AutoSize = true;
-            this.label31.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label31.Location = new System.Drawing.Point(155, 42);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(19, 19);
-            this.label31.TabIndex = 13;
-            this.label31.Text = "C";
-            // 
-            // B1
-            // 
-            this.B1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.B1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B1.Location = new System.Drawing.Point(105, 66);
-            this.B1.Name = "B1";
-            this.B1.Size = new System.Drawing.Size(40, 38);
-            this.B1.TabIndex = 3;
-            this.B1.UseVisualStyleBackColor = true;
-            // 
-            // label32
-            // 
-            this.label32.AutoSize = true;
-            this.label32.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label32.Location = new System.Drawing.Point(196, 42);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(21, 19);
-            this.label32.TabIndex = 12;
-            this.label32.Text = "D";
-            // 
-            // A1
-            // 
-            this.A1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.A1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.A1.Location = new System.Drawing.Point(65, 66);
-            this.A1.Name = "A1";
-            this.A1.Size = new System.Drawing.Size(40, 38);
-            this.A1.TabIndex = 2;
-            this.A1.UseVisualStyleBackColor = true;
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label33.Location = new System.Drawing.Point(238, 42);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(19, 19);
-            this.label33.TabIndex = 11;
-            this.label33.Text = "E";
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Font = new System.Drawing.Font("Bell MT", 11F, System.Drawing.FontStyle.Bold);
-            this.label34.Location = new System.Drawing.Point(77, 42);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(19, 19);
-            this.label34.TabIndex = 10;
-            this.label34.Text = "A";
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label35.Location = new System.Drawing.Point(27, 414);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(32, 24);
-            this.label35.TabIndex = 9;
-            this.label35.Text = "10";
-            // 
-            // label36
-            // 
-            this.label36.AutoSize = true;
-            this.label36.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label36.Location = new System.Drawing.Point(38, 376);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(21, 24);
-            this.label36.TabIndex = 8;
-            this.label36.Text = "9";
-            // 
-            // label37
-            // 
-            this.label37.AutoSize = true;
-            this.label37.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label37.Location = new System.Drawing.Point(38, 338);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(21, 24);
-            this.label37.TabIndex = 7;
-            this.label37.Text = "8";
-            // 
-            // label38
-            // 
-            this.label38.AutoSize = true;
-            this.label38.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label38.Location = new System.Drawing.Point(38, 300);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(21, 24);
-            this.label38.TabIndex = 6;
-            this.label38.Text = "7";
-            // 
-            // label39
-            // 
-            this.label39.AutoSize = true;
-            this.label39.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label39.Location = new System.Drawing.Point(38, 262);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(21, 24);
-            this.label39.TabIndex = 5;
-            this.label39.Text = "6";
-            // 
-            // label40
-            // 
-            this.label40.AutoSize = true;
-            this.label40.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label40.Location = new System.Drawing.Point(38, 224);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(21, 24);
-            this.label40.TabIndex = 4;
-            this.label40.Text = "5";
-            // 
-            // label41
-            // 
-            this.label41.AutoSize = true;
-            this.label41.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label41.Location = new System.Drawing.Point(38, 186);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(21, 24);
-            this.label41.TabIndex = 3;
-            this.label41.Text = "4";
-            // 
-            // label42
-            // 
-            this.label42.AutoSize = true;
-            this.label42.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label42.Location = new System.Drawing.Point(38, 150);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(21, 24);
-            this.label42.TabIndex = 2;
-            this.label42.Text = "3";
-            // 
-            // label43
-            // 
-            this.label43.AutoSize = true;
-            this.label43.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label43.Location = new System.Drawing.Point(38, 111);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(21, 24);
-            this.label43.TabIndex = 1;
-            this.label43.Text = "2";
-            // 
-            // label44
-            // 
-            this.label44.AutoSize = true;
-            this.label44.Font = new System.Drawing.Font("Bell MT", 15F, System.Drawing.FontStyle.Bold);
-            this.label44.Location = new System.Drawing.Point(38, 72);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(21, 24);
-            this.label44.TabIndex = 0;
-            this.label44.Text = "1";
-            // 
-            // kruvazör3_btn
-            // 
-            this.kruvazör3_btn.BackColor = System.Drawing.Color.Black;
-            this.kruvazör3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.kruvazör3_btn.ForeColor = System.Drawing.Color.Black;
-            this.kruvazör3_btn.Location = new System.Drawing.Point(505, 293);
-            this.kruvazör3_btn.Name = "kruvazör3_btn";
-            this.kruvazör3_btn.Size = new System.Drawing.Size(120, 37);
-            this.kruvazör3_btn.TabIndex = 125;
-            this.kruvazör3_btn.UseVisualStyleBackColor = false;
-            // 
-            // kruvazör2_btn
-            // 
-            this.kruvazör2_btn.BackColor = System.Drawing.Color.Black;
-            this.kruvazör2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.kruvazör2_btn.ForeColor = System.Drawing.Color.Black;
-            this.kruvazör2_btn.Location = new System.Drawing.Point(505, 335);
-            this.kruvazör2_btn.Name = "kruvazör2_btn";
-            this.kruvazör2_btn.Size = new System.Drawing.Size(120, 37);
-            this.kruvazör2_btn.TabIndex = 126;
-            this.kruvazör2_btn.UseVisualStyleBackColor = false;
-            this.kruvazör2_btn.Click += new System.EventHandler(this.kruvazör2_btn_Click);
-            // 
-            // mayıng4_btn
-            // 
-            this.mayıng4_btn.BackColor = System.Drawing.Color.Black;
-            this.mayıng4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng4_btn.Location = new System.Drawing.Point(633, 418);
-            this.mayıng4_btn.Name = "mayıng4_btn";
-            this.mayıng4_btn.Size = new System.Drawing.Size(80, 38);
-            this.mayıng4_btn.TabIndex = 128;
-            this.mayıng4_btn.UseVisualStyleBackColor = false;
+            this.listBox1.Size = new System.Drawing.Size(259, 80);
+            this.listBox1.TabIndex = 129;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(618, 72);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 130;
+            this.label1.Text = "label1";
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button1.Font = new System.Drawing.Font("Bell MT", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(924, 12);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(86, 35);
+            this.button1.TabIndex = 131;
+            this.button1.Text = "Oyunu Bitir";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // oyuncu1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1036, 548);
-            this.Controls.Add(this.mayıng4_btn);
-            this.Controls.Add(this.kruvazör3_btn);
-            this.Controls.Add(this.kruvazör2_btn);
-            this.Controls.Add(this.mayın1_btn);
-            this.Controls.Add(this.panel2);
-            this.Controls.Add(this.mayıng3_btn);
-            this.Controls.Add(this.amiral_btn);
-            this.Controls.Add(this.mayın3_btn);
-            this.Controls.Add(this.mayıng2_btn);
-            this.Controls.Add(this.mayıng1_btn);
+            this.ClientSize = new System.Drawing.Size(1023, 681);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.listBox1);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.kruvazör1_btn);
-            this.Controls.Add(this.fırkateyn1_btn);
-            this.Controls.Add(this.mayın2_btn);
-            this.Controls.Add(this.fırkateyn2_btn);
+            this.Controls.Add(this.mayın3_btn);
             this.Controls.Add(this.label18);
+            this.Controls.Add(this.mayın1_btn);
             this.Controls.Add(this.label11);
+            this.Controls.Add(this.mayın2_btn);
+            this.Controls.Add(this.panel1);
             this.Controls.Add(this.label12);
+            this.Controls.Add(this.kruvazör3_btn);
+            this.Controls.Add(this.mayıng4_btn);
             this.Controls.Add(this.label13);
+            this.Controls.Add(this.kruvazör2_btn);
             this.Controls.Add(this.label14);
+            this.Controls.Add(this.amiral_btn);
+            this.Controls.Add(this.kruvazör1_btn);
             this.Controls.Add(this.label15);
+            this.Controls.Add(this.fırkateyn2_btn);
+            this.Controls.Add(this.fırkateyn1_btn);
             this.Controls.Add(this.label17);
+            this.Controls.Add(this.mayıng1_btn);
+            this.Controls.Add(this.mayıng2_btn);
             this.Controls.Add(this.label20);
-            this.Controls.Add(this.label21);
+            this.Controls.Add(this.mayıng3_btn);
             this.Controls.Add(this.label22);
+            this.Controls.Add(this.label21);
+            this.Controls.Add(this.label43);
+            this.Controls.Add(this.label36);
+            this.Controls.Add(this.label37);
+            this.Controls.Add(this.label35);
+            this.Controls.Add(this.label38);
+            this.Controls.Add(this.label40);
+            this.Controls.Add(this.label41);
+            this.Controls.Add(this.label42);
+            this.Controls.Add(this.label44);
+            this.Controls.Add(this.label39);
             this.Name = "oyuncu1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.oyuncu1_Load);
+            this.Click += new System.EventHandler(this.mayıng2_btn_Click);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            this.panel2.ResumeLayout(false);
-            this.panel2.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -3473,139 +1836,13 @@
         private System.Windows.Forms.Button A1_btn;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
-        public System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button mayın1_btn;
         private System.Windows.Forms.Button mayıng3_btn;
         private System.Windows.Forms.Button mayıng2_btn;
-        private System.Windows.Forms.Button kruvazör1_btn;
-        private System.Windows.Forms.Button mayın3_btn;
         private System.Windows.Forms.Button mayıng1_btn;
         private System.Windows.Forms.Button fırkateyn1_btn;
         private System.Windows.Forms.Button fırkateyn2_btn;
         private System.Windows.Forms.Button amiral_btn;
-        private System.Windows.Forms.Button mayın2_btn;
-        private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Button J10;
-        private System.Windows.Forms.Button J9;
-        private System.Windows.Forms.Button I10;
-        private System.Windows.Forms.Button I9;
-        private System.Windows.Forms.Button H10;
-        private System.Windows.Forms.Button H9;
-        private System.Windows.Forms.Button G10;
-        private System.Windows.Forms.Button G9;
-        private System.Windows.Forms.Button F10;
-        private System.Windows.Forms.Button E10;
-        private System.Windows.Forms.Button F9;
-        private System.Windows.Forms.Button D10;
-        private System.Windows.Forms.Button E9;
-        private System.Windows.Forms.Button C10;
-        private System.Windows.Forms.Button D9;
-        private System.Windows.Forms.Button B10;
-        private System.Windows.Forms.Button C9;
-        private System.Windows.Forms.Button A10;
-        private System.Windows.Forms.Button B9;
-        private System.Windows.Forms.Button A9;
-        private System.Windows.Forms.Button J8;
-        private System.Windows.Forms.Button I8;
-        private System.Windows.Forms.Button H8;
-        private System.Windows.Forms.Button G8;
-        private System.Windows.Forms.Button F8;
-        private System.Windows.Forms.Button E8;
-        private System.Windows.Forms.Button D8;
-        private System.Windows.Forms.Button C8;
-        private System.Windows.Forms.Button B8;
-        private System.Windows.Forms.Button A8;
-        private System.Windows.Forms.Button J7;
-        private System.Windows.Forms.Button I7;
-        private System.Windows.Forms.Button H7;
-        private System.Windows.Forms.Button G7;
-        private System.Windows.Forms.Button F7;
-        private System.Windows.Forms.Button E7;
-        private System.Windows.Forms.Button D7;
-        private System.Windows.Forms.Button C7;
-        private System.Windows.Forms.Button B7;
-        private System.Windows.Forms.Button A7;
-        private System.Windows.Forms.Button J6;
-        private System.Windows.Forms.Button I6;
-        private System.Windows.Forms.Button H6;
-        private System.Windows.Forms.Button G6;
-        private System.Windows.Forms.Button F6;
-        private System.Windows.Forms.Button E6;
-        private System.Windows.Forms.Button D6;
-        private System.Windows.Forms.Button C6;
-        private System.Windows.Forms.Button B6;
-        private System.Windows.Forms.Button A6;
-        private System.Windows.Forms.Button J5;
-        private System.Windows.Forms.Button I5;
-        private System.Windows.Forms.Button H5;
-        private System.Windows.Forms.Button G5;
-        private System.Windows.Forms.Button F5;
-        private System.Windows.Forms.Button E5;
-        private System.Windows.Forms.Button D5;
-        private System.Windows.Forms.Button C5;
-        private System.Windows.Forms.Button B5;
-        private System.Windows.Forms.Button A5;
-        private System.Windows.Forms.Button J4;
-        private System.Windows.Forms.Button I4;
-        private System.Windows.Forms.Button H4;
-        private System.Windows.Forms.Button G4;
-        private System.Windows.Forms.Button F4;
-        private System.Windows.Forms.Button E4;
-        private System.Windows.Forms.Button D4;
-        private System.Windows.Forms.Button C4;
-        private System.Windows.Forms.Button B4;
-        private System.Windows.Forms.Button A4;
-        private System.Windows.Forms.Button J3;
-        private System.Windows.Forms.Button I3;
-        private System.Windows.Forms.Button H3;
-        private System.Windows.Forms.Button G3;
-        private System.Windows.Forms.Button F3;
-        private System.Windows.Forms.Button E3;
-        private System.Windows.Forms.Button D3;
-        private System.Windows.Forms.Button C3;
-        private System.Windows.Forms.Button B3;
-        private System.Windows.Forms.Button A3;
-        private System.Windows.Forms.Button J2;
-        private System.Windows.Forms.Button I2;
-        private System.Windows.Forms.Button H2;
-        private System.Windows.Forms.Button G2;
-        private System.Windows.Forms.Button F2;
-        private System.Windows.Forms.Button E2;
-        private System.Windows.Forms.Button D2;
-        private System.Windows.Forms.Button C2;
-        private System.Windows.Forms.Button B2;
-        private System.Windows.Forms.Button A2;
-        private System.Windows.Forms.Button J1;
-        private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Button I1;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Button H1;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Button G1;
-        private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.Button F1;
-        private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Button E1;
-        private System.Windows.Forms.Button D1;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Button C1;
-        private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Button B1;
-        private System.Windows.Forms.Label label32;
-        private System.Windows.Forms.Button A1;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Label label34;
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.Label label36;
         private System.Windows.Forms.Label label37;
@@ -3616,8 +1853,14 @@
         private System.Windows.Forms.Label label42;
         private System.Windows.Forms.Label label43;
         private System.Windows.Forms.Label label44;
+        private System.Windows.Forms.Button mayıng4_btn;
+        private System.Windows.Forms.Button kruvazör1_btn;
         private System.Windows.Forms.Button kruvazör2_btn;
         private System.Windows.Forms.Button kruvazör3_btn;
-        private System.Windows.Forms.Button mayıng4_btn;
+        private System.Windows.Forms.Button mayın3_btn;
+        private System.Windows.Forms.Button mayın2_btn;
+        public System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace amiral_batti_oyunu
 {
-    partial class Form3
+    partial class Form2
     {
         /// <summary>
         /// Required designer variable.
