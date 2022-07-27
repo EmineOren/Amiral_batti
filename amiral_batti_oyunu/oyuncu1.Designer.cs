@@ -165,14 +165,14 @@
             this.mayın2_btn = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.exit = new System.Windows.Forms.Button();
+            this.listBox2 = new System.Windows.Forms.ListBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.Controls.Add(this.label16);
             this.panel1.Controls.Add(this.A1_btn);
             this.panel1.Controls.Add(this.B1_btn);
             this.panel1.Controls.Add(this.C1_btn);
@@ -273,9 +273,9 @@
             this.panel1.Controls.Add(this.H10_btn);
             this.panel1.Controls.Add(this.I10_btn);
             this.panel1.Controls.Add(this.J10_btn);
-            this.panel1.Location = new System.Drawing.Point(38, 36);
+            this.panel1.Location = new System.Drawing.Point(21, 31);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(521, 533);
+            this.panel1.Size = new System.Drawing.Size(514, 516);
             this.panel1.TabIndex = 1;
             // 
             // A1_btn
@@ -1284,7 +1284,7 @@
             this.label16.Cursor = System.Windows.Forms.Cursors.Default;
             this.label16.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.label16.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic);
-            this.label16.Location = new System.Drawing.Point(221, 515);
+            this.label16.Location = new System.Drawing.Point(470, 553);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(62, 16);
             this.label16.TabIndex = 112;
@@ -1294,7 +1294,7 @@
             // 
             this.label18.AutoSize = true;
             this.label18.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label18.Location = new System.Drawing.Point(316, 9);
+            this.label18.Location = new System.Drawing.Point(300, 9);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(19, 19);
             this.label18.TabIndex = 17;
@@ -1304,7 +1304,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label11.Location = new System.Drawing.Point(66, 9);
+            this.label11.Location = new System.Drawing.Point(50, 9);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(20, 19);
             this.label11.TabIndex = 10;
@@ -1314,7 +1314,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label12.Location = new System.Drawing.Point(267, 9);
+            this.label12.Location = new System.Drawing.Point(251, 9);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(20, 19);
             this.label12.TabIndex = 11;
@@ -1324,7 +1324,7 @@
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label13.Location = new System.Drawing.Point(215, 9);
+            this.label13.Location = new System.Drawing.Point(199, 9);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(22, 19);
             this.label13.TabIndex = 12;
@@ -1334,7 +1334,7 @@
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label14.Location = new System.Drawing.Point(165, 9);
+            this.label14.Location = new System.Drawing.Point(149, 9);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(20, 19);
             this.label14.TabIndex = 13;
@@ -1344,7 +1344,7 @@
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label15.Location = new System.Drawing.Point(116, 9);
+            this.label15.Location = new System.Drawing.Point(100, 9);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(19, 19);
             this.label15.TabIndex = 14;
@@ -1354,7 +1354,7 @@
             // 
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label17.Location = new System.Drawing.Point(365, 9);
+            this.label17.Location = new System.Drawing.Point(349, 9);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(22, 19);
             this.label17.TabIndex = 16;
@@ -1364,7 +1364,7 @@
             // 
             this.label20.AutoSize = true;
             this.label20.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label20.Location = new System.Drawing.Point(417, 9);
+            this.label20.Location = new System.Drawing.Point(401, 9);
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(21, 19);
             this.label20.TabIndex = 19;
@@ -1374,7 +1374,7 @@
             // 
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label21.Location = new System.Drawing.Point(515, 9);
+            this.label21.Location = new System.Drawing.Point(499, 9);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(17, 19);
             this.label21.TabIndex = 20;
@@ -1384,7 +1384,7 @@
             // 
             this.label22.AutoSize = true;
             this.label22.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label22.Location = new System.Drawing.Point(469, 9);
+            this.label22.Location = new System.Drawing.Point(453, 9);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(15, 19);
             this.label22.TabIndex = 21;
@@ -1394,7 +1394,7 @@
             // 
             this.label39.AutoSize = true;
             this.label39.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label39.Location = new System.Drawing.Point(11, 301);
+            this.label39.Location = new System.Drawing.Point(3, 301);
             this.label39.Name = "label39";
             this.label39.Size = new System.Drawing.Size(18, 19);
             this.label39.TabIndex = 5;
@@ -1404,7 +1404,7 @@
             // 
             this.label44.AutoSize = true;
             this.label44.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label44.Location = new System.Drawing.Point(12, 56);
+            this.label44.Location = new System.Drawing.Point(4, 56);
             this.label44.Name = "label44";
             this.label44.Size = new System.Drawing.Size(18, 19);
             this.label44.TabIndex = 0;
@@ -1414,7 +1414,7 @@
             // 
             this.label43.AutoSize = true;
             this.label43.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label43.Location = new System.Drawing.Point(12, 105);
+            this.label43.Location = new System.Drawing.Point(4, 105);
             this.label43.Name = "label43";
             this.label43.Size = new System.Drawing.Size(18, 19);
             this.label43.TabIndex = 1;
@@ -1424,7 +1424,7 @@
             // 
             this.label42.AutoSize = true;
             this.label42.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label42.Location = new System.Drawing.Point(11, 154);
+            this.label42.Location = new System.Drawing.Point(3, 154);
             this.label42.Name = "label42";
             this.label42.Size = new System.Drawing.Size(18, 19);
             this.label42.TabIndex = 2;
@@ -1434,7 +1434,7 @@
             // 
             this.label41.AutoSize = true;
             this.label41.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label41.Location = new System.Drawing.Point(10, 203);
+            this.label41.Location = new System.Drawing.Point(2, 203);
             this.label41.Name = "label41";
             this.label41.Size = new System.Drawing.Size(18, 19);
             this.label41.TabIndex = 3;
@@ -1444,7 +1444,7 @@
             // 
             this.label40.AutoSize = true;
             this.label40.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label40.Location = new System.Drawing.Point(11, 252);
+            this.label40.Location = new System.Drawing.Point(3, 252);
             this.label40.Name = "label40";
             this.label40.Size = new System.Drawing.Size(18, 19);
             this.label40.TabIndex = 4;
@@ -1454,7 +1454,7 @@
             // 
             this.label38.AutoSize = true;
             this.label38.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label38.Location = new System.Drawing.Point(11, 350);
+            this.label38.Location = new System.Drawing.Point(3, 350);
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(18, 19);
             this.label38.TabIndex = 6;
@@ -1464,7 +1464,7 @@
             // 
             this.label35.AutoSize = true;
             this.label35.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label35.Location = new System.Drawing.Point(1, 497);
+            this.label35.Location = new System.Drawing.Point(-7, 497);
             this.label35.Name = "label35";
             this.label35.Size = new System.Drawing.Size(27, 19);
             this.label35.TabIndex = 9;
@@ -1474,7 +1474,7 @@
             // 
             this.label37.AutoSize = true;
             this.label37.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label37.Location = new System.Drawing.Point(12, 399);
+            this.label37.Location = new System.Drawing.Point(4, 399);
             this.label37.Name = "label37";
             this.label37.Size = new System.Drawing.Size(18, 19);
             this.label37.TabIndex = 7;
@@ -1484,7 +1484,7 @@
             // 
             this.label36.AutoSize = true;
             this.label36.Font = new System.Drawing.Font("Bell MT", 12F, System.Drawing.FontStyle.Bold);
-            this.label36.Location = new System.Drawing.Point(12, 448);
+            this.label36.Location = new System.Drawing.Point(4, 448);
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(18, 19);
             this.label36.TabIndex = 8;
@@ -1507,9 +1507,9 @@
             // 
             this.mayıng3_btn.BackColor = System.Drawing.Color.Black;
             this.mayıng3_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng3_btn.Location = new System.Drawing.Point(657, 449);
+            this.mayıng3_btn.Location = new System.Drawing.Point(654, 444);
             this.mayıng3_btn.Name = "mayıng3_btn";
-            this.mayıng3_btn.Size = new System.Drawing.Size(88, 44);
+            this.mayıng3_btn.Size = new System.Drawing.Size(95, 44);
             this.mayıng3_btn.TabIndex = 123;
             this.mayıng3_btn.UseVisualStyleBackColor = false;
             // 
@@ -1517,23 +1517,24 @@
             // 
             this.mayıng2_btn.BackColor = System.Drawing.Color.Black;
             this.mayıng2_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng2_btn.Location = new System.Drawing.Point(657, 401);
+            this.mayıng2_btn.Location = new System.Drawing.Point(654, 399);
             this.mayıng2_btn.Name = "mayıng2_btn";
-            this.mayıng2_btn.Size = new System.Drawing.Size(88, 44);
+            this.mayıng2_btn.Size = new System.Drawing.Size(95, 44);
             this.mayıng2_btn.TabIndex = 119;
             this.mayıng2_btn.UseVisualStyleBackColor = false;
-            this.mayıng2_btn.Click += new System.EventHandler(this.mayıng2_btn_Click);
             // 
             // mayıng1_btn
             // 
             this.mayıng1_btn.BackColor = System.Drawing.Color.Black;
             this.mayıng1_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng1_btn.Location = new System.Drawing.Point(565, 401);
+            this.mayıng1_btn.Location = new System.Drawing.Point(558, 399);
             this.mayıng1_btn.Name = "mayıng1_btn";
-            this.mayıng1_btn.Size = new System.Drawing.Size(88, 44);
+            this.mayıng1_btn.Size = new System.Drawing.Size(95, 44);
             this.mayıng1_btn.TabIndex = 125;
             this.mayıng1_btn.UseVisualStyleBackColor = false;
-            this.mayıng1_btn.Click += new System.EventHandler(this.mayıng1_btn_Click);
+            this.mayıng1_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayıng1_btn_MouseDown);
+            this.mayıng1_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayıng1_btn_MouseMove);
+            this.mayıng1_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayıng1_btn_MouseUp);
             // 
             // fırkateyn1_btn
             // 
@@ -1569,9 +1570,9 @@
             // 
             this.mayıng4_btn.BackColor = System.Drawing.Color.Black;
             this.mayıng4_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.mayıng4_btn.Location = new System.Drawing.Point(565, 449);
+            this.mayıng4_btn.Location = new System.Drawing.Point(558, 444);
             this.mayıng4_btn.Name = "mayıng4_btn";
-            this.mayıng4_btn.Size = new System.Drawing.Size(88, 44);
+            this.mayıng4_btn.Size = new System.Drawing.Size(95, 44);
             this.mayıng4_btn.TabIndex = 128;
             this.mayıng4_btn.UseVisualStyleBackColor = false;
             // 
@@ -1614,6 +1615,9 @@
             this.mayın3_btn.Size = new System.Drawing.Size(44, 44);
             this.mayın3_btn.TabIndex = 116;
             this.mayın3_btn.UseVisualStyleBackColor = false;
+            this.mayın3_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayın3_btn_MouseDown);
+            this.mayın3_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayın3_btn_MouseMove);
+            this.mayın3_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayın3_btn_MouseUp);
             // 
             // mayın2_btn
             // 
@@ -1624,6 +1628,9 @@
             this.mayın2_btn.Size = new System.Drawing.Size(44, 44);
             this.mayın2_btn.TabIndex = 117;
             this.mayın2_btn.UseVisualStyleBackColor = false;
+            this.mayın2_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayın2_btn_MouseDown);
+            this.mayın2_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayın2_btn_MouseMove);
+            this.mayın2_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayın2_btn_MouseUp);
             // 
             // listBox1
             // 
@@ -1641,40 +1648,51 @@
             "3 adet kruvazör(3 karelik)",
             "1 adet amiral(4 karelik)",
             "3 adet mayın(1 karelik)"});
-            this.listBox1.Location = new System.Drawing.Point(200, 575);
+            this.listBox1.Location = new System.Drawing.Point(54, 553);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(203, 80);
+            this.listBox1.Size = new System.Drawing.Size(217, 80);
             this.listBox1.TabIndex = 129;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(618, 72);
+            this.label1.Font = new System.Drawing.Font("Bell MT", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(563, 71);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(0, 15);
             this.label1.TabIndex = 130;
-            this.label1.Text = "label1";
             // 
-            // button1
+            // exit
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button1.Font = new System.Drawing.Font("Bell MT", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(864, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(86, 35);
-            this.button1.TabIndex = 131;
-            this.button1.Text = "Oyunu Bitir";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.exit.BackColor = System.Drawing.Color.White;
+            this.exit.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.exit.Font = new System.Drawing.Font("Bell MT", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.exit.ForeColor = System.Drawing.Color.Black;
+            this.exit.Location = new System.Drawing.Point(864, 3);
+            this.exit.Name = "exit";
+            this.exit.Size = new System.Drawing.Size(86, 35);
+            this.exit.TabIndex = 131;
+            this.exit.Text = "Oyunu Bitir";
+            this.exit.UseVisualStyleBackColor = false;
+            this.exit.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // listBox2
+            // 
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.Location = new System.Drawing.Point(830, 127);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(98, 134);
+            this.listBox2.TabIndex = 132;
             // 
             // oyuncu1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(967, 681);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(967, 609);
+            this.Controls.Add(this.mayıng1_btn);
+            this.Controls.Add(this.listBox2);
+            this.Controls.Add(this.label16);
+            this.Controls.Add(this.exit);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.mayın3_btn);
@@ -1695,7 +1713,6 @@
             this.Controls.Add(this.fırkateyn2_btn);
             this.Controls.Add(this.fırkateyn1_btn);
             this.Controls.Add(this.label17);
-            this.Controls.Add(this.mayıng1_btn);
             this.Controls.Add(this.mayıng2_btn);
             this.Controls.Add(this.label20);
             this.Controls.Add(this.mayıng3_btn);
@@ -1714,9 +1731,7 @@
             this.Name = "oyuncu1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.oyuncu1_Load);
-            this.Click += new System.EventHandler(this.mayıng2_btn_Click);
             this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1861,6 +1876,7 @@
         private System.Windows.Forms.Button mayın2_btn;
         public System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button exit;
+        private System.Windows.Forms.ListBox listBox2;
     }
 }
