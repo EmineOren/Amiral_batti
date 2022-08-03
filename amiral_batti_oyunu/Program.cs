@@ -16,7 +16,7 @@ namespace amiral_batti_oyunu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new oyuncu1());
+            Application.Run(new Giriş_ekranı());
         }
     }
 }

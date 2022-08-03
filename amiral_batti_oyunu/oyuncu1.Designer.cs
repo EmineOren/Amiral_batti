@@ -1512,6 +1512,9 @@
             this.mayıng3_btn.Size = new System.Drawing.Size(95, 44);
             this.mayıng3_btn.TabIndex = 123;
             this.mayıng3_btn.UseVisualStyleBackColor = false;
+            this.mayıng3_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayıng3_btn_MouseDown);
+            this.mayıng3_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayıng3_btn_MouseMove);
+            this.mayıng3_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayıng3_btn_MouseUp);
             // 
             // mayıng2_btn
             // 
@@ -1522,6 +1525,9 @@
             this.mayıng2_btn.Size = new System.Drawing.Size(95, 44);
             this.mayıng2_btn.TabIndex = 119;
             this.mayıng2_btn.UseVisualStyleBackColor = false;
+            this.mayıng2_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayıng2_btn_MouseDown);
+            this.mayıng2_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayıng2_btn_MouseMove);
+            this.mayıng2_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayıng2_btn_MouseUp);
             // 
             // mayıng1_btn
             // 
@@ -1545,6 +1551,9 @@
             this.fırkateyn1_btn.Size = new System.Drawing.Size(176, 44);
             this.fırkateyn1_btn.TabIndex = 121;
             this.fırkateyn1_btn.UseVisualStyleBackColor = false;
+            this.fırkateyn1_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.fırkateyn1_btn_MouseDown);
+            this.fırkateyn1_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.fırkateyn1_btn_MouseMove);
+            this.fırkateyn1_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.fırkateyn1_btn_MouseUp);
             // 
             // fırkateyn2_btn
             // 
@@ -1555,6 +1564,9 @@
             this.fırkateyn2_btn.Size = new System.Drawing.Size(176, 44);
             this.fırkateyn2_btn.TabIndex = 116;
             this.fırkateyn2_btn.UseVisualStyleBackColor = false;
+            this.fırkateyn2_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.fırkateyn2_btn_MouseDown);
+            this.fırkateyn2_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.fırkateyn2_btn_MouseMove);
+            this.fırkateyn2_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.fırkateyn2_btn_MouseUp);
             // 
             // amiral_btn
             // 
@@ -1565,6 +1577,9 @@
             this.amiral_btn.Size = new System.Drawing.Size(176, 44);
             this.amiral_btn.TabIndex = 122;
             this.amiral_btn.UseVisualStyleBackColor = false;
+            this.amiral_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.amiral_btn_MouseDown);
+            this.amiral_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.amiral_btn_MouseMove);
+            this.amiral_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.amiral_btn_MouseUp);
             // 
             // mayıng4_btn
             // 
@@ -1575,6 +1590,9 @@
             this.mayıng4_btn.Size = new System.Drawing.Size(95, 44);
             this.mayıng4_btn.TabIndex = 128;
             this.mayıng4_btn.UseVisualStyleBackColor = false;
+            this.mayıng4_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mayıng4_btn_MouseDown);
+            this.mayıng4_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mayıng4_btn_MouseMove);
+            this.mayıng4_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.mayıng4_btn_MouseUp);
             // 
             // kruvazör1_btn
             // 
@@ -1585,6 +1603,9 @@
             this.kruvazör1_btn.Size = new System.Drawing.Size(132, 44);
             this.kruvazör1_btn.TabIndex = 120;
             this.kruvazör1_btn.UseVisualStyleBackColor = false;
+            this.kruvazör1_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.kruvazör1_btn_MouseDown);
+            this.kruvazör1_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.kruvazör1_btn_MouseMove);
+            this.kruvazör1_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.kruvazör1_btn_MouseUp);
             // 
             // kruvazör2_btn
             // 
@@ -1595,6 +1616,9 @@
             this.kruvazör2_btn.Size = new System.Drawing.Size(132, 44);
             this.kruvazör2_btn.TabIndex = 121;
             this.kruvazör2_btn.UseVisualStyleBackColor = false;
+            this.kruvazör2_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.kruvazör2_btn_MouseDown);
+            this.kruvazör2_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.kruvazör2_btn_MouseMove);
+            this.kruvazör2_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.kruvazör2_btn_MouseUp);
             // 
             // kruvazör3_btn
             // 
@@ -1605,6 +1629,9 @@
             this.kruvazör3_btn.Size = new System.Drawing.Size(132, 44);
             this.kruvazör3_btn.TabIndex = 122;
             this.kruvazör3_btn.UseVisualStyleBackColor = false;
+            this.kruvazör3_btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.kruvazör3_btn_MouseDown);
+            this.kruvazör3_btn.MouseMove += new System.Windows.Forms.MouseEventHandler(this.kruvazör3_btn_MouseMove);
+            this.kruvazör3_btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.kruvazör3_btn_MouseUp);
             // 
             // mayın3_btn
             // 
@@ -1690,6 +1717,15 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(967, 609);
             this.Controls.Add(this.mayıng1_btn);
+            this.Controls.Add(this.mayıng4_btn);
+            this.Controls.Add(this.mayıng3_btn);
+            this.Controls.Add(this.mayıng2_btn);
+            this.Controls.Add(this.kruvazör3_btn);
+            this.Controls.Add(this.kruvazör1_btn);
+            this.Controls.Add(this.kruvazör2_btn);
+            this.Controls.Add(this.fırkateyn1_btn);
+            this.Controls.Add(this.fırkateyn2_btn);
+            this.Controls.Add(this.amiral_btn);
             this.Controls.Add(this.listBox2);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.exit);
@@ -1702,20 +1738,11 @@
             this.Controls.Add(this.mayın2_btn);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.label12);
-            this.Controls.Add(this.kruvazör3_btn);
-            this.Controls.Add(this.mayıng4_btn);
             this.Controls.Add(this.label13);
-            this.Controls.Add(this.kruvazör2_btn);
             this.Controls.Add(this.label14);
-            this.Controls.Add(this.amiral_btn);
-            this.Controls.Add(this.kruvazör1_btn);
             this.Controls.Add(this.label15);
-            this.Controls.Add(this.fırkateyn2_btn);
-            this.Controls.Add(this.fırkateyn1_btn);
             this.Controls.Add(this.label17);
-            this.Controls.Add(this.mayıng2_btn);
             this.Controls.Add(this.label20);
-            this.Controls.Add(this.mayıng3_btn);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.label21);
             this.Controls.Add(this.label43);
@@ -1730,7 +1757,6 @@
             this.Controls.Add(this.label39);
             this.Name = "oyuncu1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.oyuncu1_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -31,7 +31,7 @@ namespace amiral_batti_oyunu
 
 
 
-        /*mayın1 için*/
+            /*mayınlar için*/
         private void mayın1_btn_MouseDown(object sender, MouseEventArgs e)
         {
             butoneslestirme(mayın1_btn);
@@ -44,7 +44,6 @@ namespace amiral_batti_oyunu
                 silme();
             }
         }
-
         private void mayın1_btn_MouseMove(object sender, MouseEventArgs e)
         {
             if (suruklenme)// true ise
@@ -56,7 +55,6 @@ namespace amiral_batti_oyunu
                 
             }
         }
-
         private void mayın1_btn_MouseUp(object sender, MouseEventArgs e)
         {
             butoneslestirme(mayın1_btn);
@@ -65,10 +63,6 @@ namespace amiral_batti_oyunu
             eslestirme();
             
         }
-
-
-
-        /*mayın2 için*/
         private void mayın2_btn_MouseDown(object sender, MouseEventArgs e)
         {
             butoneslestirme(mayın2_btn);
@@ -81,7 +75,6 @@ namespace amiral_batti_oyunu
                 silme();
             }
         }
-
         private void mayın2_btn_MouseMove(object sender, MouseEventArgs e)
         {
             if (suruklenme)// true ise
@@ -93,7 +86,6 @@ namespace amiral_batti_oyunu
 
             }
         }
-
         private void mayın2_btn_MouseUp(object sender, MouseEventArgs e)
         {
             butoneslestirme(mayın2_btn);
@@ -102,9 +94,6 @@ namespace amiral_batti_oyunu
             eslestirme();
             
         }
-
-
-        /*mayın3 için*/
         private void mayın3_btn_MouseDown(object sender, MouseEventArgs e)
         {
             butoneslestirme(mayın3_btn);
@@ -117,7 +106,6 @@ namespace amiral_batti_oyunu
                 silme();
             }
         }
-
         private void mayın3_btn_MouseMove(object sender, MouseEventArgs e)
         {
             if (suruklenme)// true ise
@@ -128,7 +116,6 @@ namespace amiral_batti_oyunu
                 label1.Text = mayın3_btn.Top + "," + mayın3_btn.Left;
             }
         }
-
         private void mayın3_btn_MouseUp(object sender, MouseEventArgs e)
         {
             butoneslestirme(mayın3_btn);
@@ -137,6 +124,307 @@ namespace amiral_batti_oyunu
             eslestirme();
             
         }
+
+        private void mayıng1_btn_MouseDown(object sender, MouseEventArgs e) //mayın gemilerim için
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                mayıng1_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "mayıng1_btn";
+                silme();
+
+            }
+        }
+        private void mayıng1_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                mayıng1_btn.Left = e.X + mayıng1_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                mayıng1_btn.Top = e.Y + mayıng1_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = mayıng1_btn.Top + "," + mayıng1_btn.Left;
+            }
+        }
+        private void mayıng1_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(mayıng1_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            mayıng1_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+
+        }
+        private void mayıng2_btn_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                mayıng2_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "mayıng2_btn";
+                silme();
+
+            }
+        }
+        private void mayıng2_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                mayıng2_btn.Left = e.X + mayıng2_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                mayıng2_btn.Top = e.Y + mayıng2_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = mayıng2_btn.Top + "," + mayıng2_btn.Left;
+            }
+        }
+        private void mayıng2_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(mayıng2_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            mayıng2_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+
+        }
+        private void mayıng3_btn_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                mayıng3_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "mayıng3_btn";
+                silme();
+
+            }
+        }
+        private void mayıng3_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                mayıng3_btn.Left = e.X + mayıng3_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                mayıng3_btn.Top = e.Y + mayıng3_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = mayıng3_btn.Top + "," + mayıng3_btn.Left;
+            }
+        }
+        private void mayıng3_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(mayıng3_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            mayıng3_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+        }
+        private void mayıng4_btn_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                mayıng4_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "mayıng4_btn";
+                silme();
+
+            }
+        }
+        private void mayıng4_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                mayıng4_btn.Left = e.X + mayıng4_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                mayıng4_btn.Top = e.Y + mayıng4_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = mayıng4_btn.Top + "," + mayıng4_btn.Left;
+            }
+        }
+        private void mayıng4_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(mayıng4_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            mayıng4_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+        }
+
+        private void kruvazör1_btn_MouseDown(object sender, MouseEventArgs e) //kruvazör gemilerim için
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                kruvazör1_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "kruvazör1_btn";
+                silme();
+
+            }
+        }
+        private void kruvazör1_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                kruvazör1_btn.Left = e.X + kruvazör1_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                kruvazör1_btn.Top = e.Y + kruvazör1_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = kruvazör1_btn.Top + "," + kruvazör1_btn.Left;
+            }
+        }
+        private void kruvazör1_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(kruvazör1_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            kruvazör1_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+        }
+        private void kruvazör2_btn_MouseDown(object sender, MouseEventArgs e)
+        {
+            if(e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                kruvazör2_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "kruvazör2_btn";
+                silme();
+
+            }
+        }
+        private void kruvazör2_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                kruvazör2_btn.Left = e.X + kruvazör2_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                kruvazör2_btn.Top = e.Y + kruvazör2_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = kruvazör2_btn.Top + "," + kruvazör2_btn.Left;
+            }
+        }
+        private void kruvazör2_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(kruvazör2_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            kruvazör2_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+        }
+        private void kruvazör3_btn_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                kruvazör3_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "kruvazör3_btn";
+                silme();
+
+            }
+        }
+        private void kruvazör3_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                kruvazör3_btn.Left = e.X + kruvazör3_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                kruvazör3_btn.Top = e.Y + kruvazör3_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = kruvazör3_btn.Top + "," + kruvazör3_btn.Left;
+            }
+        }
+        private void kruvazör3_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(kruvazör3_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            kruvazör2_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+        }
+
+        private void fırkateyn1_btn_MouseDown(object sender, MouseEventArgs e) //fırkateyn gemilerim için
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                fırkateyn1_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "fırkateyn1_btn";
+                silme();
+
+            }
+        }
+        private void fırkateyn1_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                fırkateyn1_btn.Left = e.X + fırkateyn1_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                fırkateyn1_btn.Top = e.Y +fırkateyn1_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = fırkateyn1_btn.Top + "," + fırkateyn1_btn.Left;
+            }
+        }
+        private void fırkateyn1_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(fırkateyn1_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            fırkateyn1_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+        }
+        private void fırkateyn2_btn_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                fırkateyn2_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "fırkateyn2_btn";
+                silme();
+
+            }
+        }
+        private void fırkateyn2_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                fırkateyn2_btn.Left = e.X + fırkateyn2_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                fırkateyn2_btn.Top = e.Y + fırkateyn2_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = fırkateyn2_btn.Top + "," + fırkateyn2_btn.Left;
+            }
+        }
+        private void fırkateyn2_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(fırkateyn2_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            fırkateyn2_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+        }
+
+        private void amiral_btn_MouseDown(object sender, MouseEventArgs e) // amiral gemim için
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                suruklenme = true;// işlemi başlatıyorum.
+                amiral_btn.Cursor = Cursors.SizeAll;
+                ilkkonum_alma = e.Location;
+                kullanılangemi = "amiral_btn";
+                silme();
+
+            }
+        }
+        private void amiral_btn_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (suruklenme) // true ise
+            {
+                amiral_btn.Left = e.X + amiral_btn.Left - (ilkkonum_alma.X);
+                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
+                amiral_btn.Top = e.Y + amiral_btn.Top - (ilkkonum_alma.Y);
+                label1.Text = amiral_btn.Top + "," + amiral_btn.Left;
+            }
+        }
+        private void amiral_btn_MouseUp(object sender, MouseEventArgs e)
+        {
+            butoneslestirme(amiral_btn);
+            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
+            amiral_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
+            eslestirme();
+        }
+
+
+
+
+
 
 
 
@@ -215,7 +503,7 @@ namespace amiral_batti_oyunu
                             break;
                     }
                     break;
-                }//a1 b4 deger döncek
+                } //a1 b4 deger dönecek.
             }
 
         }
@@ -238,14 +526,53 @@ namespace amiral_batti_oyunu
                 {
                     mayın3_btn.Location = new Point(565, 255);
                 }
-                //mayıng1_btn.Location = new Point(558, 399);//mayın gemisi1
+                else if (kullanılangemi == "mayıng1_btn")
+                {
+                    mayıng1_btn.Location = new Point(558,399);
+                }
+                else if (kullanılangemi == "mayıng2_btn")
+                {
+                    mayıng2_btn.Location = new Point(654,399);
+                }
+                else if (kullanılangemi == "mayıng3_btn")
+                {
+                    mayıng3_btn.Location = new Point(654,444);
+                }
+                else if (kullanılangemi == "mayıng4_btn")
+                {
+                    mayıng4_btn.Location = new Point(558,444);
+                }
+                else if (kullanılangemi == "kruvazör1_btn")
+                {
+                    kruvazör1_btn.Location = new Point(613,304);
+                }
+                else if(kullanılangemi =="kruvazör2_btn")
+                {
+                    kruvazör2_btn.Location = new Point(612,254);
+                }
+                else if(kullanılangemi == "kruvazör3_btn")
+                {
+                    kruvazör3_btn.Location = new Point(613,353);
+                }
+                else if(kullanılangemi== "fırkateyn1_btn")
+                {
+                    fırkateyn1_btn.Location = new Point(566, 206);
+                }
+                else if(kullanılangemi== "fırkateyn2_btn")
+                {
+                    fırkateyn2_btn.Location = new Point(565,156);
+                }
+                else 
+                {
+                    amiral_btn.Location = new Point(565,107);
+                }
+                
                 label1.Text = "Filo kartına yerleşim yapınız";
 
             }
-
+            
             else if (dolumu(GemiHarfKonumu + (GemiSayıKonumu + 1)))
             {
-                // mayıng1_btn.Location = new Point(558, 399);
 
                 if (kullanılangemi == "mayın1_btn")
                 {
@@ -259,7 +586,50 @@ namespace amiral_batti_oyunu
                 {
                     mayın3_btn.Location = new Point(565, 255);
                 }
+                else if (kullanılangemi == "mayıng1_btn")
+                {
+                    mayıng1_btn.Location = new Point(558, 399);
+                }
+                else if (kullanılangemi == "mayıng2_btn")
+                {
+                    mayıng2_btn.Location = new Point(654, 399);
+                }
+                else if (kullanılangemi == "mayıng3_btn")
+                {
+                    mayıng3_btn.Location = new Point(654, 444);
+                }
+                else if (kullanılangemi == "mayıng4_btn")
+                {
+                    mayıng4_btn.Location = new Point(558, 444);
+                }
+                else if (kullanılangemi == "kruvazör1_btn")
+                {
+                    kruvazör1_btn.Location = new Point(613, 304);
+                }
+                else if (kullanılangemi == "kruvazör2_btn")
+                {
+                    kruvazör2_btn.Location = new Point(612, 254);
+                }
+                else if (kullanılangemi == "kruvazör3_btn")
+                {
+                    kruvazör3_btn.Location = new Point(613, 353);
+                }
+                else if (kullanılangemi == "fırkateyn1_btn")
+                {
+                    fırkateyn1_btn.Location = new Point(566, 206);
+                }
+                else if (kullanılangemi == "fırkateyn2_btn")
+                {
+                    fırkateyn2_btn.Location = new Point(565, 156);
+                }
+                else
+                {
+                    amiral_btn.Location = new Point(565, 107);
+                }
+
+
                 label1.Text = "Bu alana yerleşim yapılmış";
+                
 
             }
             else
@@ -284,9 +654,10 @@ namespace amiral_batti_oyunu
                   uzunluk.Add(aranıyor);
                   return false;
               }
-            //Console.WriteLine(uzunluk);
+            
              return true;
           }
+
         private void silme()
         {
             if (uzunluk.IndexOf(GemiHarfKonumu + (GemiSayıKonumu + 1)) != -1)
@@ -302,53 +673,14 @@ namespace amiral_batti_oyunu
         {
             Application.Exit();
         }
-
-
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void mayıng1_btn_MouseDown(object sender, MouseEventArgs e) //mayın gemilerim için
-        {
-            if (e.Button == MouseButtons.Left)
-            {
-                suruklenme = true;// işlemi başlatıyorum.
-                mayıng1_btn.Cursor = Cursors.SizeAll;
-                ilkkonum_alma = e.Location;
-                kullanılangemi = "mayıng1_btn";
-                //silme();
-
-            }
-        }
-        private void mayıng1_btn_MouseMove(object sender, MouseEventArgs e)
-        {
-            if (suruklenme) // true ise
-            {
-                mayıng1_btn.Left = e.X + mayıng1_btn.Left - (ilkkonum_alma.X);
-                // left ile soldan uzaklığı ayarladm. e.X burada Mausenin buton üzerinde hareketi+ sola olan uzaklık eklendi - Mausenin tıklandıgı alan
-                mayıng1_btn.Top = e.Y + mayıng1_btn.Top - (ilkkonum_alma.Y);
-                label1.Text = mayıng1_btn.Top + "," + mayıng1_btn.Left;
-            }
-        }
-
         private void oyuncu1_Load(object sender, EventArgs e)
         {
             butonKonumBelirleme();
         }
-
-        private void mayıng1_btn_MouseUp(object sender, MouseEventArgs e)
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
-            suruklenme = false; // sol tuştan elimi çektim, sürükle işlemi bitti.
-            mayıng1_btn.Cursor = Cursors.Default; // imlecimiz(cursor) default değerini aldı.
-            butoneslestirme(mayıng1_btn);
 
         }
+ 
     }
 }
-
-      
-  
-
-
